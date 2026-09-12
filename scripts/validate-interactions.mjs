@@ -3,6 +3,10 @@ import {readFile} from 'node:fs/promises';
 import {createExplosionLayout} from '../app/explosion-layout.ts';
 import {PointerTap} from '../app/pointer-tap.ts';
 import {atlasTools} from '../app/agent-tools.ts';
+import {normalizeSearchQuery,anatomySearchText} from '../app/anatomy-localization.ts';
+
+assert.equal(normalizeSearchQuery('  FMA\u00a00001   '),'fma 0001');
+assert.equal(anatomySearchText('FMA:1','Heart',{ 'FMA:1': {en:'Heart',ru:'Сердце',system:'cardiac',aliases:['сердечко']} }), 'heart сердце сердечко');
 
 for (const file of ['atlas.json']) {
   const atlas=JSON.parse(await readFile(new URL(`../public/models/${file}`,import.meta.url)));

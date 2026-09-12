@@ -9,6 +9,10 @@ export type AnatomyTranslation = {
 
 export type AnatomyTranslations = Record<string,AnatomyTranslation>;
 
+export function normalizeSearchQuery(value:string) {
+  return value.normalize('NFKC').trim().replace(/\s+/g,' ').toLocaleLowerCase();
+}
+
 export function anatomyName(
   conceptId:string,
   englishName:string,
@@ -30,5 +34,5 @@ export function anatomySearchText(
   const ru=entry?.ru?.trim() ?? '';
   const aliases=entry?.aliases?.join(' ') ?? '';
 
-  return `${englishName} ${ru} ${aliases}`.toLowerCase();
+  return normalizeSearchQuery(`${englishName} ${ru} ${aliases}`);
 }
