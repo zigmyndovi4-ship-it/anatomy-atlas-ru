@@ -1,0 +1,251 @@
+conceptId	en	ru	aliases
+FMA9577	abdomen		
+FMA61680	abdomen proper		
+FMA3789	abdominal aorta		
+FMA45875	abdominal part of left pectoralis major		
+FMA34699	abdominal part of pectoralis major		
+FMA45874	abdominal part of right pectoralis major		
+FMA259211	abdominal segment of trunk		
+FMA37451	abductor digiti minimi of foot		
+FMA37382	abductor digiti minimi of hand		
+FMA37464	abductor digiti minimi of left foot		
+FMA37397	abductor digiti minimi of left hand		
+FMA37463	abductor digiti minimi of right foot		
+FMA37396	abductor digiti minimi of right hand		
+FMA37448	abductor hallucis		
+FMA37373	abductor pollicis brevis		
+FMA38515	abductor pollicis longus		
+FMA5011	accessory hemiazygos vein		
+FMA68734	accessory subsuperior branch of posterior basal segmental artery		
+FMA68735	accessory subsuperior branch of right posterior basal segmental artery		
+FMA23069	acromial branch of left thoraco-acromial artery		
+FMA23068	acromial branch of right thoraco-acromial artery		
+FMA23065	acromial branch of thoraco-acromial artery		
+FMA34678	acromial part of deltoid		
+FMA34683	acromial part of left deltoid		
+FMA34682	acromial part of right deltoid		
+FMA22442	adductor brevis		
+FMA22441	adductor longus		
+FMA22443	adductor magnus		
+FMA43885	adductor minimus		
+FMA7152	alimentary system		
+FMA61841	amygdala		
+FMA20347	anal part of perineum		
+FMA3726	anastomosis		
+FMA50705	anatomical boundary entity		
+FMA49443	anatomical cluster		
+FMA84926	anatomical compartment space		
+FMA62955	anatomical entity		
+FMA5898	anatomical junction		
+FMA9657	anatomical line		
+FMA55652	anatomical set		
+FMA67135	anatomical structure		
+FMA37704	anconeus		
+FMA61898	angular gyrus		
+FMA14627	anterior abdominal wall		
+FMA8717	anterior basal segmental artery		
+FMA68219	anterior basal segmental bronchial tree		
+FMA13290	anterior basal segmental vein		
+FMA13914	anterior branch of anterior interventricular branch of left coronary artery		
+FMA68682	anterior branch of anterior segmental artery		
+FMA68691	anterior branch of lateral segmental artery		
+FMA68683	anterior branch of right anterior segmental artery		
+FMA15419	anterior branch of right portal vein		
+FMA76767	anterior cardiac vein		
+FMA4717	anterior cardiac venous tree		
+FMA14816	anterior cecal artery		
+FMA50028	anterior cerebral artery		
+FMA58078	anterior chamber of eyeball		
+FMA58082	anterior chamber of left eyeball		
+FMA58081	anterior chamber of right eyeball		
+FMA24816	anterior chest		
+FMA87543	anterior chest wall		
+FMA50087	anterior choroidal artery		
+FMA22680	anterior circumflex humeral artery		
+FMA77499	anterior circumflex humeral vein		
+FMA61961	anterior commissure		
+FMA50169	anterior communicating artery		
+FMA70487	anterior division of left renal artery		
+FMA70485	anterior division of renal artery		
+FMA70486	anterior division of right renal artery		
+FMA52675	anterior ethmoidal nerve		
+FMA50544	anterior inferior cerebellar artery		
+FMA70479	anterior inferior pancreaticoduodenal artery		
+FMA15421	anterior inferior segmental branch of right portal vein		
+FMA70443	anterior inferior segmental hepatic artery		
+FMA15800	anterior inferior segmental tributary of middle hepatic vein		
+FMA71868	anterior inferior tributary of right hepatic biliary tree		
+FMA22810	anterior interosseous artery		
+FMA3862	anterior interventricular branch of left coronary artery		
+FMA66403	anterior interventricular vein		
+FMA7260	anterior papillary muscle of right ventricle		
+FMA50485	anterior parietal artery		
+FMA68664	anterior part of apical segmental artery		
+FMA68920	anterior part of apical segmental vein		
+FMA68945	anterior part of lateral segmental vein		
+FMA73056	anterior part of left knee		
+FMA72801	anterior part of left superior temporal gyrus		
+FMA68665	anterior part of right apical segmental artery		
+FMA68921	anterior part of right apical segmental vein		
+FMA73055	anterior part of right knee		
+FMA72800	anterior part of right superior temporal gyrus		
+FMA70701	anterior part of superior temporal gyrus		
+FMA15750	anterior sector of left liver		
+FMA15748	anterior sector of right liver		
+FMA13278	anterior segmental artery		
+FMA68235	anterior segmental bronchial tree		
+FMA70441	anterior segmental hepatic artery		
+FMA13442	anterior segmental vein		
+FMA50531	anterior spinal artery		
+FMA64875	anterior suboccipital muscle		
+FMA50063	anterior superficial chest wall		
+FMA14782	anterior superior pancreaticoduodenal artery		
+FMA15420	anterior superior segmental branch of right portal vein		
+FMA70442	anterior superior segmental hepatic artery		
+FMA15798	anterior superior segmental tributary of right hepatic vein		
+FMA71867	anterior superior tributary of right hepatic biliary tree		
+FMA50382	anterior temporal artery		
+FMA50648	anterior temporal branch of lateral occipital artery		
+FMA50679	anterior temporal branch of left lateral occipital artery		
+FMA50678	anterior temporal branch of right lateral occipital artery		
+FMA87542	anterior thoracic wall		
+FMA43894	anterior tibial artery		
+FMA43902	anterior tibial recurrent artery		
+FMA44331	anterior tibial vein		
+FMA71861	anterior tributary of right hepatic biliary tree		
+FMA22800	anterior ulnar recurrent artery		
+FMA3813	anterior ventricular branch of right coronary artery		
+FMA9560	anterior wall of left ventricle		
+FMA9553	anterior wall of right ventricle		
+FMA68843	antero-medial basal segmental artery		
+FMA50378	anterolateral central branch of left middle cerebral artery		
+FMA50376	anterolateral central branch of middle cerebral artery		
+FMA50377	anterolateral central branch of right middle cerebral artery		
+FMA7265	anterolateral head of lateral papillary muscle of left ventricle		
+FMA3734	aorta		
+FMA68661	apical part of apical segmental artery		
+FMA68919	apical part of apical segmental vein		
+FMA68669	apical part of posterior segmental artery		
+FMA68662	apical part of right apical segmental artery		
+FMA8681	apical part of right apical segmental vein		
+FMA68670	apical part of right posterior segmental artery		
+FMA8707	apical segmental artery		
+FMA68234	apical segmental bronchial tree		
+FMA13444	apical segmental vein		
+FMA7372	apicoposterior bronchopulmonary segment		
+FMA68659	apicoposterior division of right upper lobar artery		
+FMA8666	apicoposterior segmental vein		
+FMA14818	appendicular artery		
+FMA14542	appendix		
+FMA3768	arch of aorta		
+FMA44594	arcuate artery		
+FMA22762	arteria princeps pollicis		
+FMA22763	arteria radialis indicis		
+FMA3728	arterial anastomosis		
+FMA30313	arterial trunk		
+FMA50720	artery		
+FMA77439	artery of central sulcus		
+FMA50484	artery of left postcentral sulcus		
+FMA50481	artery of left precentral sulcus		
+FMA50482	artery of postcentral sulcus		
+FMA50479	artery of precentral sulcus		
+FMA50483	artery of right postcentral sulcus		
+FMA50480	artery of right precentral sulcus		
+FMA67396	articular disk of symphysis		
+FMA46602	aryepiglotticus		
+FMA55109	arytenoid cartilage		
+FMA3736	ascending aorta		
+FMA14820	ascending branch of inferior branch of ileocolic artery		
+FMA14828	ascending branch of left colic artery		
+FMA14545	ascending colon		
+FMA12858	ascending lumbar vein		
+FMA33583	ascending part of left trapezius		
+FMA33581	ascending part of right trapezius		
+FMA32555	ascending part of trapezius		
+FMA12519	atlas		
+FMA7596	atypical rib		
+FMA5889	autonomic ganglion		
+FMA7483	axial skeletal system		
+FMA71221	axial skeleton		
+FMA22654	axillary artery		
+FMA13329	axillary vein		
+FMA12520	axis		
+FMA4838	azygos vein		
+FMA61681	back of abdomen		
+FMA24189	back of neck		
+FMA24217	back of thorax		
+FMA68722	basal branch of anterior basal segmental artery		
+FMA68723	basal branch of right anterior basal segmental artery		
+FMA62514	basal ganglion of telencephalon		
+FMA68238	basal segmental bronchial tree		
+FMA270201	basicranial part of head proper		
+FMA52801	basicranium		
+FMA50542	basilar artery		
+FMA22908	basilic vein		
+FMA9706	bile duct		
+FMA14665	biliary tree		
+FMA260456	body cavity content		
+FMA7563	body compartment		
+FMA45734	body of organ		
+FMA7487	body of sternum		
+FMA231424	body proper		
+FMA10427	body wall		
+FMA5018	bone organ		
+FMA59837	bony part of nasal septum		
+FMA16580	bony pelvis		
+FMA22689	brachial artery		
+FMA22934	brachial vein		
+FMA37667	brachialis		
+FMA3932	brachiocephalic artery		
+FMA4723	brachiocephalic vein		
+FMA38485	brachioradialis		
+FMA71114	brachium of inferior colliculus		
+FMA73464	brachium of left inferior colliculus		
+FMA73462	brachium of left superior colliculus		
+FMA83857	brachium of neuraxis		
+FMA73463	brachium of right inferior colliculus		
+FMA73461	brachium of right superior colliculus		
+FMA72417	brachium of superior colliculus		
+FMA79876	brainstem		
+FMA50031	branch of anterior cerebral artery		
+FMA50112	branch of anterior choroidal artery		
+FMA50119	branch of anterior choroidal artery to posterior limb of internal capsule		
+FMA13921	branch of anterior interventricular branch of left coronary artery		
+FMA22842	branch of arterial anastomosis		
+FMA76269	branch of basilar artery		
+FMA22693	branch of brachial artery		
+FMA50331	branch of callosomarginal artery		
+FMA51886	branch of cerebral arterial circle		
+FMA7037	branch of ciliary ganglion		
+FMA22809	branch of common interosseous artery		
+FMA52570	branch of cranial nerve		
+FMA23117	branch of deep brachial artery		
+FMA22843	branch of deep palmar arterial arch		
+FMA85109	branch of first common palmar digital artery		
+FMA52641	branch of frontal nerve		
+FMA14821	branch of ileocolic artery		
+FMA21520	branch of inferior branch of ileocolic artery		
+FMA20803	branch of lateral circumflex femoral artery		
+FMA50647	branch of lateral occipital artery		
+FMA43940	branch of lateral plantar artery		
+FMA50147	branch of left anterior choroidal artery to posterior limb of left internal capsule		
+FMA66328	branch of left coronary artery		
+FMA50477	branch of left middle cerebral artery to left angular gyrus		
+FMA50694	branch of medial branch of superior cerebellar artery		
+FMA50651	branch of medial occipital artery		
+FMA43941	branch of medial plantar artery		
+FMA50081	branch of middle cerebral artery		
+FMA50475	branch of middle cerebral artery to angular gyrus		
+FMA52671	branch of nasociliary nerve		
+FMA52571	branch of oculomotor nerve		
+FMA52624	branch of ophthalmic nerve		
+FMA50338	branch of pericallosal artery		
+FMA50563	branch of pontine artery		
+FMA79615	branch of postcommunicating part of anterior cerebral artery		
+FMA50586	branch of posterior cerebral artery		
+FMA86127	branch of posterior choroidal artery		
+FMA50168	branch of posterior communicating artery		
+FMA69784	branch of posterior tibial artery		
+FMA22738	branch of radial artery		
+FMA50146	branch of right anterior choroidal artery to posterior limb of right internal capsule		
+FMA66327	branch of right coronary artery		

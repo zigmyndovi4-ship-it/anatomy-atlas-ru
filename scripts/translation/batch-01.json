@@ -1,0 +1,1502 @@
+[
+  {
+    "conceptId": "FMA9577",
+    "en": "abdomen",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA61680",
+    "en": "abdomen proper",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3789",
+    "en": "abdominal aorta",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA45875",
+    "en": "abdominal part of left pectoralis major",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA34699",
+    "en": "abdominal part of pectoralis major",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA45874",
+    "en": "abdominal part of right pectoralis major",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA259211",
+    "en": "abdominal segment of trunk",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37451",
+    "en": "abductor digiti minimi of foot",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37382",
+    "en": "abductor digiti minimi of hand",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37464",
+    "en": "abductor digiti minimi of left foot",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37397",
+    "en": "abductor digiti minimi of left hand",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37463",
+    "en": "abductor digiti minimi of right foot",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37396",
+    "en": "abductor digiti minimi of right hand",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37448",
+    "en": "abductor hallucis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37373",
+    "en": "abductor pollicis brevis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA38515",
+    "en": "abductor pollicis longus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA5011",
+    "en": "accessory hemiazygos vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68734",
+    "en": "accessory subsuperior branch of posterior basal segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68735",
+    "en": "accessory subsuperior branch of right posterior basal segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA23069",
+    "en": "acromial branch of left thoraco-acromial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA23068",
+    "en": "acromial branch of right thoraco-acromial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA23065",
+    "en": "acromial branch of thoraco-acromial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA34678",
+    "en": "acromial part of deltoid",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA34683",
+    "en": "acromial part of left deltoid",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA34682",
+    "en": "acromial part of right deltoid",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22442",
+    "en": "adductor brevis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22441",
+    "en": "adductor longus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22443",
+    "en": "adductor magnus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA43885",
+    "en": "adductor minimus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7152",
+    "en": "alimentary system",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA61841",
+    "en": "amygdala",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA20347",
+    "en": "anal part of perineum",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3726",
+    "en": "anastomosis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50705",
+    "en": "anatomical boundary entity",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA49443",
+    "en": "anatomical cluster",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA84926",
+    "en": "anatomical compartment space",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA62955",
+    "en": "anatomical entity",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA5898",
+    "en": "anatomical junction",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA9657",
+    "en": "anatomical line",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA55652",
+    "en": "anatomical set",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA67135",
+    "en": "anatomical structure",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37704",
+    "en": "anconeus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA61898",
+    "en": "angular gyrus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14627",
+    "en": "anterior abdominal wall",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA8717",
+    "en": "anterior basal segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68219",
+    "en": "anterior basal segmental bronchial tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA13290",
+    "en": "anterior basal segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA13914",
+    "en": "anterior branch of anterior interventricular branch of left coronary artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68682",
+    "en": "anterior branch of anterior segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68691",
+    "en": "anterior branch of lateral segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68683",
+    "en": "anterior branch of right anterior segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA15419",
+    "en": "anterior branch of right portal vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA76767",
+    "en": "anterior cardiac vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA4717",
+    "en": "anterior cardiac venous tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14816",
+    "en": "anterior cecal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50028",
+    "en": "anterior cerebral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA58078",
+    "en": "anterior chamber of eyeball",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA58082",
+    "en": "anterior chamber of left eyeball",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA58081",
+    "en": "anterior chamber of right eyeball",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA24816",
+    "en": "anterior chest",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA87543",
+    "en": "anterior chest wall",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50087",
+    "en": "anterior choroidal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22680",
+    "en": "anterior circumflex humeral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA77499",
+    "en": "anterior circumflex humeral vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA61961",
+    "en": "anterior commissure",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50169",
+    "en": "anterior communicating artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA70487",
+    "en": "anterior division of left renal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA70485",
+    "en": "anterior division of renal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA70486",
+    "en": "anterior division of right renal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA52675",
+    "en": "anterior ethmoidal nerve",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50544",
+    "en": "anterior inferior cerebellar artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA70479",
+    "en": "anterior inferior pancreaticoduodenal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA15421",
+    "en": "anterior inferior segmental branch of right portal vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA70443",
+    "en": "anterior inferior segmental hepatic artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA15800",
+    "en": "anterior inferior segmental tributary of middle hepatic vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA71868",
+    "en": "anterior inferior tributary of right hepatic biliary tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22810",
+    "en": "anterior interosseous artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3862",
+    "en": "anterior interventricular branch of left coronary artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA66403",
+    "en": "anterior interventricular vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7260",
+    "en": "anterior papillary muscle of right ventricle",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50485",
+    "en": "anterior parietal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68664",
+    "en": "anterior part of apical segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68920",
+    "en": "anterior part of apical segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68945",
+    "en": "anterior part of lateral segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA73056",
+    "en": "anterior part of left knee",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA72801",
+    "en": "anterior part of left superior temporal gyrus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68665",
+    "en": "anterior part of right apical segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68921",
+    "en": "anterior part of right apical segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA73055",
+    "en": "anterior part of right knee",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA72800",
+    "en": "anterior part of right superior temporal gyrus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA70701",
+    "en": "anterior part of superior temporal gyrus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA15750",
+    "en": "anterior sector of left liver",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA15748",
+    "en": "anterior sector of right liver",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA13278",
+    "en": "anterior segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68235",
+    "en": "anterior segmental bronchial tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA70441",
+    "en": "anterior segmental hepatic artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA13442",
+    "en": "anterior segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50531",
+    "en": "anterior spinal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA64875",
+    "en": "anterior suboccipital muscle",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50063",
+    "en": "anterior superficial chest wall",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14782",
+    "en": "anterior superior pancreaticoduodenal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA15420",
+    "en": "anterior superior segmental branch of right portal vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA70442",
+    "en": "anterior superior segmental hepatic artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA15798",
+    "en": "anterior superior segmental tributary of right hepatic vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA71867",
+    "en": "anterior superior tributary of right hepatic biliary tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50382",
+    "en": "anterior temporal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50648",
+    "en": "anterior temporal branch of lateral occipital artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50679",
+    "en": "anterior temporal branch of left lateral occipital artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50678",
+    "en": "anterior temporal branch of right lateral occipital artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA87542",
+    "en": "anterior thoracic wall",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA43894",
+    "en": "anterior tibial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA43902",
+    "en": "anterior tibial recurrent artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA44331",
+    "en": "anterior tibial vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA71861",
+    "en": "anterior tributary of right hepatic biliary tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22800",
+    "en": "anterior ulnar recurrent artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3813",
+    "en": "anterior ventricular branch of right coronary artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA9560",
+    "en": "anterior wall of left ventricle",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA9553",
+    "en": "anterior wall of right ventricle",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68843",
+    "en": "antero-medial basal segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50378",
+    "en": "anterolateral central branch of left middle cerebral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50376",
+    "en": "anterolateral central branch of middle cerebral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50377",
+    "en": "anterolateral central branch of right middle cerebral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7265",
+    "en": "anterolateral head of lateral papillary muscle of left ventricle",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3734",
+    "en": "aorta",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68661",
+    "en": "apical part of apical segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68919",
+    "en": "apical part of apical segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68669",
+    "en": "apical part of posterior segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68662",
+    "en": "apical part of right apical segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA8681",
+    "en": "apical part of right apical segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68670",
+    "en": "apical part of right posterior segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA8707",
+    "en": "apical segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68234",
+    "en": "apical segmental bronchial tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA13444",
+    "en": "apical segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7372",
+    "en": "apicoposterior bronchopulmonary segment",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68659",
+    "en": "apicoposterior division of right upper lobar artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA8666",
+    "en": "apicoposterior segmental vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14818",
+    "en": "appendicular artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14542",
+    "en": "appendix",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3768",
+    "en": "arch of aorta",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA44594",
+    "en": "arcuate artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22762",
+    "en": "arteria princeps pollicis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22763",
+    "en": "arteria radialis indicis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3728",
+    "en": "arterial anastomosis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA30313",
+    "en": "arterial trunk",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50720",
+    "en": "artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA77439",
+    "en": "artery of central sulcus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50484",
+    "en": "artery of left postcentral sulcus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50481",
+    "en": "artery of left precentral sulcus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50482",
+    "en": "artery of postcentral sulcus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50479",
+    "en": "artery of precentral sulcus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50483",
+    "en": "artery of right postcentral sulcus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50480",
+    "en": "artery of right precentral sulcus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA67396",
+    "en": "articular disk of symphysis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA46602",
+    "en": "aryepiglotticus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA55109",
+    "en": "arytenoid cartilage",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3736",
+    "en": "ascending aorta",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14820",
+    "en": "ascending branch of inferior branch of ileocolic artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14828",
+    "en": "ascending branch of left colic artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14545",
+    "en": "ascending colon",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA12858",
+    "en": "ascending lumbar vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA33583",
+    "en": "ascending part of left trapezius",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA33581",
+    "en": "ascending part of right trapezius",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA32555",
+    "en": "ascending part of trapezius",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA12519",
+    "en": "atlas",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7596",
+    "en": "atypical rib",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA5889",
+    "en": "autonomic ganglion",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7483",
+    "en": "axial skeletal system",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA71221",
+    "en": "axial skeleton",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22654",
+    "en": "axillary artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA13329",
+    "en": "axillary vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA12520",
+    "en": "axis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA4838",
+    "en": "azygos vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA61681",
+    "en": "back of abdomen",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA24189",
+    "en": "back of neck",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA24217",
+    "en": "back of thorax",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68722",
+    "en": "basal branch of anterior basal segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68723",
+    "en": "basal branch of right anterior basal segmental artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA62514",
+    "en": "basal ganglion of telencephalon",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA68238",
+    "en": "basal segmental bronchial tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA270201",
+    "en": "basicranial part of head proper",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA52801",
+    "en": "basicranium",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50542",
+    "en": "basilar artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22908",
+    "en": "basilic vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA9706",
+    "en": "bile duct",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14665",
+    "en": "biliary tree",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA260456",
+    "en": "body cavity content",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7563",
+    "en": "body compartment",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA45734",
+    "en": "body of organ",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7487",
+    "en": "body of sternum",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA231424",
+    "en": "body proper",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA10427",
+    "en": "body wall",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA5018",
+    "en": "bone organ",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA59837",
+    "en": "bony part of nasal septum",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA16580",
+    "en": "bony pelvis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22689",
+    "en": "brachial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22934",
+    "en": "brachial vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA37667",
+    "en": "brachialis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA3932",
+    "en": "brachiocephalic artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA4723",
+    "en": "brachiocephalic vein",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA38485",
+    "en": "brachioradialis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA71114",
+    "en": "brachium of inferior colliculus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA73464",
+    "en": "brachium of left inferior colliculus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA73462",
+    "en": "brachium of left superior colliculus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA83857",
+    "en": "brachium of neuraxis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA73463",
+    "en": "brachium of right inferior colliculus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA73461",
+    "en": "brachium of right superior colliculus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA72417",
+    "en": "brachium of superior colliculus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA79876",
+    "en": "brainstem",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50031",
+    "en": "branch of anterior cerebral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50112",
+    "en": "branch of anterior choroidal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50119",
+    "en": "branch of anterior choroidal artery to posterior limb of internal capsule",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA13921",
+    "en": "branch of anterior interventricular branch of left coronary artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22842",
+    "en": "branch of arterial anastomosis",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA76269",
+    "en": "branch of basilar artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22693",
+    "en": "branch of brachial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50331",
+    "en": "branch of callosomarginal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA51886",
+    "en": "branch of cerebral arterial circle",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA7037",
+    "en": "branch of ciliary ganglion",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22809",
+    "en": "branch of common interosseous artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA52570",
+    "en": "branch of cranial nerve",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA23117",
+    "en": "branch of deep brachial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22843",
+    "en": "branch of deep palmar arterial arch",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA85109",
+    "en": "branch of first common palmar digital artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA52641",
+    "en": "branch of frontal nerve",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA14821",
+    "en": "branch of ileocolic artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA21520",
+    "en": "branch of inferior branch of ileocolic artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA20803",
+    "en": "branch of lateral circumflex femoral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50647",
+    "en": "branch of lateral occipital artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA43940",
+    "en": "branch of lateral plantar artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50147",
+    "en": "branch of left anterior choroidal artery to posterior limb of left internal capsule",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA66328",
+    "en": "branch of left coronary artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50477",
+    "en": "branch of left middle cerebral artery to left angular gyrus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50694",
+    "en": "branch of medial branch of superior cerebellar artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50651",
+    "en": "branch of medial occipital artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA43941",
+    "en": "branch of medial plantar artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50081",
+    "en": "branch of middle cerebral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50475",
+    "en": "branch of middle cerebral artery to angular gyrus",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA52671",
+    "en": "branch of nasociliary nerve",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA52571",
+    "en": "branch of oculomotor nerve",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA52624",
+    "en": "branch of ophthalmic nerve",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50338",
+    "en": "branch of pericallosal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50563",
+    "en": "branch of pontine artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA79615",
+    "en": "branch of postcommunicating part of anterior cerebral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50586",
+    "en": "branch of posterior cerebral artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA86127",
+    "en": "branch of posterior choroidal artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50168",
+    "en": "branch of posterior communicating artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA69784",
+    "en": "branch of posterior tibial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA22738",
+    "en": "branch of radial artery",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA50146",
+    "en": "branch of right anterior choroidal artery to posterior limb of right internal capsule",
+    "ru": "",
+    "aliases": []
+  },
+  {
+    "conceptId": "FMA66327",
+    "en": "branch of right coronary artery",
+    "ru": "",
+    "aliases": []
+  }
+]
