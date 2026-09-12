@@ -3196,17 +3196,17 @@
   },
   "FMA15755": {
     "en": "region of anterior sector of right liver (in-vivo)",
-    "ru": "Область передняя сектор правый печень (ин-виво)",
+    "ru": "Область переднего сектора правой части печени",
     "system": "venous"
   },
   "FMA15756": {
     "en": "region of posterior sector of right liver (in-vivo)",
-    "ru": "Область задняя сектор правый печень (ин-виво)",
+    "ru": "Область заднего сектора правой части печени",
     "system": "venous"
   },
   "FMA15757": {
     "en": "region of anterior sector of left liver (in-vivo)",
-    "ru": "Область передняя сектор левый печень (ин-виво)",
+    "ru": "Область переднего сектора левой части печени",
     "system": "venous"
   },
   "FMA15791": {
@@ -5309,17 +5309,17 @@
   },
   "FMA23062": {
     "en": "pectoral branch of thoraco-acromial artery",
-    "ru": "Плечевой ветвь торако-акромиал артерия",
+    "ru": "Грудная ветвь грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA23063": {
     "en": "pectoral branch of right thoraco-acromial artery",
-    "ru": "Плечевой ветвь правый торако-акромиал артерия",
+    "ru": "Грудная ветвь правой грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA23064": {
     "en": "pectoral branch of left thoraco-acromial artery",
-    "ru": "Плечевой ветвь левый торако-акромиал артерия",
+    "ru": "Грудная ветвь левой грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA23065": {
@@ -5329,7 +5329,7 @@
   },
   "FMA23067": {
     "en": "deltoid branch of thoraco-acromial artery",
-    "ru": "Дельтовидная мышца ветвь торако-акромиал артерия",
+    "ru": "Дельтовидная ветвь грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA23068": {
@@ -5344,12 +5344,12 @@
   },
   "FMA23072": {
     "en": "deltoid branch of right thoraco-acromial artery",
-    "ru": "Дельтовидная мышца ветвь правый торако-акромиал артерия",
+    "ru": "Дельтовидная ветвь правой грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA23073": {
     "en": "deltoid branch of left thoraco-acromial artery",
-    "ru": "Дельтовидная мышца ветвь левый торако-акромиал артерия",
+    "ru": "Дельтовидная ветвь левой грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA23081": {
@@ -5414,22 +5414,22 @@
   },
   "FMA23124": {
     "en": "middle collateral branch of right deep brachial artery",
-    "ru": "Средняя коллатэрал ветвь правый глубокая плечевая артерия",
+    "ru": "Средняя коллатеральная ветвь правой глубокой плечевой артерии",
     "system": "arterial"
   },
   "FMA23125": {
     "en": "middle collateral branch of left deep brachial artery",
-    "ru": "Средняя коллатэрал ветвь левый глубокая плечевая артерия",
+    "ru": "Средняя коллатеральная ветвь левой глубокой плечевой артерии",
     "system": "arterial"
   },
   "FMA23126": {
     "en": "radial collateral branch of right deep brachial artery",
-    "ru": "Лучевая коллатэрал ветвь правый глубокая плечевая артерия",
+    "ru": "Лучевая коллатеральная ветвь правой глубокой плечевой артерии",
     "system": "arterial"
   },
   "FMA23127": {
     "en": "radial collateral branch of left deep brachial artery",
-    "ru": "Лучевая коллатэрал ветвь левый глубокая плечевая артерия",
+    "ru": "Лучевая коллатеральная ветвь левой глубокой плечевой артерии",
     "system": "arterial"
   },
   "FMA23130": {
@@ -6219,7 +6219,7 @@
   },
   "FMA32520": {
     "en": "intrinsic muscle of shoulder",
-    "ru": "Интринсик мышца плечо",
+    "ru": "Собственная мышца плеча",
     "system": "muscular"
   },
   "FMA32525": {
@@ -7638,17 +7638,17 @@
   },
   "FMA42380": {
     "en": "intrinsic muscle of hand",
-    "ru": "Интринсик мышца кисть",
+    "ru": "Собственная мышца кисти",
     "system": "muscular"
   },
   "FMA42398": {
     "en": "set of lumbricals of right hand",
-    "ru": "Совокупность лумбрикалс правый кисть",
+    "ru": "Совокупность червеобразных мышц правой кисти",
     "system": "muscular"
   },
   "FMA42399": {
     "en": "set of lumbricals of left hand",
-    "ru": "Совокупность лумбрикалс левый кисть",
+    "ru": "Совокупность червеобразных мышц левой кисти",
     "system": "muscular"
   },
   "FMA42402": {
@@ -9921,17 +9921,17 @@
   },
   "FMA50695": {
     "en": "superior vermian branch of medial branch of superior cerebellar artery",
-    "ru": "Верхняя вэрмиан ветвь медиальная ветвь верхняя мозжечковая артерия",
+    "ru": "Верхняя червячная ветвь медиальной ветви верхней мозжечковой артерии",
     "system": "arterial"
   },
   "FMA50696": {
     "en": "superior vermian branch of medial branch of right superior cerebellar artery",
-    "ru": "Верхняя вэрмиан ветвь медиальная ветвь правый верхняя мозжечковая артерия",
+    "ru": "Верхняя червячная ветвь медиальной ветви правой верхней мозжечковой артерии",
     "system": "arterial"
   },
   "FMA50697": {
     "en": "superior vermian branch of medial branch of left superior cerebellar artery",
-    "ru": "Верхняя вэрмиан ветвь медиальная ветвь левый верхняя мозжечковая артерия",
+    "ru": "Верхняя червячная ветвь медиальной ветви левой верхней мозжечковой артерии",
     "system": "arterial"
   },
   "FMA50705": {
@@ -10637,7 +10637,7 @@
   },
   "FMA55226": {
     "en": "intrinsic muscle of larynx",
-    "ru": "Интринсик мышца гортань",
+    "ru": "Собственная мышца гортани",
     "system": "muscular"
   },
   "FMA55227": {
@@ -11022,7 +11022,7 @@
   },
   "FMA57965": {
     "en": "zone of investing fascia",
-    "ru": "Зона инвэстинг фасция",
+    "ru": "Зона покрывающей фасции",
     "system": "skeletal"
   },
   "FMA58071": {
@@ -11142,12 +11142,12 @@
   },
   "FMA58420": {
     "en": "zone of investing fascia of free lower limb",
-    "ru": "Зона инвэстинг фасция свободная нижняя конечность",
+    "ru": "Зона покрывающей фасции свободной нижней конечности",
     "system": "skeletal"
   },
   "FMA58421": {
     "en": "zone of investing fascia of lower limb",
-    "ru": "Зона инвэстинг фасция нижняя конечность",
+    "ru": "Зона покрывающей фасции нижней конечности",
     "system": "skeletal"
   },
   "FMA58431": {
@@ -11192,7 +11192,7 @@
   },
   "FMA58741": {
     "en": "zone of investing fascia of thigh",
-    "ru": "Зона инвэстинг фасция бедро",
+    "ru": "Зона покрывающей фасции бедра",
     "system": "skeletal"
   },
   "FMA58775": {
@@ -11437,7 +11437,7 @@
   },
   "FMA61708": {
     "en": "subdivision of auriculotemporal part of head",
-    "ru": "Подразделение аурикулотэмпорал часть головка",
+    "ru": "Подразделение ушно-височной части головы",
     "system": "sensory"
   },
   "FMA61775": {
@@ -11861,17 +11861,17 @@
   },
   "FMA65020": {
     "en": "intrinsic muscle of foot",
-    "ru": "Интринсик мышца стопа",
+    "ru": "Собственная мышца стопы",
     "system": "muscular"
   },
   "FMA65045": {
     "en": "intrinsic muscle of dorsum of foot",
-    "ru": "Интринсик мышца дорсум стопа",
+    "ru": "Собственная мышца тыла стопы",
     "system": "muscular"
   },
   "FMA65046": {
     "en": "intrinsic muscle of plantar part of foot",
-    "ru": "Интринсик мышца подошвенная часть стопа",
+    "ru": "Собственная мышца подошвенной части стопы",
     "system": "muscular"
   },
   "FMA65132": {
@@ -11996,17 +11996,17 @@
   },
   "FMA66562": {
     "en": "trunk of thoraco-acromial artery",
-    "ru": "Туловище торако-акромиал артерия",
+    "ru": "Ствол грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA66563": {
     "en": "trunk of right thoraco-acromial artery",
-    "ru": "Туловище правый торако-акромиал артерия",
+    "ru": "Ствол правой грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA66564": {
     "en": "trunk of left thoraco-acromial artery",
-    "ru": "Туловище левый торако-акромиал артерия",
+    "ru": "Ствол левой грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA66643": {
@@ -12046,7 +12046,7 @@
   },
   "FMA67242": {
     "en": "gray matter of neuraxis",
-    "ru": "Серое вещество нэураксис",
+    "ru": "Серое вещество нервной оси",
     "system": "nervous"
   },
   "FMA67325": {
@@ -12691,7 +12691,7 @@
   },
   "FMA69803": {
     "en": "subdivision of anterior division of internal iliac artery",
-    "ru": "Подразделение передняя дивисион внутренняя подвздошная артерия",
+    "ru": "Подразделение передней ветви внутренней подвздошной артерии",
     "system": "arterial"
   },
   "FMA69805": {
@@ -12746,7 +12746,7 @@
   },
   "FMA70408": {
     "en": "subdivision of thoraco-acromial artery",
-    "ru": "Подразделение торако-акромиал артерия",
+    "ru": "Подразделение грудоакромиальной артерии",
     "system": "arterial"
   },
   "FMA70422": {
@@ -13111,7 +13111,7 @@
   },
   "FMA71309": {
     "en": "set of interspinales cervicis",
-    "ru": "Совокупность интэрспиналэс кэрвикис",
+    "ru": "Совокупность межостистых мышц шеи",
     "system": "muscular"
   },
   "FMA71313": {
@@ -13126,7 +13126,7 @@
   },
   "FMA71318": {
     "en": "set of lumbricals of hand",
-    "ru": "Совокупность лумбрикалс кисть",
+    "ru": "Совокупность червеобразных мышц кисти",
     "system": "muscular"
   },
   "FMA71319": {
@@ -13301,7 +13301,7 @@
   },
   "FMA72058": {
     "en": "intrinsic ligament of larynx",
-    "ru": "Интринсик связка гортань",
+    "ru": "Внутренняя связка гортани",
     "system": "connective"
   },
   "FMA72308": {
@@ -13956,7 +13956,7 @@
   },
   "FMA79631": {
     "en": "branch of sphenoid part of middle cerebral artery",
-    "ru": "Ветвь сфэноид часть средняя мозговая артерия",
+    "ru": "Ветвь клиновидной части средней мозговой артерии",
     "system": "arterial"
   },
   "FMA79658": {
@@ -14056,17 +14056,17 @@
   },
   "FMA83143": {
     "en": "cell part cluster of neuraxis",
-    "ru": "Кэлл часть клустэр нэураксис",
+    "ru": "Кластер частей клеток нервной оси",
     "system": "nervous"
   },
   "FMA83153": {
     "en": "organ component of neuraxis",
-    "ru": "Орган компонент нэураксис",
+    "ru": "Компонент органа нервной оси",
     "system": "nervous"
   },
   "FMA83465": {
     "en": "segment of white matter of neuraxis",
-    "ru": "Сегмент белое вещество нэураксис",
+    "ru": "Сегмент белого вещества нервной оси",
     "system": "nervous"
   },
   "FMA83563": {
@@ -14076,7 +14076,7 @@
   },
   "FMA83686": {
     "en": "nucleus of neuraxis",
-    "ru": "Ядро нэураксис",
+    "ru": "Ядро нервной оси",
     "system": "nervous"
   },
   "FMA83738": {
@@ -14096,12 +14096,12 @@
   },
   "FMA83854": {
     "en": "stria of neuraxis",
-    "ru": "Стриа нэураксис",
+    "ru": "Полоска нервной оси",
     "system": "nervous"
   },
   "FMA83856": {
     "en": "lamina of neuraxis",
-    "ru": "Пластинка нэураксис",
+    "ru": "Пластинка нервной оси",
     "system": "nervous"
   },
   "FMA83857": {
@@ -14111,27 +14111,27 @@
   },
   "FMA83860": {
     "en": "peduncle of neuraxis",
-    "ru": "Пэдунклэ нэураксис",
+    "ru": "Ножка нервной оси",
     "system": "nervous"
   },
   "FMA83865": {
     "en": "fornix of neuraxis",
-    "ru": "Свод нэураксис",
+    "ru": "Свод нервной оси",
     "system": "nervous"
   },
   "FMA83874": {
     "en": "gyrus of neuraxis",
-    "ru": "Извилина нэураксис",
+    "ru": "Извилина нервной оси",
     "system": "nervous"
   },
   "FMA83904": {
     "en": "septum of neuraxis",
-    "ru": "Перегородка нэураксис",
+    "ru": "Перегородка нервной оси",
     "system": "nervous"
   },
   "FMA83906": {
     "en": "commissure of neuraxis",
-    "ru": "Комиссура нэураксис",
+    "ru": "Спайка нервной оси",
     "system": "nervous"
   },
   "FMA83912": {
@@ -14146,7 +14146,7 @@
   },
   "FMA83929": {
     "en": "white matter of neuraxis",
-    "ru": "Белое вещество нэураксис",
+    "ru": "Белое вещество нервной оси",
     "system": "nervous"
   },
   "FMA83930": {
@@ -14161,12 +14161,12 @@
   },
   "FMA84054": {
     "en": "zone of neuraxis",
-    "ru": "Зона нэураксис",
+    "ru": "Зона нервной оси",
     "system": "nervous"
   },
   "FMA84059": {
     "en": "nuclear complex of neuraxis",
-    "ru": "Нуклэар комплекс нэураксис",
+    "ru": "Ядерный комплекс нервной оси",
     "system": "nervous"
   },
   "FMA84081": {
@@ -14514,7 +14514,7 @@
   },
   "FMA242770": {
     "en": "region of wall of ventricular system of neuraxis",
-    "ru": "Область стенка желудочковая система нэураксис",
+    "ru": "Область стенки желудочковой системы нервной оси",
     "system": "sensory"
   },
   "FMA242789": {
@@ -14534,7 +14534,7 @@
   },
   "FMA256237": {
     "en": "segment of neuraxis",
-    "ru": "Сегмент нэураксис",
+    "ru": "Сегмент нервной оси",
     "system": "nervous"
   },
   "FMA256693": {
@@ -15561,7 +15561,7 @@
   },
   "FMA23876": {
     "en": "skeleton (in vivo)",
-    "ru": "Скэлэтон (ин виво)",
+    "ru": "Скелет (прижизненно)",
     "system": "skeletal"
   },
   "FMA23881": {
@@ -16224,67 +16224,67 @@
   },
   "FMA58401": {
     "en": "investing fascia of right upper limb",
-    "ru": "Инвэстинг фасция правый верхняя конечность",
+    "ru": "Покрывающая фасция правой верхней конечности",
     "system": "sensory"
   },
   "FMA58405": {
     "en": "investing fascia of right free upper limb",
-    "ru": "Инвэстинг фасция правый свободная верхняя конечность",
+    "ru": "Покрывающая фасция правой свободной верхней конечности",
     "system": "sensory"
   },
   "FMA58406": {
     "en": "investing fascia of left free upper limb",
-    "ru": "Инвэстинг фасция левый свободная верхняя конечность",
+    "ru": "Покрывающая фасция левой свободной верхней конечности",
     "system": "sensory"
   },
   "FMA58418": {
     "en": "investing fascia of right lower limb",
-    "ru": "Инвэстинг фасция правый нижняя конечность",
+    "ru": "Покрывающая фасция правой нижней конечности",
     "system": "skeletal"
   },
   "FMA58419": {
     "en": "investing fascia of left lower limb",
-    "ru": "Инвэстинг фасция левый нижняя конечность",
+    "ru": "Покрывающая фасция левой нижней конечности",
     "system": "skeletal"
   },
   "FMA58429": {
     "en": "investing fascia of right free lower limb",
-    "ru": "Инвэстинг фасция правый свободная нижняя конечность",
+    "ru": "Покрывающая фасция правой свободной нижней конечности",
     "system": "skeletal"
   },
   "FMA58430": {
     "en": "investing fascia of left free lower limb",
-    "ru": "Инвэстинг фасция левый свободная нижняя конечность",
+    "ru": "Покрывающая фасция левой свободной нижней конечности",
     "system": "skeletal"
   },
   "FMA58448": {
     "en": "investing fascia of right wrist",
-    "ru": "Инвэстинг фасция правый запястье",
+    "ru": "Покрывающая фасция правого запястья",
     "system": "sensory"
   },
   "FMA58449": {
     "en": "investing fascia of left wrist",
-    "ru": "Инвэстинг фасция левый запястье",
+    "ru": "Покрывающая фасция левого запястья",
     "system": "sensory"
   },
   "FMA58575": {
     "en": "investing fascia of right forearm",
-    "ru": "Инвэстинг фасция правый предплечье",
+    "ru": "Покрывающая фасция правого предплечья",
     "system": "sensory"
   },
   "FMA58576": {
     "en": "investing fascia of left forearm",
-    "ru": "Инвэстинг фасция левый предплечье",
+    "ru": "Покрывающая фасция левого предплечья",
     "system": "sensory"
   },
   "FMA58742": {
     "en": "investing fascia of right thigh",
-    "ru": "Инвэстинг фасция правый бедро",
+    "ru": "Покрывающая фасция правого бедра",
     "system": "skeletal"
   },
   "FMA58743": {
     "en": "investing fascia of left thigh",
-    "ru": "Инвэстинг фасция левый бедро",
+    "ru": "Покрывающая фасция левого бедра",
     "system": "skeletal"
   },
   "FMA59368": {
@@ -16379,12 +16379,12 @@
   },
   "FMA59754": {
     "en": "wall of right side of internal nose",
-    "ru": "Стенка правый сидэ внутренняя нос",
+    "ru": "Стенка правой стороны внутреннего носа",
     "system": "respiratory"
   },
   "FMA59755": {
     "en": "wall of left side of internal nose",
-    "ru": "Стенка левый сидэ внутренняя нос",
+    "ru": "Стенка левой стороны внутреннего носа",
     "system": "respiratory"
   },
   "FMA59836": {
@@ -16689,12 +16689,15 @@
   },
   "FMA68317": {
     "en": "superior division of upper lobe part of left bronchial tree",
-    "ru": "Верхняя дивисион верхняя доля часть левый бронхиальная дерево",
+    "ru": "Верхний отдел верхнедолевой части левого бронхиального дерева",
     "system": "respiratory"
   },
   "FMA68318": {
     "en": "inferior division of upper lobe part of left bronchial tree",
-    "ru": "Нижняя дивисион верхняя доля часть левый бронхиальная дерево",
+    "ru": "Нижний отдел верхнедолевой части левого бронхиального дерева",
+    "aliases": [
+      "язычковый отдел левого верхнедолевого бронха"
+    ],
     "system": "respiratory"
   },
   "FMA68319": {
@@ -16937,12 +16940,12 @@
   },
   "FMA73703": {
     "en": "wall of right side of heart",
-    "ru": "Стенка правый сидэ сердце",
+    "ru": "Стенка правой стороны сердца",
     "system": "muscular"
   },
   "FMA73704": {
     "en": "wall of left side of heart",
-    "ru": "Стенка левый сидэ сердце",
+    "ru": "Стенка левой стороны сердца",
     "system": "muscular"
   },
   "FMA74657": {
@@ -16952,7 +16955,7 @@
   },
   "FMA75007": {
     "en": "cavity of neuraxis",
-    "ru": "Полость нэураксис",
+    "ru": "Полость нервной оси",
     "system": "nervous"
   },
   "FMA78435": {
@@ -17070,7 +17073,7 @@
   },
   "FMA84857": {
     "en": "subendocardial layer of myocardium of left ventricle",
-    "ru": "Субэндокардиальная слой миокард левый желудочек",
+    "ru": "Субэндокардиальный слой миокарда левого желудочка",
     "system": "muscular"
   },
   "FMA84931": {
