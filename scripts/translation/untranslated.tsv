@@ -1,0 +1,3316 @@
+conceptId	system	en	ru
+FMA3710	venous	vascular tree	
+FMA3711	arterial	segment of artery	
+FMA3714	arterial	variant artery	
+FMA3726	arterial	anastomosis	
+FMA3727	arterial	vascular anastomosis	
+FMA3728	arterial	arterial anastomosis	
+FMA3729	venous	venous anastomosis	
+FMA3736	arterial	ascending aorta	
+FMA3768	arterial	arch of aorta	
+FMA3784	arterial	descending aorta	
+FMA3789	arterial	abdominal aorta	
+FMA3802	arterial	trunk of right coronary artery	
+FMA3807	arterial	right conus artery	
+FMA3813	arterial	anterior ventricular branch of right coronary artery	
+FMA3815	arterial	first anterior ventricular branch of right coronary artery	
+FMA3818	arterial	marginal branch of right coronary artery	
+FMA3835	arterial	posterior ventricular branch of right coronary artery	
+FMA3837	arterial	first posterior ventricular branch of right coronary artery	
+FMA3840	arterial	posterior interventricular branch of right coronary artery	
+FMA3845	arterial	septal branch of right posterior interventricular artery	
+FMA3847	arterial	first septal branch of right posterior interventricular artery	
+FMA3848	arterial	second septal branch of right posterior interventricular artery	
+FMA3855	arterial	trunk of left coronary artery	
+FMA3860	arterial	diagonal branch of anterior descending branch of left coronary artery	
+FMA3868	arterial	conus branch of anterior interventricular branch of left coronary artery	
+FMA3870	arterial	right anterior branch of anterior interventricular branch of left coronary artery	
+FMA3872	arterial	first right anterior branch of anterior interventricular branch of left coronary artery	
+FMA3874	arterial	second right anterior branch of anterior interventricular branch of left coronary artery	
+FMA3876	arterial	third right anterior branch of anterior interventricular branch of left coronary artery	
+FMA3892	arterial	septal branch of anterior interventricular artery	
+FMA3895	arterial	circumflex branch of left coronary artery	
+FMA3932	arterial	brachiocephalic artery	
+FMA3939	arterial	common carotid artery	
+FMA3941	arterial	right common carotid artery	
+FMA3947	arterial	internal carotid artery	
+FMA3949	arterial	right internal carotid artery	
+FMA3951	arterial	subclavian artery	
+FMA3953	arterial	right subclavian artery	
+FMA3956	arterial	vertebral artery	
+FMA3958	arterial	right vertebral artery	
+FMA3960	arterial	internal thoracic artery	
+FMA3969	arterial	right internal thoracic artery	
+FMA3988	arterial	right superior epigastric artery	
+FMA3990	arterial	thyrocervical trunk	
+FMA3992	arterial	right thyrocervical trunk	
+FMA3994	arterial	second posterior intercostal artery	
+FMA4057	arterial	right dorsal scapular artery	
+FMA4058	arterial	left common carotid artery	
+FMA4062	arterial	left internal carotid artery	
+FMA4066	arterial	left vertebral artery	
+FMA4068	arterial	left internal thoracic artery	
+FMA4077	arterial	left musculophrenic artery	
+FMA4083	arterial	left superior epigastric artery	
+FMA4084	arterial	left thyrocervical trunk	
+FMA4086	arterial	left costocervical trunk	
+FMA4088	arterial	left superior intercostal artery	
+FMA4112	arterial	left second posterior intercostal artery	
+FMA4134	arterial	left deep cervical artery	
+FMA4149	arterial	esophageal artery	
+FMA4176	arterial	posterior intercostal artery	
+FMA4613	arterial	subcostal artery	
+FMA4634	arterial	right subcostal artery	
+FMA4654	arterial	left subcostal artery	
+FMA4677	arterial	trunk of branch of coronary artery	
+FMA4694	arterial	left subclavian artery	
+FMA4706	venous	coronary sinus	
+FMA4707	venous	great cardiac vein	
+FMA4708	venous	left marginal vein	
+FMA4712	venous	posterior vein of left ventricle	
+FMA4713	venous	middle cardiac vein	
+FMA4714	venous	small cardiac vein	
+FMA4716	venous	right marginal vein	
+FMA4720	venous	superior vena cava	
+FMA4723	venous	brachiocephalic vein	
+FMA4724	venous	internal jugular vein	
+FMA4725	venous	subclavian vein	
+FMA4729	venous	internal thoracic vein	
+FMA4731	venous	superior epigastric vein	
+FMA4732	venous	musculophrenic vein	
+FMA4751	venous	right brachiocephalic vein	
+FMA4754	venous	right internal jugular vein	
+FMA4755	venous	right subclavian vein	
+FMA4758	venous	right internal thoracic vein	
+FMA4761	venous	left brachiocephalic vein	
+FMA4762	venous	left internal jugular vein	
+FMA4763	venous	left subclavian vein	
+FMA4771	venous	right superior epigastric vein	
+FMA4772	venous	right musculophrenic vein	
+FMA4785	venous	left superior epigastric vein	
+FMA4786	venous	left musculophrenic vein	
+FMA4797	venous	left superior intercostal vein	
+FMA4838	venous	azygos vein	
+FMA4843	venous	right ascending lumbar vein	
+FMA4844	venous	right subcostal vein	
+FMA4877	venous	right superior intercostal vein	
+FMA4944	venous	hemiazygos vein	
+FMA4950	venous	left ascending lumbar vein	
+FMA4951	venous	left subcostal vein	
+FMA5011	venous	accessory hemiazygos vein	
+FMA5018	skeletal	bone organ	
+FMA5022	muscular	muscle organ	
+FMA5039	arterial	right costocervical trunk	
+FMA5041	arterial	right second posterior intercostal artery	
+FMA5042	arterial	right superior intercostal artery	
+FMA5865	nervous	cranial nerve	
+FMA5884	nervous	ganglion	
+FMA5889	nervous	autonomic ganglion	
+FMA5894	nervous	parasympathetic ganglion	
+FMA5895	nervous	cranial parasympathetic ganglion	
+FMA5898	arterial	anatomical junction	
+FMA5913	nervous	nerve trunk	
+FMA6964	nervous	ciliary ganglion	
+FMA7037	nervous	branch of ciliary ganglion	
+FMA7041	nervous	short ciliary nerve	
+FMA7131	digestive	esophagus	
+FMA7145	connective	membrane organ	
+FMA7163	integumentary	skin	
+FMA7198	digestive	pancreas	
+FMA7202	digestive	gallbladder	
+FMA7206	digestive	duodenum	
+FMA7260	muscular	anterior papillary muscle of right ventricle	
+FMA7261	muscular	posterior papillary muscle of right ventricle	
+FMA7262	muscular	septal papillary muscle of right ventricle	
+FMA7264	muscular	lateral papillary muscle of left ventricle	
+FMA7265	muscular	anterolateral head of lateral papillary muscle of left ventricle	
+FMA7394	respiratory	trachea	
+FMA7396	respiratory	left main bronchus	
+FMA7405	respiratory	main bronchus	
+FMA7409	respiratory	bronchus	
+FMA7474	skeletal	long bone	
+FMA7475	skeletal	short bone	
+FMA7476	skeletal	flat bone	
+FMA7477	skeletal	irregular bone	
+FMA7478	skeletal	pneumatized bone	
+FMA7486	skeletal	manubrium	
+FMA7487	skeletal	body of sternum	
+FMA7488	skeletal	xiphoid process	
+FMA7538	skeletal	cartilage organ component	
+FMA7574	skeletal	rib	
+FMA7591	skeletal	costal cartilage	
+FMA7592	skeletal	true rib	
+FMA7593	skeletal	typical rib	
+FMA7594	skeletal	false rib	
+FMA7595	skeletal	floating rib	
+FMA7596	skeletal	atypical rib	
+FMA7597	skeletal	first rib	
+FMA7603	skeletal	first costal cartilage	
+FMA7620	skeletal	second rib	
+FMA7638	skeletal	third rib	
+FMA7646	sensory	retinaculum	
+FMA7703	skeletal	second costal cartilage	
+FMA7741	skeletal	third costal cartilage	
+FMA7749	skeletal	fourth rib	
+FMA7768	skeletal	fourth costal cartilage	
+FMA7776	skeletal	fifth rib	
+FMA7795	skeletal	fifth costal cartilage	
+FMA7822	skeletal	sixth costal cartilage	
+FMA7830	skeletal	seventh rib	
+FMA7849	skeletal	seventh costal cartilage	
+FMA7857	skeletal	right first rib	
+FMA7875	skeletal	right first costal cartilage	
+FMA7882	skeletal	right second rib	
+FMA7886	skeletal	right second costal cartilage	
+FMA7909	skeletal	right third rib	
+FMA7913	skeletal	right third costal cartilage	
+FMA7957	skeletal	right fourth rib	
+FMA7976	skeletal	right fourth costal cartilage	
+FMA7987	skeletal	left first rib	
+FMA8005	skeletal	left first costal cartilage	
+FMA8012	skeletal	left second rib	
+FMA8031	skeletal	left second costal cartilage	
+FMA8039	skeletal	left third rib	
+FMA8058	skeletal	left third costal cartilage	
+FMA8066	skeletal	right fifth rib	
+FMA8070	skeletal	right fifth costal cartilage	
+FMA8093	skeletal	left fifth rib	
+FMA8112	skeletal	left fifth costal cartilage	
+FMA8120	skeletal	eighth rib	
+FMA8147	skeletal	sixth rib	
+FMA8148	skeletal	left fourth rib	
+FMA8167	skeletal	left fourth costal cartilage	
+FMA8175	skeletal	right sixth rib	
+FMA8194	skeletal	right sixth costal cartilage	
+FMA8202	skeletal	left sixth rib	
+FMA8221	skeletal	left sixth costal cartilage	
+FMA8229	skeletal	right seventh rib	
+FMA8248	skeletal	right seventh costal cartilage	
+FMA8256	skeletal	left seventh rib	
+FMA8275	skeletal	left seventh costal cartilage	
+FMA8283	skeletal	right eighth rib	
+FMA8310	skeletal	left eighth rib	
+FMA8337	skeletal	ninth rib	
+FMA8364	skeletal	right ninth rib	
+FMA8391	skeletal	left ninth rib	
+FMA8418	skeletal	tenth rib	
+FMA8445	skeletal	right tenth rib	
+FMA8472	skeletal	left tenth rib	
+FMA8499	skeletal	eleventh rib	
+FMA8515	skeletal	twelfth rib	
+FMA8531	skeletal	right eleventh rib	
+FMA8532	skeletal	left eleventh rib	
+FMA8533	skeletal	right twelfth rib	
+FMA8534	skeletal	left twelfth rib	
+FMA8612	arterial	pulmonary trunk	
+FMA8615	arterial	pulmonary arterial trunk	
+FMA8620	arterial	right anterior segmental artery	
+FMA8634	arterial	left apical segmental artery	
+FMA8635	arterial	left posterior segmental artery	
+FMA8639	arterial	superior lingular artery	
+FMA8640	arterial	inferior lingular artery	
+FMA8642	arterial	left superior segmental artery	
+FMA8644	arterial	left medial basal segmental artery	
+FMA8645	arterial	left anterior basal segmental artery	
+FMA8646	arterial	left lateral basal segmental artery	
+FMA8647	arterial	left posterior basal segmental artery	
+FMA8648	venous	trunk of pulmonary vein	
+FMA8662	venous	right anterior segmental vein	
+FMA8663	venous	right posterior segmental vein	
+FMA8667	venous	left anterior segmental vein	
+FMA8668	venous	superior lingular vein	
+FMA8669	venous	inferior lingular vein	
+FMA8670	venous	right superior segmental vein	
+FMA8673	venous	right anterior basal segmental vein	
+FMA8678	venous	left anterior basal segmental vein	
+FMA8681	venous	apical part of right apical segmental vein	
+FMA8683	venous	superior part of anterior segmental vein	
+FMA8693	venous	inferior part of anterior segmental vein	
+FMA8702	arterial	upper lobar artery	
+FMA8707	arterial	apical segmental artery	
+FMA8714	arterial	superior segmental artery	
+FMA8716	arterial	medial basal segmental artery	
+FMA8717	arterial	anterior basal segmental artery	
+FMA8718	arterial	lateral basal segmental artery	
+FMA8719	arterial	posterior basal segmental artery	
+FMA8755	arterial	segmental pulmonary artery	
+FMA9139	skeletal	thoracic vertebra	
+FMA9165	skeletal	first thoracic vertebra	
+FMA9187	skeletal	second thoracic vertebra	
+FMA9209	skeletal	third thoracic vertebra	
+FMA9248	skeletal	fourth thoracic vertebra	
+FMA9311	arterial	subsegmental pulmonary artery	
+FMA9337	sensory	organ cavity subdivision	
+FMA9411	venous	segmental pulmonary vein	
+FMA9413	venous	subsegmental pulmonary vein	
+FMA9419	venous	subsegmental part of lateral segmental vein	
+FMA9421	venous	subsegmental part of medial segmental vein	
+FMA9422	venous	right medial basal segmental vein	
+FMA9425	venous	right lateral basal segmental vein	
+FMA9428	venous	right posterior basal segmental vein	
+FMA9437	venous	left apical segmental vein	
+FMA9438	venous	left posterior segmental vein	
+FMA9450	venous	left lateral basal segmental vein	
+FMA9451	venous	left posterior basal segmental vein	
+FMA9597	digestive	salivary gland	
+FMA9611	skeletal	femur	
+FMA9612	skeletal	metacarpal bone	
+FMA9613	skeletal	parietal bone	
+FMA9615	skeletal	cricoid cartilage	
+FMA9616	muscular	muscle of head	
+FMA9617	muscular	muscle of neck	
+FMA9619	muscular	muscle of thorax	
+FMA9620	muscular	muscle of abdomen	
+FMA9621	muscular	muscle of upper limb	
+FMA9622	muscular	muscle of lower limb	
+FMA9623	muscular	perineal muscle	
+FMA9625	muscular	stylohyoid	
+FMA9629	muscular	supraspinatus	
+FMA9637	sensory	portion of tissue	
+FMA9640	sensory	portion of connective tissue	
+FMA9649	connective	decussation	
+FMA9657	connective	anatomical line	
+FMA9703	sensory	nasolacrimal duct	
+FMA9706	digestive	bile duct	
+FMA9708	skeletal	talus	
+FMA9710	skeletal	vomer	
+FMA9711	skeletal	maxilla	
+FMA9721	connective	tendon	
+FMA9756	muscular	external intercostal muscle	
+FMA9757	muscular	internal intercostal muscle	
+FMA9758	muscular	innermost intercostal muscle	
+FMA9760	muscular	transversus thoracis	
+FMA9761	muscular	right transversus thoracis	
+FMA9762	muscular	left transversus thoracis	
+FMA9914	skeletal	vertebra	
+FMA9915	skeletal	cervical vertebra	
+FMA9921	skeletal	lumbar vertebra	
+FMA9922	skeletal	fifth thoracic vertebra	
+FMA9945	skeletal	sixth thoracic vertebra	
+FMA9968	skeletal	seventh thoracic vertebra	
+FMA9991	skeletal	eighth thoracic vertebra	
+FMA10014	skeletal	ninth thoracic vertebra	
+FMA10037	skeletal	tenth thoracic vertebra	
+FMA10059	skeletal	eleventh thoracic vertebra	
+FMA10081	skeletal	twelfth thoracic vertebra	
+FMA10419	digestive	pancreatic duct	
+FMA10446	skeletal	intervertebral disk	
+FMA10455	skeletal	intervertebral disk of thoracic vertebra	
+FMA10458	skeletal	intervertebral disk of first thoracic vertebra	
+FMA10474	muscular	zone of muscle organ	
+FMA10483	skeletal	zone of bone organ	
+FMA10552	arterial	left dorsal scapular artery	
+FMA10636	arterial	costocervical trunk	
+FMA10645	arterial	musculophrenic artery	
+FMA10646	arterial	superior epigastric artery	
+FMA10659	arterial	deep cervical artery	
+FMA10660	arterial	right deep cervical artery	
+FMA10662	arterial	inferior thyroid artery	
+FMA10663	arterial	suprascapular artery	
+FMA10664	arterial	transverse cervical artery	
+FMA10665	arterial	superficial cervical artery	
+FMA10680	arterial	left inferior thyroid artery	
+FMA10681	arterial	left suprascapular artery	
+FMA10682	arterial	left transverse cervical artery	
+FMA10683	arterial	left superficial cervical artery	
+FMA10692	arterial	right musculophrenic artery	
+FMA10697	arterial	right inferior thyroid artery	
+FMA10698	arterial	right suprascapular artery	
+FMA10699	arterial	right transverse cervical artery	
+FMA10700	arterial	right superficial cervical artery	
+FMA10704	arterial	variant bronchial artery	
+FMA10951	venous	inferior vena cava	
+FMA11195	nervous	segment of neural tree organ	
+FMA11336	connective	linea alba	
+FMA11337	arterial	zone of continuity	
+FMA11338	digestive	ileocecal junction	
+FMA12215	skeletal	zone of sternum	
+FMA12224	respiratory	segment of tracheobronchial tree	
+FMA12516	skeletal	tooth	
+FMA12519	skeletal	atlas	
+FMA12520	skeletal	axis	
+FMA12521	skeletal	third cervical vertebra	
+FMA12522	skeletal	fourth cervical vertebra	
+FMA12523	skeletal	fifth cervical vertebra	
+FMA12524	skeletal	sixth cervical vertebra	
+FMA12525	skeletal	seventh cervical vertebra	
+FMA12823	skeletal	incisor tooth	
+FMA12845	venous	subcostal vein	
+FMA12846	venous	cardiac vein	
+FMA12858	venous	ascending lumbar vein	
+FMA13072	skeletal	first lumbar vertebra	
+FMA13073	skeletal	second lumbar vertebra	
+FMA13074	skeletal	third lumbar vertebra	
+FMA13075	skeletal	fourth lumbar vertebra	
+FMA13076	skeletal	fifth lumbar vertebra	
+FMA13087	arterial	segment of aorta	
+FMA13109	muscular	pectoralis minor	
+FMA13278	arterial	anterior segmental artery	
+FMA13279	arterial	left anterior segmental artery	
+FMA13280	arterial	posterior segmental artery	
+FMA13289	venous	medial basal segmental vein	
+FMA13290	venous	anterior basal segmental vein	
+FMA13291	venous	lateral basal segmental vein	
+FMA13292	venous	posterior basal segmental vein	
+FMA13295	muscular	diaphragm	
+FMA13303	skeletal	humerus	
+FMA13321	skeletal	clavicle	
+FMA13322	skeletal	right clavicle	
+FMA13323	skeletal	left clavicle	
+FMA13324	venous	cephalic vein	
+FMA13325	venous	right cephalic vein	
+FMA13326	venous	left cephalic vein	
+FMA13329	venous	axillary vein	
+FMA13330	venous	right axillary vein	
+FMA13331	venous	left axillary vein	
+FMA13335	muscular	external oblique	
+FMA13336	muscular	right external oblique	
+FMA13337	muscular	left external oblique	
+FMA13338	muscular	infrahyoid muscle	
+FMA13341	muscular	sternohyoid	
+FMA13342	muscular	omohyoid	
+FMA13343	muscular	sternothyroid	
+FMA13344	muscular	thyrohyoid	
+FMA13346	muscular	right sternohyoid	
+FMA13347	muscular	left sternohyoid	
+FMA13348	muscular	right omohyoid	
+FMA13349	muscular	left omohyoid	
+FMA13350	muscular	right sternothyroid	
+FMA13351	muscular	left sternothyroid	
+FMA13352	muscular	right thyrohyoid	
+FMA13353	muscular	left thyrohyoid	
+FMA13354	muscular	intercostal muscle	
+FMA13365	digestive	caudate lobe of liver	
+FMA13375	muscular	right pectoralis minor	
+FMA13376	muscular	left pectoralis minor	
+FMA13379	muscular	rhomboid major	
+FMA13380	muscular	rhomboid minor	
+FMA13381	muscular	right rhomboid major	
+FMA13382	muscular	left rhomboid major	
+FMA13383	muscular	right rhomboid minor	
+FMA13384	muscular	left rhomboid minor	
+FMA13385	muscular	scalenus anterior	
+FMA13386	muscular	scalenus medius	
+FMA13387	muscular	scalenus posterior	
+FMA13388	muscular	right scalenus posterior	
+FMA13389	muscular	left scalenus posterior	
+FMA13390	muscular	right scalenus medius	
+FMA13391	muscular	left scalenus medius	
+FMA13392	muscular	right scalenus anterior	
+FMA13393	muscular	left scalenus anterior	
+FMA13394	skeletal	scapula	
+FMA13395	skeletal	right scapula	
+FMA13396	skeletal	left scapula	
+FMA13397	muscular	serratus anterior	
+FMA13398	muscular	right serratus anterior	
+FMA13399	muscular	left serratus anterior	
+FMA13400	muscular	serratus posterior	
+FMA13401	muscular	serratus posterior superior	
+FMA13402	muscular	serratus posterior inferior	
+FMA13403	muscular	right serratus posterior superior	
+FMA13404	muscular	left serratus posterior superior	
+FMA13405	muscular	right serratus posterior inferior	
+FMA13406	muscular	left serratus posterior inferior	
+FMA13407	muscular	sternocleidomastoid	
+FMA13408	muscular	right sternocleidomastoid	
+FMA13409	muscular	left sternocleidomastoid	
+FMA13410	muscular	subclavius	
+FMA13411	muscular	left subclavius	
+FMA13412	muscular	right subclavius	
+FMA13413	skeletal	subscapularis	
+FMA13414	skeletal	right subscapularis	
+FMA13415	skeletal	left subscapularis	
+FMA13442	venous	anterior segmental vein	
+FMA13443	venous	posterior segmental vein	
+FMA13444	venous	apical segmental vein	
+FMA13445	venous	superior segmental vein	
+FMA13495	skeletal	intervertebral disk of second thoracic vertebra	
+FMA13500	skeletal	intervertebral disk of third thoracic vertebra	
+FMA13501	skeletal	intervertebral disk of fourth thoracic vertebra	
+FMA13502	skeletal	intervertebral disk of fifth thoracic vertebra	
+FMA13503	skeletal	intervertebral disk of sixth thoracic vertebra	
+FMA13504	skeletal	intervertebral disk of seventh thoracic vertebra	
+FMA13505	skeletal	intervertebral disk of eighth thoracic vertebra	
+FMA13506	skeletal	intervertebral disk of ninth thoracic vertebra	
+FMA13507	skeletal	intervertebral disk of tenth thoracic vertebra	
+FMA13508	skeletal	intervertebral disk of eleventh thoracic vertebra	
+FMA13894	skeletal	intervertebral disk of lumbar vertebra	
+FMA13895	skeletal	intervertebral disk of cervical vertebra	
+FMA13896	skeletal	intervertebral disk of third cervical vertebra	
+FMA13897	skeletal	intervertebral disk of fourth cervical vertebra	
+FMA13898	skeletal	intervertebral disk of fifth cervical vertebra	
+FMA13899	skeletal	intervertebral disk of sixth cervical vertebra	
+FMA13900	skeletal	intervertebral disk of seventh cervical vertebra	
+FMA13912	arterial	ventricular branch of right coronary artery	
+FMA13914	arterial	anterior branch of anterior interventricular branch of left coronary artery	
+FMA13921	arterial	branch of anterior interventricular branch of left coronary artery	
+FMA14065	connective	organ component	
+FMA14092	digestive	zone of small intestine	
+FMA14177	arterial	bronchial branch of arch of aorta	
+FMA14284	venous	venous tree organ	
+FMA14293	venous	tributary of internal thoracic vein	
+FMA14294	venous	tributary of azygos vein	
+FMA14309	venous	subsegmental part of apical segmental vein	
+FMA14310	venous	subsegmental part of anterior segmental vein	
+FMA14317	venous	tributary of external jugular vein	
+FMA14319	venous	suprascapular vein	
+FMA14329	venous	trunk of portal vein	
+FMA14331	venous	splenic vein	
+FMA14332	venous	superior mesenteric vein	
+FMA14333	venous	common iliac vein	
+FMA14334	venous	renal vein	
+FMA14335	venous	right renal vein	
+FMA14336	venous	left renal vein	
+FMA14337	venous	hepatic vein	
+FMA14338	venous	right hepatic vein	
+FMA14339	venous	left hepatic vein	
+FMA14340	venous	middle hepatic vein	
+FMA14341	venous	right testicular vein	
+FMA14343	venous	right suprarenal vein	
+FMA14344	venous	testicular vein	
+FMA14345	venous	left testicular vein	
+FMA14348	venous	suprarenal vein	
+FMA14349	venous	left suprarenal vein	
+FMA14495	digestive	segment of liver	
+FMA14539	digestive	cystic duct	
+FMA14540	digestive	segment of large intestine	
+FMA14542	digestive	appendix	
+FMA14544	digestive	rectum	
+FMA14545	digestive	ascending colon	
+FMA14546	digestive	transverse colon	
+FMA14547	digestive	descending colon	
+FMA14643	digestive	mesentery of small intestine	
+FMA14645	digestive	mesentery of large intestine	
+FMA14647	digestive	transverse mesocolon	
+FMA14668	digestive	common hepatic duct	
+FMA14669	digestive	right hepatic duct	
+FMA14670	digestive	left hepatic duct	
+FMA14678	digestive	extrahepatic bile duct	
+FMA14734	arterial	inferior phrenic artery	
+FMA14735	arterial	lumbar artery	
+FMA14746	arterial	right inferior phrenic artery	
+FMA14747	arterial	left inferior phrenic artery	
+FMA14749	arterial	superior mesenteric artery	
+FMA14750	arterial	inferior mesenteric artery	
+FMA14751	arterial	renal artery	
+FMA14752	arterial	right renal artery	
+FMA14753	arterial	left renal artery	
+FMA14754	arterial	middle suprarenal artery	
+FMA14755	arterial	right middle suprarenal artery	
+FMA14756	arterial	left middle suprarenal artery	
+FMA14758	arterial	testicular artery	
+FMA14759	arterial	right testicular artery	
+FMA14760	arterial	left testicular artery	
+FMA14764	arterial	common iliac artery	
+FMA14765	arterial	right common iliac artery	
+FMA14766	arterial	left common iliac artery	
+FMA14767	arterial	trunk of branch of coeliac artery	
+FMA14768	arterial	left gastric artery	
+FMA14769	arterial	hepatic artery	
+FMA14771	arterial	common hepatic artery	
+FMA14772	arterial	hepatic artery proper	
+FMA14773	arterial	splenic artery	
+FMA14776	arterial	right gastric artery	
+FMA14781	arterial	right gastro-epiploic artery	
+FMA14782	arterial	anterior superior pancreaticoduodenal artery	
+FMA14784	arterial	posterior superior pancreaticoduodenal artery	
+FMA14787	arterial	dorsal pancreatic artery	
+FMA14790	arterial	inferior pancreatic artery	
+FMA14792	arterial	great pancreatic artery	
+FMA14793	arterial	caudal pancreatic artery	
+FMA14796	arterial	left gastro-epiploic artery	
+FMA14805	arterial	inferior pancreaticoduodenal artery	
+FMA14809	arterial	ileal artery	
+FMA14810	arterial	middle colic artery	
+FMA14811	arterial	right colic artery	
+FMA14812	arterial	celiac trunk	
+FMA14815	arterial	ileocolic artery	
+FMA14816	arterial	anterior cecal artery	
+FMA14817	arterial	posterior cecal artery	
+FMA14818	arterial	appendicular artery	
+FMA14819	arterial	ileal branch of inferior branch of ileocolic artery	
+FMA14820	arterial	ascending branch of inferior branch of ileocolic artery	
+FMA14821	arterial	branch of ileocolic artery	
+FMA14824	arterial	marginal colic artery	
+FMA14825	arterial	trunk of branch of inferior mesenteric artery	
+FMA14826	arterial	left colic artery	
+FMA14828	arterial	ascending branch of left colic artery	
+FMA14829	arterial	descending branch of left colic artery	
+FMA14830	arterial	sigmoid artery	
+FMA14831	arterial	marginal artery of colon	
+FMA14832	arterial	superior rectal artery	
+FMA14837	arterial	subdivision of hepatic artery proper	
+FMA14963	digestive	zone of ileum	
+FMA14964	digestive	proximal part of ileum	
+FMA14965	digestive	middle part of ileum	
+FMA14966	digestive	distal part of ileum	
+FMA15041	digestive	taenia coli	
+FMA15042	digestive	taenia mesocolica	
+FMA15043	digestive	taenia omentalis	
+FMA15044	digestive	taenia libera	
+FMA15370	venous	lumbar vein	
+FMA15387	venous	tributary of splenic vein	
+FMA15390	venous	left gastroepiploic vein	
+FMA15391	venous	inferior mesenteric vein	
+FMA15392	venous	tributary of inferior mesenteric vein	
+FMA15393	venous	superior rectal vein	
+FMA15394	venous	left colic vein	
+FMA15395	venous	sigmoid vein	
+FMA15396	venous	tributary of superior mesenteric vein	
+FMA15397	venous	right gastroepiploic vein	
+FMA15398	venous	pancreaticoduodenal vein	
+FMA15399	venous	left gastric vein	
+FMA15400	venous	right gastric vein	
+FMA15405	venous	ileal vein	
+FMA15406	venous	middle colic vein	
+FMA15407	venous	right colic vein	
+FMA15408	venous	ileocolic vein	
+FMA15414	venous	right portal vein	
+FMA15415	venous	left portal vein	
+FMA15420	venous	anterior superior segmental branch of right portal vein	
+FMA15421	venous	anterior inferior segmental branch of right portal vein	
+FMA15423	venous	posterior superior segmental branch of right portal vein	
+FMA15424	venous	posterior inferior segmental branch of right portal vein	
+FMA15425	venous	caudate lobe branch of left portal vein	
+FMA15428	venous	medial superior segmental branch of left portal vein	
+FMA15429	venous	medial inferior segmental branch of left portal vein	
+FMA15431	venous	lateral superior segmental branch of left portal vein	
+FMA15432	venous	lateral inferior segmental branch of left portal vein	
+FMA15737	venous	hepatovenous subsector	
+FMA15739	venous	hepatovenous segment ii	
+FMA15741	venous	hepatovenous segment iii	
+FMA15742	venous	hepatovenous segment iv	
+FMA15743	venous	hepatovenous segment v	
+FMA15744	venous	hepatovenous segment vi	
+FMA15745	venous	hepatovenous segment vii	
+FMA15746	venous	hepatovenous segment viii	
+FMA15747	venous	hepatovenous segment ix	
+FMA15755	venous	region of anterior sector of right liver (in-vivo)	
+FMA15756	venous	region of posterior sector of right liver (in-vivo)	
+FMA15757	venous	region of anterior sector of left liver (in-vivo)	
+FMA15791	venous	tributary of right hepatic vein	
+FMA15793	venous	tributary of middle hepatic vein	
+FMA15794	venous	tributary of left hepatic vein	
+FMA15796	venous	posterior superior segmental tributary of right hepatic vein	
+FMA15797	venous	posterior inferior segmental tributary of right hepatic vein	
+FMA15798	venous	anterior superior segmental tributary of right hepatic vein	
+FMA15800	venous	anterior inferior segmental tributary of middle hepatic vein	
+FMA15801	venous	medial inferior segmental tributary of middle hepatic vein	
+FMA15802	venous	medial superior segmental tributary of left hepatic vein	
+FMA15803	venous	lateral superior segmental tributary of left hepatic vein	
+FMA15804	venous	lateral inferior segmental tributary of left hepatic vein	
+FMA16033	skeletal	intervertebral disk of first lumbar vertebra	
+FMA16034	skeletal	intervertebral disk of second lumbar vertebra	
+FMA16035	skeletal	intervertebral disk of third lumbar vertebra	
+FMA16036	skeletal	intervertebral disk of fourth lumbar vertebra	
+FMA16037	skeletal	intervertebral disk of fifth lumbar vertebra	
+FMA16202	skeletal	sacrum	
+FMA16549	digestive	mesoappendix	
+FMA16585	skeletal	hip bone	
+FMA16586	skeletal	right hip bone	
+FMA16587	skeletal	left hip bone	
+FMA16980	digestive	zone of jejunum	
+FMA16981	digestive	proximal part of jejunum	
+FMA16982	digestive	middle part of jejunum	
+FMA16983	digestive	distal part of jejunum	
+FMA17541	venous	tributary of hepatic vein	
+FMA18060	muscular	psoas major	
+FMA18805	arterial	external iliac artery	
+FMA18806	arterial	right external iliac artery	
+FMA18807	arterial	left external iliac artery	
+FMA18808	arterial	internal iliac artery	
+FMA18809	arterial	right internal iliac artery	
+FMA18810	arterial	left internal iliac artery	
+FMA18883	venous	external iliac vein	
+FMA18884	venous	internal iliac vein	
+FMA18885	venous	right external iliac vein	
+FMA18886	venous	left external iliac vein	
+FMA18887	venous	right internal iliac vein	
+FMA18888	venous	left internal iliac vein	
+FMA18889	venous	tributary of internal iliac vein	
+FMA18902	venous	iliolumbar vein	
+FMA18903	venous	right iliolumbar vein	
+FMA18904	venous	left iliolumbar vein	
+FMA18905	venous	lateral sacral vein	
+FMA18906	venous	right lateral sacral vein	
+FMA18907	venous	left lateral sacral vein	
+FMA18908	venous	superior gluteal vein	
+FMA18909	venous	right superior gluteal vein	
+FMA18910	venous	left superior gluteal vein	
+FMA18911	venous	inferior gluteal vein	
+FMA18912	venous	right inferior gluteal vein	
+FMA18913	venous	left inferior gluteal vein	
+FMA18914	venous	obturator vein	
+FMA18915	venous	right obturator vein	
+FMA18916	venous	left obturator vein	
+FMA18917	venous	internal pudendal vein	
+FMA18918	venous	right internal pudendal vein	
+FMA18919	venous	left internal pudendal vein	
+FMA19082	muscular	piriformis	
+FMA19083	muscular	obturator muscle	
+FMA19086	muscular	muscle of pelvis	
+FMA19088	muscular	coccygeus	
+FMA19089	muscular	zone of levator ani	
+FMA19090	muscular	pubococcygeus	
+FMA19091	muscular	puborectalis	
+FMA19092	muscular	iliococcygeus	
+FMA19728	muscular	superficial perineal muscle	
+FMA19754	digestive	region of peritoneum	
+FMA19783	sensory	loose connective tissue	
+FMA19795	arterial	dorsal artery of penis	
+FMA20107	sensory	irregular connective tissue	
+FMA20111	sensory	mucoid tissue	
+FMA20278	muscular	muscle of anterior abdominal wall	
+FMA20289	sensory	lacrimal sac	
+FMA20570	digestive	peritoneal mesentery	
+FMA20593	digestive	region of visceral peritoneum	
+FMA20684	arterial	trunk of branch of external iliac artery	
+FMA20686	arterial	inferior epigastric artery	
+FMA20688	arterial	right inferior epigastric artery	
+FMA20689	arterial	left inferior epigastric artery	
+FMA20734	arterial	superficial epigastric artery	
+FMA20735	arterial	right superficial epigastric artery	
+FMA20736	arterial	left superficial epigastric artery	
+FMA20798	arterial	lateral circumflex femoral artery	
+FMA20801	arterial	right lateral circumflex femoral artery	
+FMA20802	arterial	left lateral circumflex femoral artery	
+FMA20803	arterial	branch of lateral circumflex femoral artery	
+FMA20805	arterial	descending branch of lateral circumflex femoral artery	
+FMA20818	arterial	right dorsal artery of penis	
+FMA20819	arterial	left dorsal artery of penis	
+FMA21162	venous	inferior epigastric vein	
+FMA21163	venous	right inferior epigastric vein	
+FMA21164	venous	left inferior epigastric vein	
+FMA21185	venous	femoral vein	
+FMA21188	venous	right femoral vein	
+FMA21189	venous	left femoral vein	
+FMA21240	venous	tributary of internal pudendal vein	
+FMA21354	venous	deep dorsal vein of penis	
+FMA21376	venous	great saphenous vein	
+FMA21378	venous	tributary of great saphenous vein	
+FMA21379	venous	right great saphenous vein	
+FMA21380	venous	left great saphenous vein	
+FMA21383	venous	tributary of superficial external pudendal vein	
+FMA21384	venous	superficial dorsal vein of penis	
+FMA21385	venous	right superficial dorsal vein of penis	
+FMA21386	venous	left superficial dorsal vein of penis	
+FMA21387	venous	right common iliac vein	
+FMA21388	venous	left common iliac vein	
+FMA21422	arterial	descending branch of right lateral circumflex femoral artery	
+FMA21423	arterial	descending branch of left lateral circumflex femoral artery	
+FMA21496	connective	ligament organ	
+FMA21520	arterial	branch of inferior branch of ileocolic artery	
+FMA21521	arterial	trunk of branch of left colic artery	
+FMA21930	muscular	external anal sphincter	
+FMA22298	muscular	obturator internus	
+FMA22299	muscular	obturator externus	
+FMA22310	muscular	iliacus	
+FMA22314	muscular	gluteus maximus	
+FMA22315	muscular	gluteus medius	
+FMA22317	muscular	gluteus minimus	
+FMA22318	muscular	gemellus superior	
+FMA22319	muscular	gemellus	
+FMA22320	muscular	gemellus inferior	
+FMA22321	muscular	quadratus femoris	
+FMA22322	muscular	right iliacus	
+FMA22323	muscular	left iliacus	
+FMA22324	muscular	right obturator internus	
+FMA22325	muscular	left obturator internus	
+FMA22326	muscular	right obturator externus	
+FMA22327	muscular	left obturator externus	
+FMA22328	muscular	right gluteus maximus	
+FMA22329	muscular	left gluteus maximus	
+FMA22330	muscular	right gluteus medius	
+FMA22331	muscular	left gluteus medius	
+FMA22332	muscular	right gluteus minimus	
+FMA22333	muscular	left gluteus minimus	
+FMA22334	muscular	right gemellus superior	
+FMA22335	muscular	left gemellus superior	
+FMA22336	muscular	right gemellus inferior	
+FMA22337	muscular	left gemellus inferior	
+FMA22338	muscular	right quadratus femoris	
+FMA22339	muscular	left quadratus femoris	
+FMA22340	muscular	right piriformis	
+FMA22341	muscular	left piriformis	
+FMA22342	muscular	right psoas major	
+FMA22343	muscular	left psoas major	
+FMA22353	muscular	sartorius	
+FMA22354	muscular	right sartorius	
+FMA22355	muscular	left sartorius	
+FMA22357	muscular	semitendinosus	
+FMA22358	muscular	right semitendinosus	
+FMA22359	muscular	left semitendinosus	
+FMA22423	connective	tensor fasciae latae	
+FMA22424	muscular	muscle of anterior compartment of thigh	
+FMA22425	connective	right tensor fasciae latae	
+FMA22426	connective	left tensor fasciae latae	
+FMA22427	muscular	muscle of posterior compartment of thigh	
+FMA22429	muscular	zone of quadriceps femoris	
+FMA22430	muscular	rectus femoris	
+FMA22431	muscular	vastus lateralis	
+FMA22432	muscular	vastus medialis	
+FMA22433	muscular	vastus intermedius	
+FMA22438	muscular	semimembranosus	
+FMA22439	muscular	muscle of medial compartment of thigh	
+FMA22440	muscular	pectineus	
+FMA22441	muscular	adductor longus	
+FMA22442	muscular	adductor brevis	
+FMA22443	muscular	adductor magnus	
+FMA22448	muscular	right semimembranosus	
+FMA22449	muscular	left semimembranosus	
+FMA22450	muscular	right pectineus	
+FMA22451	muscular	left pectineus	
+FMA22452	muscular	right adductor brevis	
+FMA22454	muscular	left adductor brevis	
+FMA22456	muscular	right adductor longus	
+FMA22457	muscular	left adductor longus	
+FMA22459	muscular	right adductor magnus	
+FMA22460	muscular	left adductor magnus	
+FMA22470	muscular	muscle of thigh	
+FMA22471	muscular	muscle of leg	
+FMA22472	muscular	muscle of anterior compartment of leg	
+FMA22473	skeletal	muscle of lateral compartment of leg	
+FMA22474	muscular	muscle of posterior compartment of leg	
+FMA22506	arterial	descending genicular artery	
+FMA22507	arterial	right descending genicular artery	
+FMA22508	arterial	left descending genicular artery	
+FMA22532	skeletal	tibialis anterior	
+FMA22533	muscular	extensor hallucis longus	
+FMA22534	muscular	extensor digitorum longus	
+FMA22535	arterial	superior genicular artery	
+FMA22536	arterial	middle genicular artery	
+FMA22537	arterial	inferior genicular artery	
+FMA22538	skeletal	fibularis tertius	
+FMA22539	skeletal	fibularis longus	
+FMA22540	skeletal	fibularis brevis	
+FMA22542	muscular	soleus	
+FMA22543	muscular	plantaris	
+FMA22544	skeletal	right tibialis anterior	
+FMA22545	skeletal	left tibialis anterior	
+FMA22546	muscular	right extensor hallucis longus	
+FMA22547	muscular	left extensor hallucis longus	
+FMA22548	muscular	right extensor digitorum longus	
+FMA22549	muscular	left extensor digitorum longus	
+FMA22550	skeletal	right fibularis tertius	
+FMA22551	skeletal	left fibularis tertius	
+FMA22552	skeletal	right fibularis longus	
+FMA22553	skeletal	left fibularis longus	
+FMA22554	skeletal	right fibularis brevis	
+FMA22555	skeletal	left fibularis brevis	
+FMA22558	muscular	right soleus	
+FMA22559	muscular	left soleus	
+FMA22560	muscular	right plantaris	
+FMA22561	muscular	left plantaris	
+FMA22562	arterial	right middle genicular artery	
+FMA22563	arterial	left middle genicular artery	
+FMA22584	arterial	superior medial genicular artery	
+FMA22585	arterial	superior lateral genicular artery	
+FMA22586	arterial	right medial superior genicular artery	
+FMA22587	arterial	left medial superior genicular artery	
+FMA22588	arterial	right lateral superior genicular artery	
+FMA22589	arterial	left lateral superior genicular artery	
+FMA22590	muscular	popliteus	
+FMA22591	muscular	right popliteus	
+FMA22592	muscular	left popliteus	
+FMA22593	muscular	flexor hallucis longus	
+FMA22594	muscular	muscle of vertebral column	
+FMA22653	muscular	splenius capitis	
+FMA22654	arterial	axillary artery	
+FMA22655	arterial	right axillary artery	
+FMA22656	arterial	left axillary artery	
+FMA22674	arterial	lateral thoracic artery	
+FMA22675	arterial	right lateral thoracic artery	
+FMA22676	arterial	left lateral thoracic artery	
+FMA22677	arterial	subscapular artery	
+FMA22678	arterial	right subscapular artery	
+FMA22679	arterial	left subscapular artery	
+FMA22680	arterial	anterior circumflex humeral artery	
+FMA22681	muscular	splenius cervicis	
+FMA22682	arterial	right anterior circumflex humeral artery	
+FMA22683	arterial	left anterior circumflex humeral artery	
+FMA22684	arterial	posterior circumflex humeral artery	
+FMA22685	arterial	right posterior circumflex humeral artery	
+FMA22687	arterial	left posterior circumflex humeral artery	
+FMA22689	arterial	brachial artery	
+FMA22691	arterial	right brachial artery	
+FMA22692	arterial	left brachial artery	
+FMA22693	arterial	branch of brachial artery	
+FMA22695	arterial	deep brachial artery	
+FMA22696	arterial	right deep brachial artery	
+FMA22697	arterial	left deep brachial artery	
+FMA22702	muscular	iliocostalis lumborum	
+FMA22703	muscular	iliocostalis thoracis	
+FMA22704	muscular	iliocostalis cervicis	
+FMA22706	arterial	superior ulnar collateral artery	
+FMA22707	arterial	right superior ulnar collateral artery	
+FMA22708	arterial	left superior ulnar collateral artery	
+FMA22709	muscular	longissimus thoracis	
+FMA22710	arterial	inferior ulnar collateral artery	
+FMA22711	muscular	longissimus cervicis	
+FMA22712	arterial	right inferior ulnar collateral artery	
+FMA22713	arterial	left inferior ulnar collateral artery	
+FMA22714	muscular	longissimus capitis	
+FMA22726	muscular	right splenius cervicis	
+FMA22727	muscular	left splenius cervicis	
+FMA22728	muscular	right splenius capitis	
+FMA22729	muscular	left splenius capitis	
+FMA22730	arterial	radial artery	
+FMA22733	arterial	right radial artery	
+FMA22734	arterial	left radial artery	
+FMA22738	arterial	branch of radial artery	
+FMA22740	muscular	right iliocostalis lumborum	
+FMA22741	muscular	left iliocostalis lumborum	
+FMA22742	muscular	right iliocostalis thoracis	
+FMA22743	muscular	left iliocostalis thoracis	
+FMA22744	muscular	right iliocostalis cervicis	
+FMA22745	muscular	left iliocostalis cervicis	
+FMA22748	arterial	radial recurrent artery	
+FMA22751	muscular	right longissimus thoracis	
+FMA22753	muscular	left longissimus thoracis	
+FMA22754	muscular	right longissimus capitis	
+FMA22755	arterial	dorsal carpal branch of radial artery	
+FMA22756	muscular	left longissimus capitis	
+FMA22757	muscular	right longissimus cervicis	
+FMA22758	muscular	left longissimus cervicis	
+FMA22762	arterial	arteria princeps pollicis	
+FMA22763	arterial	arteria radialis indicis	
+FMA22764	arterial	right radial recurrent artery	
+FMA22765	muscular	spinalis thoracis	
+FMA22766	arterial	left radial recurrent artery	
+FMA22772	arterial	dorsal carpal branch of right radial artery	
+FMA22773	arterial	dorsal carpal branch of left radial artery	
+FMA22777	arterial	right arteria radialis indicis	
+FMA22778	arterial	left arteria radialis indicis	
+FMA22779	muscular	right spinalis thoracis	
+FMA22780	muscular	left spinalis thoracis	
+FMA22796	arterial	ulnar artery	
+FMA22797	arterial	right ulnar artery	
+FMA22798	arterial	left ulnar artery	
+FMA22799	arterial	branch of ulnar artery	
+FMA22800	arterial	anterior ulnar recurrent artery	
+FMA22801	arterial	right anterior ulnar recurrent artery	
+FMA22802	arterial	left anterior ulnar recurrent artery	
+FMA22803	arterial	posterior ulnar recurrent artery	
+FMA22804	arterial	right posterior ulnar recurrent artery	
+FMA22805	arterial	left posterior ulnar recurrent artery	
+FMA22806	arterial	common interosseous artery	
+FMA22807	arterial	right common interosseous artery	
+FMA22808	arterial	left common interosseous artery	
+FMA22809	arterial	branch of common interosseous artery	
+FMA22810	arterial	anterior interosseous artery	
+FMA22812	arterial	right anterior interosseous artery	
+FMA22813	arterial	left anterior interosseous artery	
+FMA22820	arterial	dorsal carpal branch of ulnar artery	
+FMA22821	arterial	right dorsal carpal branch of ulnar artery	
+FMA22822	arterial	left dorsal carpal branch of ulnar artery	
+FMA22823	muscular	semispinalis	
+FMA22828	muscular	semispinalis thoracis	
+FMA22829	muscular	semispinalis cervicis	
+FMA22830	muscular	semispinalis capitis	
+FMA22834	arterial	superficial palmar arterial arch	
+FMA22835	arterial	right superficial palmar arterial arch	
+FMA22837	arterial	left superficial palmar arterial arch	
+FMA22838	arterial	deep palmar arterial arch	
+FMA22839	arterial	right deep palmar arch	
+FMA22840	arterial	left deep palmar arch	
+FMA22841	muscular	interspinalis muscle	
+FMA22842	arterial	branch of arterial anastomosis	
+FMA22843	arterial	branch of deep palmar arterial arch	
+FMA22845	arterial	branch of superficial palmar arterial arch	
+FMA22846	muscular	interspinalis thoracis	
+FMA22848	muscular	intertransversarius muscle	
+FMA22849	muscular	lumbar intertransversarius	
+FMA22850	muscular	lateral lumbar intertransversarius	
+FMA22851	muscular	medial lumbar intertransversarius	
+FMA22854	arterial	first common palmar digital artery	
+FMA22855	arterial	second common palmar digital artery	
+FMA22856	arterial	right first common palmar digital artery	
+FMA22857	arterial	lateral proper palmar digital artery of middle finger	
+FMA22858	arterial	lateral proper palmar digital artery of right middle finger	
+FMA22860	arterial	lateral proper palmar digital artery of left middle finger	
+FMA22863	arterial	palmar metacarpal artery	
+FMA22864	arterial	right palmar metacarpal artery	
+FMA22865	arterial	left palmar metacarpal artery	
+FMA22872	muscular	right semispinalis thoracis	
+FMA22873	muscular	left semispinalis thoracis	
+FMA22874	muscular	right semispinalis cervicis	
+FMA22875	muscular	left semispinalis cervicis	
+FMA22876	muscular	right semispinalis capitis	
+FMA22877	muscular	left semispinalis capitis	
+FMA22890	muscular	right interspinalis thoracis	
+FMA22891	muscular	left interspinalis thoracis	
+FMA22905	arterial	right arteria princeps pollicis	
+FMA22907	arterial	left arteria princeps pollicis	
+FMA22908	venous	basilic vein	
+FMA22909	venous	right basilic vein	
+FMA22910	venous	left basilic vein	
+FMA22911	venous	deep palmar venous arch	
+FMA22912	venous	right deep palmar venous arch	
+FMA22913	venous	left deep palmar venous arch	
+FMA22914	venous	superficial palmar venous arch	
+FMA22915	venous	right superficial palmar venous arch	
+FMA22916	venous	left superficial palmar venous arch	
+FMA22917	venous	tributary of venous anastomosis	
+FMA22919	venous	palmar metacarpal vein	
+FMA22920	venous	right palmar metacarpal vein	
+FMA22921	venous	left palmar metacarpal vein	
+FMA22922	venous	tributary of superficial palmar venous arch	
+FMA22923	venous	common palmar digital vein	
+FMA22926	venous	tributary of common palmar digital vein	
+FMA22927	venous	proper palmar digital vein of index finger	
+FMA22928	venous	proper palmar digital vein of middle finger	
+FMA22929	venous	proper palmar digital vein of ring finger	
+FMA22930	venous	tributary of subclavian vein	
+FMA22934	venous	brachial vein	
+FMA22935	venous	right medial brachial vein	
+FMA22936	venous	left medial brachial vein	
+FMA22937	venous	tributary of brachial vein	
+FMA22947	venous	radial vein	
+FMA22948	venous	right radial vein	
+FMA22949	venous	left radial vein	
+FMA22950	venous	ulnar vein	
+FMA22951	venous	right ulnar vein	
+FMA22952	venous	left ulnar vein	
+FMA22953	venous	tributary of radial vein	
+FMA22954	venous	dorsal metacarpal vein	
+FMA22963	venous	median cubital vein	
+FMA22964	venous	right median cubital vein	
+FMA22965	venous	left median cubital vein	
+FMA22967	venous	median antebrachial vein	
+FMA22968	venous	right median antebrachial vein	
+FMA22969	venous	left median antebrachial vein	
+FMA23046	arterial	medial proper palmar digital artery of ring finger	
+FMA23047	arterial	medial proper palmar digital artery of index finger	
+FMA23048	arterial	lateral proper palmar digital artery of little finger	
+FMA23050	arterial	medial proper palmar digital artery of right index finger	
+FMA23051	arterial	medial proper palmar digital artery of left index finger	
+FMA23052	arterial	medial proper palmar digital artery of right ring finger	
+FMA23054	arterial	lateral proper palmar digital artery of right little finger	
+FMA23055	arterial	lateral proper palmar digital artery of left little finger	
+FMA23062	arterial	pectoral branch of thoraco-acromial artery	
+FMA23063	arterial	pectoral branch of right thoraco-acromial artery	
+FMA23064	arterial	pectoral branch of left thoraco-acromial artery	
+FMA23065	arterial	acromial branch of thoraco-acromial artery	
+FMA23067	arterial	deltoid branch of thoraco-acromial artery	
+FMA23068	arterial	acromial branch of right thoraco-acromial artery	
+FMA23069	arterial	acromial branch of left thoraco-acromial artery	
+FMA23072	arterial	deltoid branch of right thoraco-acromial artery	
+FMA23073	arterial	deltoid branch of left thoraco-acromial artery	
+FMA23081	muscular	rotator muscle	
+FMA23082	muscular	cervical rotator	
+FMA23083	muscular	thoracic rotator	
+FMA23084	muscular	lumbar rotator	
+FMA23089	muscular	right lumbar rotator	
+FMA23090	muscular	left lumbar rotator	
+FMA23113	venous	subscapular vein	
+FMA23114	venous	right subscapular vein	
+FMA23115	venous	left subscapular vein	
+FMA23117	arterial	branch of deep brachial artery	
+FMA23119	arterial	medial collateral artery	
+FMA23120	arterial	radial collateral artery	
+FMA23124	arterial	middle collateral branch of right deep brachial artery	
+FMA23125	arterial	middle collateral branch of left deep brachial artery	
+FMA23126	arterial	radial collateral branch of right deep brachial artery	
+FMA23127	arterial	radial collateral branch of left deep brachial artery	
+FMA23130	skeletal	right humerus	
+FMA23131	skeletal	left humerus	
+FMA23179	arterial	circumflex scapular artery	
+FMA23180	arterial	right circumflex scapular artery	
+FMA23181	arterial	left circumflex scapular artery	
+FMA23463	skeletal	radius	
+FMA23464	skeletal	right radius	
+FMA23465	skeletal	left radius	
+FMA23466	skeletal	ulna	
+FMA23467	skeletal	right ulna	
+FMA23468	skeletal	left ulna	
+FMA23706	connective	interosseous membrane of forearm	
+FMA23707	connective	interosseous membrane of right forearm	
+FMA23708	connective	interosseous membrane of left forearm	
+FMA23709	skeletal	scaphoid	
+FMA23712	skeletal	lunate	
+FMA23715	skeletal	triquetral	
+FMA23718	skeletal	pisiform	
+FMA23721	skeletal	trapezium	
+FMA23724	skeletal	trapezoid	
+FMA23725	skeletal	right trapezoid	
+FMA23727	skeletal	capitate	
+FMA23730	skeletal	hamate	
+FMA23889	skeletal	carpal bone	
+FMA23899	skeletal	first metacarpal bone	
+FMA23900	skeletal	second metacarpal bone	
+FMA23901	skeletal	third metacarpal bone	
+FMA23902	skeletal	fourth metacarpal bone	
+FMA23903	skeletal	fifth metacarpal bone	
+FMA23914	skeletal	phalanx of finger	
+FMA23918	skeletal	proximal phalanx of thumb	
+FMA23919	skeletal	proximal phalanx of index finger	
+FMA23920	skeletal	proximal phalanx of middle finger	
+FMA23921	skeletal	proximal phalanx of ring finger	
+FMA23922	skeletal	proximal phalanx of little finger	
+FMA23933	skeletal	middle phalanx of index finger	
+FMA23934	skeletal	middle phalanx of middle finger	
+FMA23935	skeletal	middle phalanx of ring finger	
+FMA23936	skeletal	middle phalanx of little finger	
+FMA23938	skeletal	middle phalanx of left index finger	
+FMA23940	skeletal	middle phalanx of left middle finger	
+FMA23942	skeletal	middle phalanx of left ring finger	
+FMA23944	skeletal	middle phalanx of left little finger	
+FMA23945	skeletal	distal phalanx of thumb	
+FMA23946	skeletal	distal phalanx of index finger	
+FMA23947	skeletal	distal phalanx of middle finger	
+FMA23948	skeletal	distal phalanx of ring finger	
+FMA23949	skeletal	distal phalanx of little finger	
+FMA23951	skeletal	distal phalanx of left thumb	
+FMA23953	skeletal	distal phalanx of left index finger	
+FMA23955	skeletal	distal phalanx of left middle finger	
+FMA23957	skeletal	distal phalanx of left ring finger	
+FMA23959	skeletal	distal phalanx of left little finger	
+FMA24218	sensory	subdivision of head	
+FMA24435	skeletal	right scaphoid	
+FMA24436	skeletal	left scaphoid	
+FMA24437	skeletal	right lunate	
+FMA24438	skeletal	left lunate	
+FMA24439	skeletal	right triquetral	
+FMA24440	skeletal	left triquetral	
+FMA24441	skeletal	right pisiform	
+FMA24442	skeletal	left pisiform	
+FMA24443	skeletal	right trapezium	
+FMA24444	skeletal	left trapezium	
+FMA24445	skeletal	left trapezoid	
+FMA24446	skeletal	right capitate	
+FMA24447	skeletal	left capitate	
+FMA24448	skeletal	right hamate	
+FMA24449	skeletal	left hamate	
+FMA24450	skeletal	proximal phalanx of right thumb	
+FMA24451	skeletal	proximal phalanx of right index finger	
+FMA24452	skeletal	proximal phalanx of right middle finger	
+FMA24453	skeletal	proximal phalanx of right ring finger	
+FMA24454	skeletal	proximal phalanx of right little finger	
+FMA24455	skeletal	middle phalanx of right index finger	
+FMA24456	skeletal	middle phalanx of right middle finger	
+FMA24457	skeletal	middle phalanx of right ring finger	
+FMA24458	skeletal	middle phalanx of right little finger	
+FMA24459	skeletal	distal phalanx of right thumb	
+FMA24460	skeletal	distal phalanx of right index finger	
+FMA24461	skeletal	distal phalanx of right middle finger	
+FMA24462	skeletal	distal phalanx of right ring finger	
+FMA24463	skeletal	distal phalanx of right little finger	
+FMA24464	skeletal	right first metacarpal bone	
+FMA24465	skeletal	left first metacarpal bone	
+FMA24466	skeletal	right second metacarpal bone	
+FMA24467	skeletal	left second metacarpal bone	
+FMA24468	skeletal	right third metacarpal bone	
+FMA24469	skeletal	left third metacarpal bone	
+FMA24470	skeletal	right fourth metacarpal bone	
+FMA24471	skeletal	left fourth metacarpal bone	
+FMA24472	skeletal	right fifth metacarpal bone	
+FMA24473	skeletal	left fifth metacarpal bone	
+FMA24474	skeletal	right femur	
+FMA24475	skeletal	left femur	
+FMA24476	skeletal	tibia	
+FMA24477	skeletal	right tibia	
+FMA24478	skeletal	left tibia	
+FMA24479	skeletal	fibula	
+FMA24480	skeletal	right fibula	
+FMA24481	skeletal	left fibula	
+FMA24482	skeletal	right talus	
+FMA24483	skeletal	left talus	
+FMA24485	skeletal	patella	
+FMA24486	skeletal	right patella	
+FMA24487	skeletal	left patella	
+FMA24491	skeletal	tarsal bone	
+FMA24492	skeletal	metatarsal bone	
+FMA24493	skeletal	phalanx of toe	
+FMA24496	skeletal	calcaneus	
+FMA24497	skeletal	right calcaneus	
+FMA24498	skeletal	left calcaneus	
+FMA24499	skeletal	navicular bone of foot	
+FMA24500	skeletal	navicular bone of right foot	
+FMA24501	skeletal	navicular bone of left foot	
+FMA24502	skeletal	first metatarsal bone	
+FMA24503	skeletal	second metatarsal bone	
+FMA24504	skeletal	third metatarsal bone	
+FMA24505	skeletal	fourth metatarsal bone	
+FMA24506	skeletal	fifth metatarsal bone	
+FMA24507	skeletal	right first metatarsal bone	
+FMA24508	skeletal	left first metatarsal bone	
+FMA24509	skeletal	right second metatarsal bone	
+FMA24510	skeletal	left second metatarsal bone	
+FMA24511	skeletal	right third metatarsal bone	
+FMA24512	skeletal	left third metatarsal bone	
+FMA24513	skeletal	right fourth metatarsal bone	
+FMA24514	skeletal	left fourth metatarsal bone	
+FMA24515	skeletal	right fifth metatarsal bone	
+FMA24516	skeletal	left fifth metatarsal bone	
+FMA24517	skeletal	cuneiform bone	
+FMA24518	skeletal	medial cuneiform bone	
+FMA24519	skeletal	intermediate cuneiform bone	
+FMA24520	skeletal	lateral cuneiform bone	
+FMA24521	skeletal	right medial cuneiform bone	
+FMA24522	skeletal	left medial cuneiform bone	
+FMA24523	skeletal	right intermediate cuneiform bone	
+FMA24524	skeletal	left intermediate cuneiform bone	
+FMA24525	skeletal	right lateral cuneiform bone	
+FMA24526	skeletal	left lateral cuneiform bone	
+FMA24527	skeletal	cuboid bone	
+FMA24528	skeletal	right cuboid bone	
+FMA24529	skeletal	left cuboid bone	
+FMA24551	venous	trunk of intrapulmonary vein	
+FMA25058	skeletal	intervertebral disk of axis	
+FMA25624	connective	skeletal ligament	
+FMA25625	connective	nonskeletal ligament	
+FMA30313	arterial	arterial trunk	
+FMA30314	venous	venous trunk	
+FMA30320	digestive	duct	
+FMA31739	respiratory	segment of bronchial tree	
+FMA32514	muscular	prevertebral muscle	
+FMA32515	muscular	postvertebral muscle	
+FMA32516	muscular	extrinsic muscle of shoulder	
+FMA32518	muscular	deep extrinsic muscle of shoulder	
+FMA32519	skeletal	levator scapulae	
+FMA32520	muscular	intrinsic muscle of shoulder	
+FMA32525	muscular	rectus capitis posterior major	
+FMA32526	muscular	rectus capitis posterior minor	
+FMA32527	muscular	obliquus capitis superior	
+FMA32528	muscular	obliquus capitis inferior	
+FMA32529	muscular	zone of trapezius	
+FMA32530	muscular	right rectus capitis posterior major	
+FMA32531	muscular	left rectus capitis posterior major	
+FMA32532	muscular	right rectus capitis posterior minor	
+FMA32533	muscular	left rectus capitis posterior minor	
+FMA32534	muscular	right obliquus capitis superior	
+FMA32535	muscular	left obliquus capitis superior	
+FMA32536	muscular	right obliquus capitis inferior	
+FMA32537	muscular	left obliquus capitis inferior	
+FMA32540	skeletal	right levator scapulae	
+FMA32541	skeletal	left levator scapulae	
+FMA32544	muscular	right supraspinatus	
+FMA32545	muscular	left supraspinatus	
+FMA32546	muscular	infraspinatus	
+FMA32547	muscular	right infraspinatus muscle	
+FMA32548	muscular	left infraspinatus muscle	
+FMA32549	muscular	teres major	
+FMA32550	muscular	teres minor	
+FMA32551	muscular	right teres major	
+FMA32552	muscular	left teres major	
+FMA32553	muscular	right teres minor	
+FMA32554	muscular	left teres minor	
+FMA32555	muscular	ascending part of trapezius	
+FMA32556	muscular	transverse part of trapezius	
+FMA32557	muscular	descending part of trapezius	
+FMA32558	muscular	musculature	
+FMA32559	muscular	superficial postvertebral muscle	
+FMA32560	muscular	intermediate postvertebral muscle	
+FMA32561	muscular	deep postvertebral muscle	
+FMA32582	muscular	posterior suboccipital muscle	
+FMA32618	skeletal	proximal phalanx of second toe	
+FMA32619	skeletal	proximal phalanx of third toe	
+FMA32620	skeletal	proximal phalanx of fourth toe	
+FMA32621	skeletal	proximal phalanx of little toe	
+FMA32623	skeletal	middle phalanx of second toe	
+FMA32624	skeletal	middle phalanx of third toe	
+FMA32625	skeletal	middle phalanx of fourth toe	
+FMA32627	skeletal	distal phalanx of big toe	
+FMA32628	skeletal	distal phalanx of second toe	
+FMA32629	skeletal	distal phalanx of third toe	
+FMA32630	skeletal	distal phalanx of fourth toe	
+FMA32631	skeletal	distal phalanx of little toe	
+FMA32634	skeletal	proximal phalanx of right second toe	
+FMA32635	skeletal	proximal phalanx of left second toe	
+FMA32636	skeletal	proximal phalanx of right third toe	
+FMA32637	skeletal	proximal phalanx of left third toe	
+FMA32638	skeletal	proximal phalanx of right fourth toe	
+FMA32639	skeletal	proximal phalanx of left fourth toe	
+FMA32640	skeletal	proximal phalanx of right little toe	
+FMA32641	skeletal	proximal phalanx of left little toe	
+FMA32642	skeletal	middle phalanx of right second toe	
+FMA32643	skeletal	middle phalanx of left second toe	
+FMA32644	skeletal	middle phalanx of right third toe	
+FMA32645	skeletal	middle phalanx of left third toe	
+FMA32646	skeletal	middle phalanx of right fourth toe	
+FMA32647	skeletal	middle phalanx of left fourth toe	
+FMA32650	skeletal	distal phalanx of right big toe	
+FMA32651	skeletal	distal phalanx of left big toe	
+FMA32652	skeletal	distal phalanx of right second toe	
+FMA32653	skeletal	distal phalanx of left second toe	
+FMA32654	skeletal	distal phalanx of right third toe	
+FMA32655	skeletal	distal phalanx of left third toe	
+FMA32656	skeletal	distal phalanx of right fourth toe	
+FMA32657	skeletal	distal phalanx of left fourth toe	
+FMA32658	skeletal	distal phalanx of right little toe	
+FMA32659	skeletal	distal phalanx of left little toe	
+FMA32672	skeletal	sesamoid bone	
+FMA32884	skeletal	phalanx of big toe	
+FMA32899	skeletal	phalanx of second toe	
+FMA32900	skeletal	phalanx of third toe	
+FMA32901	skeletal	phalanx of fourth toe	
+FMA32902	skeletal	phalanx of little toe	
+FMA33302	skeletal	proximal carpal bone	
+FMA33303	skeletal	distal carpal bone	
+FMA33531	muscular	muscle of shoulder	
+FMA33581	muscular	ascending part of right trapezius	
+FMA33583	muscular	ascending part of left trapezius	
+FMA33584	muscular	transverse part of right trapezius	
+FMA33585	muscular	transverse part of left trapezius	
+FMA33586	muscular	descending part of right trapezius	
+FMA33587	muscular	descending part of left trapezius	
+FMA34676	muscular	zone of deltoid	
+FMA34677	muscular	clavicular part of deltoid	
+FMA34678	muscular	acromial part of deltoid	
+FMA34679	muscular	spinal part of deltoid	
+FMA34680	muscular	clavicular part of right deltoid	
+FMA34681	muscular	clavicular part of left deltoid	
+FMA34682	muscular	acromial part of right deltoid	
+FMA34683	muscular	acromial part of left deltoid	
+FMA34684	muscular	spinal part of right deltoid	
+FMA34685	muscular	spinal part of left deltoid	
+FMA34686	muscular	zone of pectoralis major	
+FMA34687	muscular	clavicular part of pectoralis major	
+FMA34690	muscular	clavicular part of right pectoralis major	
+FMA34691	muscular	clavicular part of left pectoralis major	
+FMA34696	muscular	sternocostal part of pectoralis major	
+FMA34699	muscular	abdominal part of pectoralis major	
+FMA35187	connective	interosseous membrane of leg	
+FMA35192	connective	interosseous membrane of right leg	
+FMA35193	connective	interosseous membrane of left leg	
+FMA35477	skeletal	phalanx of thumb	
+FMA35480	skeletal	phalanx of index finger	
+FMA35483	skeletal	phalanx of middle finger	
+FMA35486	skeletal	phalanx of ring finger	
+FMA35489	skeletal	phalanx of little finger	
+FMA37347	muscular	muscle of pectoral girdle	
+FMA37348	muscular	muscle of free upper limb	
+FMA37349	muscular	pectoral muscle	
+FMA37367	muscular	muscle of pelvic girdle	
+FMA37368	muscular	muscle of free lower limb	
+FMA37369	muscular	muscle of foot	
+FMA37370	muscular	muscle of arm	
+FMA37371	muscular	muscle of forearm	
+FMA37372	muscular	muscle of hand	
+FMA37373	muscular	abductor pollicis brevis	
+FMA37378	muscular	flexor pollicis brevis	
+FMA37379	muscular	opponens pollicis	
+FMA37382	muscular	abductor digiti minimi of hand	
+FMA37383	muscular	flexor digiti minimi brevis of hand	
+FMA37384	muscular	opponens digiti minimi of hand	
+FMA37386	muscular	right abductor pollicis brevis	
+FMA37387	muscular	left abductor pollicis brevis	
+FMA37388	muscular	right flexor pollicis brevis	
+FMA37389	muscular	left flexor pollicis brevis	
+FMA37390	muscular	right opponens pollicis	
+FMA37391	muscular	left opponens pollicis	
+FMA37396	muscular	abductor digiti minimi of right hand	
+FMA37397	muscular	abductor digiti minimi of left hand	
+FMA37398	muscular	flexor digiti minimi brevis of right hand	
+FMA37399	muscular	flexor digiti minimi brevis of left hand	
+FMA37400	muscular	opponens digiti minimi of right hand	
+FMA37401	muscular	opponens digiti minimi of left hand	
+FMA37448	muscular	abductor hallucis	
+FMA37450	muscular	flexor digitorum brevis	
+FMA37451	muscular	abductor digiti minimi of foot	
+FMA37452	muscular	flexor accessorius	
+FMA37453	muscular	lumbrical of foot	
+FMA37455	muscular	flexor digiti minimi brevis of foot	
+FMA37456	muscular	interosseous of foot	
+FMA37458	muscular	plantar interosseous of foot	
+FMA37459	muscular	right abductor hallucis	
+FMA37460	muscular	left abductor hallucis	
+FMA37461	muscular	right flexor digitorum brevis	
+FMA37462	muscular	left flexor digitorum brevis	
+FMA37463	muscular	abductor digiti minimi of right foot	
+FMA37464	muscular	abductor digiti minimi of left foot	
+FMA37465	muscular	right flexor accessorius	
+FMA37466	muscular	left flexor accessorius	
+FMA37471	muscular	flexor digiti minimi brevis of right foot	
+FMA37472	muscular	flexor digiti minimi brevis of left foot	
+FMA37479	muscular	first lumbrical of foot	
+FMA37480	muscular	second lumbrical of foot	
+FMA37481	muscular	third lumbrical of foot	
+FMA37482	muscular	fourth lumbrical of foot	
+FMA37483	muscular	fourth lumbrical of right foot	
+FMA37484	muscular	fourth lumbrical of left foot	
+FMA37485	muscular	third lumbrical of right foot	
+FMA37486	muscular	third lumbrical of left foot	
+FMA37664	muscular	coracobrachialis	
+FMA37665	muscular	right coracobrachialis	
+FMA37666	muscular	left coracobrachialis	
+FMA37667	muscular	brachialis	
+FMA37668	muscular	right brachialis	
+FMA37669	muscular	left brachialis	
+FMA37682	muscular	short head of biceps brachii	
+FMA37683	muscular	long head of biceps brachii	
+FMA37684	muscular	short head of right biceps brachii	
+FMA37685	muscular	short head of left biceps brachii	
+FMA37686	muscular	long head of right biceps brachii	
+FMA37687	muscular	long head of left biceps brachii	
+FMA37692	muscular	long head of triceps brachii	
+FMA37693	muscular	medial head of triceps brachii	
+FMA37694	muscular	lateral head of triceps brachii	
+FMA37695	muscular	medial head of right triceps brachii	
+FMA37696	muscular	medial head of left triceps brachii	
+FMA37697	muscular	lateral head of right triceps brachii	
+FMA37698	muscular	lateral head of left triceps brachii	
+FMA37699	muscular	long head of right triceps brachii	
+FMA37700	muscular	long head of left triceps brachii	
+FMA37704	muscular	anconeus	
+FMA37705	muscular	right anconeus	
+FMA37706	muscular	left anconeus	
+FMA37711	muscular	muscle of anterior compartment of arm	
+FMA37712	muscular	muscle of posterior compartment of arm	
+FMA37717	muscular	first lumbrical of right foot	
+FMA37718	muscular	first lumbrical of left foot	
+FMA37719	muscular	second lumbrical of right foot	
+FMA37720	muscular	second lumbrical of left foot	
+FMA37738	muscular	first plantar interosseous of foot	
+FMA37739	muscular	second plantar interosseous of foot	
+FMA37740	muscular	third plantar interosseous of foot	
+FMA37741	muscular	third plantar interosseous of right foot	
+FMA37742	muscular	third plantar interosseous of left foot	
+FMA37743	muscular	second plantar interosseous of right foot	
+FMA37744	muscular	second plantar interosseous of left foot	
+FMA37745	muscular	first plantar interosseous of right foot	
+FMA37746	muscular	first plantar interosseous of left foot	
+FMA38453	muscular	pronator quadratus	
+FMA38454	muscular	right pronator quadratus	
+FMA38455	muscular	left pronator quadratus	
+FMA38456	muscular	muscle of anterior compartment of forearm	
+FMA38459	muscular	flexor carpi radialis	
+FMA38460	muscular	right flexor carpi radialis	
+FMA38461	muscular	left flexor carpi radialis	
+FMA38462	muscular	palmaris longus	
+FMA38463	muscular	right palmaris longus	
+FMA38464	muscular	left palmaris longus	
+FMA38469	muscular	flexor digitorum superficialis	
+FMA38470	muscular	right flexor digitorum superficialis	
+FMA38471	muscular	left flexor digitorum superficialis	
+FMA38472	muscular	superficial muscle of anterior compartment of forearm	
+FMA38475	muscular	deep muscle of anterior compartment of forearm	
+FMA38478	muscular	flexor digitorum profundus	
+FMA38479	muscular	right flexor digitorum profundus	
+FMA38480	muscular	left flexor digitorum profundus	
+FMA38481	muscular	flexor pollicis longus	
+FMA38482	muscular	right flexor pollicis longus	
+FMA38484	muscular	left flexor pollicis longus	
+FMA38485	muscular	brachioradialis	
+FMA38486	muscular	right brachioradialis	
+FMA38487	muscular	left brachioradialis	
+FMA38488	muscular	muscle of posterior compartment of forearm	
+FMA38491	muscular	superficial muscle of posterior compartment of forearm	
+FMA38494	muscular	extensor carpi radialis longus	
+FMA38495	muscular	right extensor carpi radialis longus	
+FMA38496	muscular	left extensor carpi radialis longus	
+FMA38497	muscular	extensor carpi radialis brevis	
+FMA38498	muscular	right extensor carpi radialis brevis	
+FMA38499	muscular	left extensor carpi radialis brevis	
+FMA38500	muscular	extensor digitorum	
+FMA38501	muscular	right extensor digitorum	
+FMA38502	muscular	left extensor digitorum	
+FMA38503	muscular	extensor digiti minimi	
+FMA38504	muscular	right extensor digiti minimi	
+FMA38505	muscular	left extensor digiti minimi	
+FMA38506	muscular	extensor carpi ulnaris	
+FMA38507	muscular	right extensor carpi ulnaris	
+FMA38508	muscular	left extensor carpi ulnaris	
+FMA38509	muscular	deep muscle of posterior compartment of forearm	
+FMA38512	muscular	supinator	
+FMA38513	muscular	right supinator	
+FMA38514	muscular	left supinator	
+FMA38515	muscular	abductor pollicis longus	
+FMA38516	muscular	right abductor pollicis longus	
+FMA38517	muscular	left abductor pollicis longus	
+FMA38518	muscular	extensor pollicis brevis	
+FMA38519	muscular	right extensor pollicis brevis	
+FMA38520	muscular	left extensor pollicis brevis	
+FMA38521	muscular	extensor pollicis longus	
+FMA38522	muscular	right extensor pollicis longus	
+FMA38523	muscular	left extensor pollicis longus	
+FMA38524	muscular	extensor indicis	
+FMA38525	muscular	right extensor indicis	
+FMA38526	muscular	left extensor indicis	
+FMA38558	muscular	humeral head of pronator teres	
+FMA38559	muscular	ulnar head of pronator teres	
+FMA38560	muscular	humeral head of right pronator teres	
+FMA38561	muscular	humeral head of left pronator teres	
+FMA38562	muscular	ulnar head of right pronator teres	
+FMA38563	muscular	ulnar head of left pronator teres	
+FMA38615	muscular	humeral head of flexor carpi ulnaris	
+FMA38616	muscular	ulnar head of flexor carpi ulnaris	
+FMA38617	muscular	humeral head of right flexor carpi ulnaris	
+FMA38618	muscular	humeral head of left flexor carpi ulnaris	
+FMA38619	muscular	ulnar head of right flexor carpi ulnaris	
+FMA38620	muscular	ulnar head of left flexor carpi ulnaris	
+FMA38928	muscular	right rectus femoris	
+FMA38929	muscular	left rectus femoris	
+FMA38930	muscular	right vastus lateralis	
+FMA38931	muscular	left vastus lateralis	
+FMA38932	muscular	right vastus medialis	
+FMA38933	muscular	left vastus medialis	
+FMA38934	muscular	right vastus intermedius	
+FMA38935	muscular	left vastus intermedius	
+FMA39988	sensory	flexor retinaculum of wrist	
+FMA40120	sensory	flexor retinaculum of right wrist	
+FMA40121	sensory	flexor retinaculum of left wrist	
+FMA42380	muscular	intrinsic muscle of hand	
+FMA42398	muscular	set of lumbricals of right hand	
+FMA42399	muscular	set of lumbricals of left hand	
+FMA42402	muscular	set of palmar interossei of right hand	
+FMA42403	muscular	set of palmar interossei of left hand	
+FMA42404	muscular	set of dorsal interossei of right hand	
+FMA42405	muscular	set of dorsal interossei of left hand	
+FMA42603	sensory	organ component cluster	
+FMA43252	skeletal	proximal phalanx of big toe	
+FMA43253	skeletal	proximal phalanx of right big toe	
+FMA43254	skeletal	proximal phalanx of left big toe	
+FMA43882	muscular	gracilis	
+FMA43883	muscular	right gracilis	
+FMA43884	muscular	left gracilis	
+FMA43885	muscular	adductor minimus	
+FMA43886	muscular	right adductor minimus	
+FMA43887	muscular	left adductor minimus	
+FMA43888	arterial	inferior lateral genicular artery	
+FMA43889	arterial	inferior medial genicular artery	
+FMA43890	arterial	right inferior medial genicular artery	
+FMA43891	arterial	left inferior medial genicular artery	
+FMA43892	arterial	right inferior lateral genicular artery	
+FMA43893	arterial	left inferior lateral genicular artery	
+FMA43894	arterial	anterior tibial artery	
+FMA43895	arterial	posterior tibial artery	
+FMA43896	arterial	right anterior tibial artery	
+FMA43897	arterial	left anterior tibial artery	
+FMA43898	arterial	right posterior tibial artery	
+FMA43899	arterial	left posterior tibial artery	
+FMA43901	arterial	subdivision of posterior tibial artery	
+FMA43902	arterial	anterior tibial recurrent artery	
+FMA43907	arterial	right anterior tibial recurrent artery	
+FMA43908	arterial	left anterior tibial recurrent artery	
+FMA43915	arterial	dorsalis pedis artery	
+FMA43916	arterial	right dorsalis pedis artery	
+FMA43917	arterial	left dorsalis pedis artery	
+FMA43925	arterial	medial plantar artery	
+FMA43926	arterial	lateral plantar artery	
+FMA43929	arterial	right medial plantar artery	
+FMA43930	arterial	left medial plantar artery	
+FMA43931	arterial	right lateral plantar artery	
+FMA43932	arterial	left lateral plantar artery	
+FMA43933	arterial	superficial medial plantar artery	
+FMA43937	arterial	right superficial medial plantar artery	
+FMA43938	arterial	left superficial medial plantar artery	
+FMA43940	arterial	branch of lateral plantar artery	
+FMA43941	arterial	branch of medial plantar artery	
+FMA43942	arterial	plantar arch	
+FMA43943	arterial	right plantar arch	
+FMA43944	arterial	left plantar arch	
+FMA43956	arterial	plantar metatarsal artery	
+FMA44197	connective	tarsal ligament	
+FMA44245	connective	plantar tarsal ligament	
+FMA44248	connective	long plantar ligament	
+FMA44249	connective	right long plantar ligament	
+FMA44250	connective	left long plantar ligament	
+FMA44318	venous	superficial epigastric vein	
+FMA44323	venous	tributary of femoral vein	
+FMA44324	venous	tributary of deep femoral vein	
+FMA44325	venous	medial circumflex femoral vein	
+FMA44326	venous	lateral circumflex femoral vein	
+FMA44327	venous	popliteal vein	
+FMA44328	venous	right popliteal vein	
+FMA44329	venous	left popliteal vein	
+FMA44330	venous	tributary of popliteal vein	
+FMA44331	venous	anterior tibial vein	
+FMA44332	venous	posterior tibial vein	
+FMA44333	venous	small saphenous vein	
+FMA44334	venous	right small saphenous vein	
+FMA44335	venous	left small saphenous vein	
+FMA44336	venous	right anterior tibial vein	
+FMA44337	venous	left anterior tibial vein	
+FMA44338	venous	right posterior tibial vein	
+FMA44339	venous	left posterior tibial vein	
+FMA44340	venous	right superficial epigastric vein	
+FMA44341	venous	left superficial epigastric vein	
+FMA44356	venous	dorsal venous arch of foot	
+FMA44489	venous	plantar venous arch of foot	
+FMA44499	venous	tributary of plantar venous arch	
+FMA44504	venous	plantar metatarsal vein	
+FMA44558	venous	fibular vein	
+FMA44559	venous	genicular vein	
+FMA44594	arterial	arcuate artery	
+FMA44595	arterial	lateral tarsal artery	
+FMA44660	arterial	dorsal digital artery of foot	
+FMA44881	venous	dorsal venous arch of right foot	
+FMA44882	venous	dorsal venous arch of left foot	
+FMA44883	venous	plantar venous arch of right foot	
+FMA44884	venous	plantar venous arch of left foot	
+FMA44885	venous	right fibular vein	
+FMA44886	venous	left fibular vein	
+FMA44887	venous	right genicular vein	
+FMA44888	venous	left genicular vein	
+FMA44918	venous	right medial circumflex femoral vein	
+FMA44919	venous	left medial circumflex femoral vein	
+FMA44920	venous	right lateral circumflex femoral vein	
+FMA44922	venous	left lateral circumflex femoral vein	
+FMA45096	skeletal	sesamoid bone of foot	
+FMA45097	skeletal	sesamoid bone of right foot	
+FMA45098	skeletal	sesamoid bone of left foot	
+FMA45638	nervous	subdivision of nervous system	
+FMA45729	muscular	head of organ	
+FMA45732	digestive	parenchyma	
+FMA45734	skeletal	body of organ	
+FMA45738	muscular	platysma	
+FMA45739	muscular	right platysma	
+FMA45740	muscular	left platysma	
+FMA45826	muscular	right stylohyoid	
+FMA45827	muscular	left stylohyoid	
+FMA45854	muscular	right pubococcygeus	
+FMA45855	muscular	left pubococcygeus	
+FMA45856	muscular	right puborectalis	
+FMA45857	muscular	left puborectalis	
+FMA45858	muscular	right iliococcygeus	
+FMA45859	muscular	left iliococcygeus	
+FMA45874	muscular	abdominal part of right pectoralis major	
+FMA45875	muscular	abdominal part of left pectoralis major	
+FMA45881	muscular	head of biceps femoris	
+FMA45887	muscular	long head of biceps femoris	
+FMA45888	muscular	long head of right biceps femoris	
+FMA45889	muscular	long head of left biceps femoris	
+FMA45890	muscular	short head of biceps femoris	
+FMA45891	muscular	short head of right biceps femoris	
+FMA45892	muscular	short head of left biceps femoris	
+FMA45950	muscular	head of gastrocnemius	
+FMA45956	muscular	medial head of gastrocnemius	
+FMA45957	muscular	medial head of right gastrocnemius	
+FMA45958	muscular	medial head of left gastrocnemius	
+FMA45959	muscular	lateral head of gastrocnemius	
+FMA45960	muscular	lateral head of right gastrocnemius	
+FMA45961	muscular	lateral head of left gastrocnemius	
+FMA45963	muscular	head of flexor hallucis brevis	
+FMA45969	muscular	medial head of flexor hallucis brevis	
+FMA45970	muscular	lateral head of flexor hallucis brevis	
+FMA45971	muscular	medial head of right flexor hallucis brevis	
+FMA45972	muscular	medial head of left flexor hallucis brevis	
+FMA45973	muscular	lateral head of right flexor hallucis brevis	
+FMA45974	muscular	lateral head of left flexor hallucis brevis	
+FMA46012	muscular	head of adductor hallucis	
+FMA46014	muscular	oblique head of adductor hallucis	
+FMA46015	muscular	transverse head of adductor hallucis	
+FMA46018	muscular	oblique head of right adductor hallucis	
+FMA46019	muscular	oblique head of left adductor hallucis	
+FMA46020	muscular	transverse head of right adductor hallucis	
+FMA46021	muscular	transverse head of left adductor hallucis	
+FMA46104	muscular	superficial head of flexor pollicis brevis	
+FMA46119	muscular	oblique head of adductor pollicis	
+FMA46120	muscular	transverse head of adductor pollicis	
+FMA46121	muscular	oblique head of right adductor pollicis	
+FMA46122	muscular	oblique head of left adductor pollicis	
+FMA46123	muscular	transverse head of right adductor pollicis	
+FMA46124	muscular	transverse head of left adductor pollicis	
+FMA46279	muscular	zone of longus colli	
+FMA46280	muscular	superior oblique part of longus colli	
+FMA46281	muscular	inferior oblique part of longus colli	
+FMA46282	muscular	vertical intermediate part of longus colli	
+FMA46284	muscular	superior oblique part of left longus colli	
+FMA46286	muscular	vertical intermediate part of left longus colli	
+FMA46288	muscular	inferior oblique part of left longus colli	
+FMA46290	muscular	suprahyoid muscle	
+FMA46291	muscular	digastric	
+FMA46292	muscular	right digastric	
+FMA46293	muscular	left digastric	
+FMA46308	muscular	longus capitis	
+FMA46309	muscular	right longus capitis	
+FMA46310	muscular	left longus capitis	
+FMA46312	muscular	rectus capitis anterior	
+FMA46313	muscular	right rectus capitis anterior	
+FMA46314	muscular	left rectus capitis anterior	
+FMA46316	muscular	rectus capitis lateralis	
+FMA46317	muscular	right rectus capitis lateralis	
+FMA46318	muscular	left rectus capitis lateralis	
+FMA46320	muscular	mylohyoid	
+FMA46321	muscular	right mylohyoid	
+FMA46322	muscular	left mylohyoid	
+FMA46325	muscular	geniohyoid	
+FMA46326	muscular	right geniohyoid	
+FMA46327	muscular	left geniohyoid	
+FMA46442	connective	tendinous arch of levator ani	
+FMA46443	muscular	right coccygeus	
+FMA46444	muscular	left coccygeus	
+FMA46490	integumentary	subdivision of mouth	
+FMA46562	muscular	muscle of larynx	
+FMA46576	muscular	posterior crico-arytenoid	
+FMA46577	muscular	right posterior crico-arytenoid	
+FMA46578	muscular	left posterior crico-arytenoid	
+FMA46579	muscular	lateral crico-arytenoid	
+FMA46580	muscular	right lateral crico-arytenoid	
+FMA46581	muscular	left lateral crico-arytenoid	
+FMA46582	muscular	transverse arytenoid	
+FMA46583	muscular	oblique arytenoid	
+FMA46584	muscular	right oblique arytenoid	
+FMA46585	muscular	left oblique arytenoid	
+FMA46588	muscular	thyro-arytenoid	
+FMA46589	muscular	right thyro-arytenoid	
+FMA46590	muscular	left thyro-arytenoid	
+FMA46591	muscular	vocalis	
+FMA46592	muscular	right vocalis	
+FMA46593	muscular	left vocalis	
+FMA46601	muscular	zone of oblique arytenoid	
+FMA46602	muscular	aryepiglotticus	
+FMA46604	muscular	right aryepiglotticus	
+FMA46605	muscular	left aryepiglotticus	
+FMA46608	muscular	zone of cricothyroid	
+FMA46609	muscular	straight part of cricothyroid	
+FMA46610	muscular	oblique part of cricothyroid	
+FMA46611	muscular	straight part of right cricothyroid	
+FMA46612	muscular	straight part of left cricothyroid	
+FMA46613	muscular	oblique part of right cricothyroid	
+FMA46614	muscular	oblique part of left cricothyroid	
+FMA46619	respiratory	muscle of pharynx	
+FMA46620	respiratory	constrictor muscle of pharynx	
+FMA46621	respiratory	superior pharyngeal constrictor	
+FMA46622	respiratory	middle pharyngeal constrictor	
+FMA46623	respiratory	inferior pharyngeal constrictor	
+FMA46631	respiratory	right superior pharyngeal constrictor	
+FMA46632	respiratory	left superior pharyngeal constrictor	
+FMA46633	respiratory	right middle pharyngeal constrictor	
+FMA46634	respiratory	left middle pharyngeal constrictor	
+FMA46635	respiratory	right inferior pharyngeal constrictor	
+FMA46636	respiratory	left inferior pharyngeal constrictor	
+FMA46664	respiratory	stylopharyngeus	
+FMA46665	respiratory	salpingopharyngeus	
+FMA46666	respiratory	palatopharyngeus	
+FMA46667	respiratory	right stylopharyngeus	
+FMA46668	respiratory	left stylopharyngeus	
+FMA46669	respiratory	right salpingopharyngeus	
+FMA46670	respiratory	left salpingopharyngeus	
+FMA46671	respiratory	right palatopharyngeus	
+FMA46672	respiratory	left palatopharyngeus	
+FMA46689	muscular	muscle of tongue	
+FMA46690	muscular	genioglossus	
+FMA46691	muscular	hyoglossus	
+FMA46698	muscular	right genioglossus	
+FMA46699	muscular	extrinsic muscle of tongue	
+FMA46702	muscular	left genioglossus	
+FMA46703	muscular	right hyoglossus	
+FMA46704	muscular	left hyoglossus	
+FMA46726	muscular	muscle of palate	
+FMA46727	muscular	levator veli palatini	
+FMA46728	muscular	right levator veli palatini	
+FMA46729	muscular	left levator veli palatini	
+FMA46730	muscular	tensor veli palatini	
+FMA46731	muscular	right tensor veli palatini	
+FMA46732	muscular	left tensor veli palatini	
+FMA46733	muscular	uvular muscle	
+FMA46751	muscular	muscle of face	
+FMA49033	muscular	extra-ocular muscle	
+FMA49035	muscular	superior rectus	
+FMA49036	muscular	inferior rectus	
+FMA49037	muscular	medial rectus	
+FMA49038	muscular	lateral rectus	
+FMA49039	muscular	superior oblique	
+FMA49040	muscular	inferior oblique	
+FMA49041	muscular	levator palpebrae superioris	
+FMA49044	muscular	right superior rectus	
+FMA49045	muscular	left superior rectus	
+FMA49046	muscular	right inferior rectus	
+FMA49047	muscular	left inferior rectus	
+FMA49048	muscular	right levator palpebrae superioris	
+FMA49049	muscular	left levator palpebrae superioris	
+FMA49050	muscular	right inferior oblique	
+FMA49051	muscular	left inferior oblique	
+FMA49052	muscular	right superior oblique	
+FMA49053	muscular	left superior oblique	
+FMA49054	muscular	right lateral rectus	
+FMA49055	muscular	left lateral rectus	
+FMA49056	muscular	right medial rectus	
+FMA49057	muscular	left medial rectus	
+FMA49065	connective	trochlea of superior oblique	
+FMA49067	connective	trochlea of right superior oblique	
+FMA49068	connective	trochlea of left superior oblique	
+FMA49071	sensory	common tendinous ring	
+FMA49072	sensory	right common tendinous ring	
+FMA49073	sensory	left common tendinous ring	
+FMA49143	connective	check ligament of lateral rectus	
+FMA49144	connective	check ligament of right lateral rectus	
+FMA49145	connective	check ligament of left lateral rectus	
+FMA49146	connective	check ligament of medial rectus	
+FMA49147	connective	check ligament of right medial rectus	
+FMA49148	connective	check ligament of left medial rectus	
+FMA49443	nervous	anatomical cluster	
+FMA49868	arterial	ophthalmic artery	
+FMA49869	arterial	right ophthalmic artery	
+FMA49870	arterial	left ophthalmic artery	
+FMA49893	arterial	coronary artery	
+FMA49907	venous	pulmonary venous tree organ	
+FMA49908	venous	superior pulmonary vein	
+FMA49910	venous	inferior pulmonary vein	
+FMA49911	venous	right inferior pulmonary vein	
+FMA49913	venous	left inferior pulmonary vein	
+FMA49914	venous	right superior pulmonary vein	
+FMA49916	venous	left superior pulmonary vein	
+FMA49918	arterial	systemic arterial trunk	
+FMA50028	arterial	anterior cerebral artery	
+FMA50029	arterial	right anterior cerebral artery	
+FMA50030	arterial	left anterior cerebral artery	
+FMA50031	arterial	branch of anterior cerebral artery	
+FMA50080	arterial	zone of middle cerebral artery	
+FMA50081	arterial	branch of middle cerebral artery	
+FMA50084	arterial	posterior communicating artery	
+FMA50085	arterial	right posterior communicating artery	
+FMA50086	arterial	left posterior communicating artery	
+FMA50087	arterial	anterior choroidal artery	
+FMA50088	arterial	right anterior choroidal artery	
+FMA50089	arterial	left anterior choroidal artery	
+FMA50112	arterial	branch of anterior choroidal artery	
+FMA50119	arterial	branch of anterior choroidal artery to posterior limb of internal capsule	
+FMA50146	arterial	branch of right anterior choroidal artery to posterior limb of right internal capsule	
+FMA50147	arterial	branch of left anterior choroidal artery to posterior limb of left internal capsule	
+FMA50168	arterial	branch of posterior communicating artery	
+FMA50169	arterial	anterior communicating artery	
+FMA50185	muscular	musculature of subdivision of trunk	
+FMA50200	muscular	musculature of subdivision of upper limb	
+FMA50328	arterial	medial frontobasal artery	
+FMA50330	arterial	callosomarginal artery	
+FMA50331	arterial	branch of callosomarginal artery	
+FMA50333	arterial	intermediomedial branch of callosomarginal artery	
+FMA50334	arterial	posteromedial branch of callosomarginal artery	
+FMA50336	arterial	paracentral branch of callosomarginal artery	
+FMA50337	arterial	pericallosal artery	
+FMA50338	arterial	branch of pericallosal artery	
+FMA50339	arterial	precuneal branch of pericallosal artery	
+FMA50343	arterial	right medial frontobasal artery	
+FMA50344	arterial	left medial frontobasal artery	
+FMA50347	arterial	right callosomarginal artery	
+FMA50348	arterial	left callosomarginal artery	
+FMA50351	arterial	intermediomedial branch of right callosomarginal artery	
+FMA50352	arterial	intermediomedial branch of left callosomarginal artery	
+FMA50353	arterial	posteromedial branch of right callosomarginal artery	
+FMA50354	arterial	posteromedial branch of left callosomarginal artery	
+FMA50357	arterial	paracentral branch of right callosomarginal artery	
+FMA50358	arterial	paracentral branch of left callosomarginal artery	
+FMA50359	arterial	right pericallosal artery	
+FMA50360	arterial	left pericallosal artery	
+FMA50361	arterial	precuneal branch of right pericallosal artery	
+FMA50362	arterial	precuneal branch of left pericallosal artery	
+FMA50365	arterial	sphenoid part of middle cerebral artery	
+FMA50366	arterial	sphenoid part of right middle cerebral artery	
+FMA50367	arterial	sphenoid part of left middle cerebral artery	
+FMA50368	arterial	insular part of middle cerebral artery	
+FMA50369	arterial	insular part of right middle cerebral artery	
+FMA50370	arterial	insular part of left middle cerebral artery	
+FMA50376	arterial	anterolateral central branch of middle cerebral artery	
+FMA50377	arterial	anterolateral central branch of right middle cerebral artery	
+FMA50378	arterial	anterolateral central branch of left middle cerebral artery	
+FMA50379	arterial	polar temporal artery	
+FMA50380	arterial	right polar temporal artery	
+FMA50381	arterial	left polar temporal artery	
+FMA50382	arterial	anterior temporal artery	
+FMA50383	arterial	right anterior temporal artery	
+FMA50384	arterial	left anterior temporal artery	
+FMA50391	muscular	musculature of subdivision of free upper limb	
+FMA50427	arterial	hypothalamic branch of posterior communicating artery	
+FMA50428	arterial	hypothalamic branch of right posterior communicating artery	
+FMA50429	arterial	hypothalamic branch of left posterior communicating artery	
+FMA50436	arterial	superior terminal branch of middle cerebral artery	
+FMA50437	arterial	prefrontal artery	
+FMA50438	arterial	temporal artery	
+FMA50439	arterial	inferior terminal branch of middle cerebral artery	
+FMA50442	arterial	lateral frontobasal artery	
+FMA50443	arterial	right lateral frontobasal artery	
+FMA50444	arterial	left lateral frontobasal artery	
+FMA50445	arterial	right prefrontal artery	
+FMA50466	arterial	middle temporal branch of middle cerebral artery	
+FMA50467	arterial	middle temporal branch of right middle cerebral artery	
+FMA50468	arterial	middle temporal branch of left middle cerebral artery	
+FMA50469	arterial	posterior temporal branch of middle cerebral artery	
+FMA50470	arterial	posterior temporal branch of right middle cerebral artery	
+FMA50471	arterial	posterior temporal branch of left middle cerebral artery	
+FMA50472	arterial	temporo-occipital branch of middle cerebral artery	
+FMA50473	arterial	temporo-occipital branch of right middle cerebral artery	
+FMA50474	arterial	temporo-occipital branch of left middle cerebral artery	
+FMA50475	arterial	branch of middle cerebral artery to angular gyrus	
+FMA50476	arterial	branch of right middle cerebral artery to right angular gyrus	
+FMA50477	arterial	branch of left middle cerebral artery to left angular gyrus	
+FMA50478	arterial	left prefrontal artery	
+FMA50479	arterial	artery of precentral sulcus	
+FMA50480	arterial	artery of right precentral sulcus	
+FMA50481	arterial	artery of left precentral sulcus	
+FMA50482	arterial	artery of postcentral sulcus	
+FMA50483	arterial	artery of right postcentral sulcus	
+FMA50484	arterial	artery of left postcentral sulcus	
+FMA50485	arterial	anterior parietal artery	
+FMA50486	arterial	right anterior parietal artery	
+FMA50487	arterial	left anterior parietal artery	
+FMA50488	arterial	posterior parietal artery	
+FMA50489	arterial	right posterior parietal artery	
+FMA50490	arterial	left posterior parietal artery	
+FMA50518	arterial	posterior inferior cerebellar artery	
+FMA50519	arterial	right posterior inferior cerebellar artery	
+FMA50520	arterial	left posterior inferior cerebellar artery	
+FMA50531	arterial	anterior spinal artery	
+FMA50532	arterial	right anterior spinal artery	
+FMA50533	arterial	left anterior spinal artery	
+FMA50542	arterial	basilar artery	
+FMA50544	arterial	anterior inferior cerebellar artery	
+FMA50563	arterial	branch of pontine artery	
+FMA50564	arterial	medial branch of pontine artery	
+FMA50565	arterial	lateral branch of pontine artery	
+FMA50566	arterial	medial branch of right pontine artery	
+FMA50567	arterial	medial branch of left pontine artery	
+FMA50568	arterial	lateral branch of right pontine artery	
+FMA50569	arterial	lateral branch of left pontine artery	
+FMA50573	arterial	superior cerebellar artery	
+FMA50574	arterial	right superior cerebellar artery	
+FMA50575	arterial	left superior cerebellar artery	
+FMA50576	arterial	branch of superior cerebellar artery	
+FMA50577	arterial	lateral superior cerebellar artery	
+FMA50578	arterial	lateral branch of right superior cerebellar artery	
+FMA50579	arterial	lateral branch of left superior cerebellar artery	
+FMA50580	arterial	medial branch of superior cerebellar artery	
+FMA50581	arterial	medial branch of right superior cerebellar artery	
+FMA50582	arterial	medial branch of left superior cerebellar artery	
+FMA50586	arterial	branch of posterior cerebral artery	
+FMA50587	arterial	posteromedial central branch of posterior cerebral artery	
+FMA50589	arterial	zone of posterior cerebral artery	
+FMA50590	arterial	precommunicating part of posterior cerebral artery	
+FMA50591	arterial	postcommunicating part of posterior cerebral artery	
+FMA50624	arterial	thalamoperforating artery	
+FMA50629	arterial	thalamogeniculate artery	
+FMA50630	arterial	posterior medial choroidal artery	
+FMA50633	arterial	lateral occipital artery	
+FMA50638	arterial	medial occipital artery	
+FMA50639	arterial	precommunicating part of right posterior cerebral artery	
+FMA50640	arterial	precommunicating part of left posterior cerebral artery	
+FMA50641	arterial	postcommunicating part of right posterior cerebral artery	
+FMA50642	arterial	postcommunicating part of left posterior cerebral artery	
+FMA50643	arterial	right lateral occipital artery	
+FMA50644	arterial	left lateral occipital artery	
+FMA50645	arterial	right medial occipital artery	
+FMA50646	arterial	left medial occipital artery	
+FMA50647	arterial	branch of lateral occipital artery	
+FMA50648	arterial	anterior temporal branch of lateral occipital artery	
+FMA50649	arterial	middle temporal branch of lateral occipital artery	
+FMA50651	arterial	branch of medial occipital artery	
+FMA50652	arterial	splenial artery	
+FMA50660	arterial	posteromedial central branch of right posterior cerebral artery	
+FMA50661	arterial	posteromedial central branch of left posterior cerebral artery	
+FMA50664	arterial	right thalamoperforating artery	
+FMA50665	arterial	left thalamoperforating artery	
+FMA50670	arterial	right thalamogeniculate artery	
+FMA50671	arterial	left thalamogeniculate artery	
+FMA50672	arterial	right posterior medial choroidal artery	
+FMA50673	arterial	left posterior medial choroidal artery	
+FMA50678	arterial	anterior temporal branch of right lateral occipital artery	
+FMA50679	arterial	anterior temporal branch of left lateral occipital artery	
+FMA50680	arterial	middle temporal branch of right lateral occipital artery	
+FMA50681	arterial	middle temporal branch of left lateral occipital artery	
+FMA50684	arterial	right splenial artery	
+FMA50685	arterial	left splenial artery	
+FMA50694	arterial	branch of medial branch of superior cerebellar artery	
+FMA50695	arterial	superior vermian branch of medial branch of superior cerebellar artery	
+FMA50696	arterial	superior vermian branch of medial branch of right superior cerebellar artery	
+FMA50697	arterial	superior vermian branch of medial branch of left superior cerebellar artery	
+FMA50705	connective	anatomical boundary entity	
+FMA50720	arterial	artery	
+FMA50722	arterial	region of vascular tree organ	
+FMA50723	venous	vein	
+FMA50735	venous	hepatic portal vein	
+FMA50736	venous	subdivision of pre-hepatic portal vein	
+FMA50737	arterial	celiac artery	
+FMA50859	venous	right suprascapular vein	
+FMA50860	venous	left suprascapular vein	
+FMA50863	nervous	optic nerve	
+FMA50865	nervous	trochlear nerve	
+FMA50872	arterial	right pulmonary artery	
+FMA50873	arterial	left pulmonary artery	
+FMA50875	nervous	right optic nerve	
+FMA50878	nervous	left optic nerve	
+FMA50881	nervous	right trochlear nerve	
+FMA50882	nervous	left trochlear nerve	
+FMA51041	venous	deep femoral vein	
+FMA51042	venous	right deep femoral vein	
+FMA51043	venous	left deep femoral vein	
+FMA51048	skeletal	iliotibial tract	
+FMA51061	connective	calcaneal tendon	
+FMA51071	muscular	flexor digitorum longus	
+FMA51099	skeletal	tibialis posterior	
+FMA51141	muscular	extensor hallucis brevis	
+FMA51144	muscular	right extensor hallucis brevis	
+FMA51145	muscular	left extensor hallucis brevis	
+FMA51886	arterial	branch of cerebral arterial circle	
+FMA52570	nervous	branch of cranial nerve	
+FMA52571	nervous	branch of oculomotor nerve	
+FMA52572	nervous	superior branch of oculomotor nerve	
+FMA52573	nervous	inferior branch of oculomotor nerve	
+FMA52574	nervous	superior branch of right oculomotor nerve	
+FMA52575	nervous	superior branch of left oculomotor nerve	
+FMA52576	nervous	inferior branch of right oculomotor nerve	
+FMA52577	nervous	inferior branch of left oculomotor nerve	
+FMA52607	nervous	branch of trigeminal nerve	
+FMA52621	nervous	ophthalmic nerve	
+FMA52622	nervous	right ophthalmic nerve	
+FMA52623	nervous	left ophthalmic nerve	
+FMA52624	nervous	branch of ophthalmic nerve	
+FMA52628	nervous	lacrimal nerve	
+FMA52629	nervous	right lacrimal nerve	
+FMA52630	nervous	left lacrimal nerve	
+FMA52638	nervous	frontal nerve	
+FMA52639	nervous	right frontal nerve	
+FMA52640	nervous	left frontal nerve	
+FMA52641	nervous	branch of frontal nerve	
+FMA52642	nervous	supratrochlear nerve	
+FMA52643	nervous	right supratrochlear nerve	
+FMA52644	nervous	left supratrochlear nerve	
+FMA52655	nervous	supra-orbital nerve	
+FMA52656	nervous	right supra-orbital nerve	
+FMA52657	nervous	left supra-orbital nerve	
+FMA52668	nervous	nasociliary nerve	
+FMA52669	nervous	right nasociliary nerve	
+FMA52670	nervous	left nasociliary nerve	
+FMA52671	nervous	branch of nasociliary nerve	
+FMA52672	nervous	communicating branch of nasociliary nerve with ciliary ganglion	
+FMA52673	nervous	communicating branch of right nasociliary nerve with right ciliary ganglion	
+FMA52674	nervous	communicating branch of left nasociliary nerve with left ciliary ganglion	
+FMA52675	nervous	anterior ethmoidal nerve	
+FMA52676	nervous	right anterior ethmoidal nerve	
+FMA52677	nervous	left anterior ethmoidal nerve	
+FMA52691	nervous	long ciliary nerve	
+FMA52693	nervous	infratrochlear nerve	
+FMA52698	nervous	right infratrochlear nerve	
+FMA52699	nervous	left infratrochlear nerve	
+FMA52714	nervous	posterior ethmoidal nerve	
+FMA52715	nervous	right posterior ethmoidal nerve	
+FMA52716	nervous	left posterior ethmoidal nerve	
+FMA52734	skeletal	frontal bone	
+FMA52735	skeletal	occipital bone	
+FMA52736	skeletal	sphenoid bone	
+FMA52737	skeletal	temporal bone	
+FMA52738	skeletal	right temporal bone	
+FMA52739	skeletal	left temporal bone	
+FMA52740	skeletal	ethmoid	
+FMA52741	sensory	lacrimal bone	
+FMA52745	skeletal	nasal bone	
+FMA52746	skeletal	palatine bone	
+FMA52747	skeletal	zygomatic bone	
+FMA52748	skeletal	mandible	
+FMA52749	skeletal	hyoid bone	
+FMA52781	sensory	external ear	
+FMA52788	skeletal	right parietal bone	
+FMA52789	skeletal	left parietal bone	
+FMA52892	skeletal	right zygomatic bone	
+FMA52893	skeletal	left zygomatic bone	
+FMA53549	nervous	right ciliary ganglion	
+FMA53550	nervous	left ciliary ganglion	
+FMA53645	sensory	right lacrimal bone	
+FMA53646	sensory	left lacrimal bone	
+FMA53647	skeletal	right nasal bone	
+FMA53648	skeletal	left nasal bone	
+FMA53649	skeletal	right maxilla	
+FMA53650	skeletal	left maxilla	
+FMA53655	skeletal	right palatine bone	
+FMA53656	skeletal	left palatine bone	
+FMA53667	integumentary	hair	
+FMA54158	connective	tendon of levator palpebrae superioris	
+FMA54159	connective	tendon of right levator palpebrae superioris	
+FMA54237	integumentary	eyebrow	
+FMA54241	integumentary	hair of head	
+FMA54250	integumentary	hair of trunk	
+FMA54319	integumentary	pubic hair	
+FMA54393	integumentary	subdivision of face	
+FMA54640	digestive	tongue	
+FMA54736	respiratory	inferior nasal concha	
+FMA54737	respiratory	right inferior nasal concha	
+FMA54738	respiratory	left inferior nasal concha	
+FMA54839	connective	interosseous membrane	
+FMA54877	respiratory	subdivision of pharynx	
+FMA54921	connective	extrinsic ligament of larynx	
+FMA55053	respiratory	subdivision of laryngopharynx	
+FMA55077	connective	pharyngeal raphe	
+FMA55093	digestive	submandibular gland	
+FMA55099	skeletal	thyroid cartilage	
+FMA55107	skeletal	cartilage organ	
+FMA55108	skeletal	laryngeal cartilage	
+FMA55109	skeletal	arytenoid cartilage	
+FMA55110	skeletal	corniculate cartilage	
+FMA55111	skeletal	cuneiform cartilage	
+FMA55113	skeletal	right arytenoid cartilage	
+FMA55114	skeletal	left arytenoid cartilage	
+FMA55115	skeletal	right corniculate cartilage	
+FMA55116	skeletal	left corniculate cartilage	
+FMA55117	skeletal	right cuneiform cartilage	
+FMA55118	skeletal	left cuneiform cartilage	
+FMA55130	respiratory	epiglottis	
+FMA55131	connective	ligament of larynx	
+FMA55132	connective	thyrohyoid membrane	
+FMA55133	connective	right thyrohyoid membrane	
+FMA55134	connective	left thyrohyoid membrane	
+FMA55135	connective	thyrohyoid ligament	
+FMA55138	connective	median thyrohyoid ligament	
+FMA55139	connective	lateral thyrohyoid ligament	
+FMA55140	connective	right lateral thyrohyoid ligament	
+FMA55141	connective	left lateral thyrohyoid ligament	
+FMA55226	muscular	intrinsic muscle of larynx	
+FMA55227	connective	hyo-epiglottic ligament	
+FMA55230	connective	thyro-epiglottic ligament	
+FMA55233	connective	cricothyroid ligament	
+FMA55237	connective	median cricothyroid ligament	
+FMA55244	connective	vocal ligament	
+FMA55245	connective	right vocal ligament	
+FMA55246	connective	left vocal ligament	
+FMA55250	connective	conus elasticus	
+FMA55251	connective	right conus elasticus	
+FMA55252	connective	left conus elasticus	
+FMA55268	muscular	organ zone	
+FMA55618	connective	pterygomandibular raphe	
+FMA55619	connective	right pterygomandibular raphe	
+FMA55620	connective	left pterygomandibular raphe	
+FMA55636	skeletal	canine tooth	
+FMA55637	skeletal	premolar tooth	
+FMA55638	skeletal	molar tooth	
+FMA55652	arterial	anatomical set	
+FMA55661	digestive	parenchymatous organ	
+FMA55662	digestive	lobular organ	
+FMA55665	muscular	nonparenchymatous organ	
+FMA55670	muscular	solid organ	
+FMA55671	skeletal	cavitated organ	
+FMA55672	skeletal	organ with organ cavity	
+FMA55673	skeletal	organ with cavitated organ parts	
+FMA55676	nervous	segment of brain	
+FMA55677	venous	hollow tree organ	
+FMA55680	skeletal	right upper lateral secondary incisor tooth	
+FMA55681	skeletal	right upper central secondary incisor tooth	
+FMA55682	skeletal	left upper central secondary incisor tooth	
+FMA55683	skeletal	left upper lateral secondary incisor tooth	
+FMA55686	skeletal	right lower secondary canine tooth	
+FMA55687	skeletal	left lower secondary canine tooth	
+FMA55688	skeletal	right upper second secondary premolar tooth	
+FMA55689	skeletal	right upper first secondary premolar tooth	
+FMA55690	skeletal	left upper first secondary premolar tooth	
+FMA55691	skeletal	left upper second secondary premolar tooth	
+FMA55692	skeletal	left lower second secondary premolar tooth	
+FMA55693	skeletal	left lower first secondary premolar tooth	
+FMA55694	skeletal	right lower first secondary premolar tooth	
+FMA55695	skeletal	right lower second secondary premolar tooth	
+FMA55697	skeletal	right upper second secondary molar tooth	
+FMA55698	skeletal	right upper first secondary molar tooth	
+FMA55699	skeletal	left upper first secondary molar tooth	
+FMA55700	skeletal	left upper second secondary molar tooth	
+FMA55703	skeletal	left lower second secondary molar tooth	
+FMA55704	skeletal	left lower first secondary molar tooth	
+FMA55705	skeletal	right lower first secondary molar tooth	
+FMA55706	skeletal	right lower second secondary molar tooth	
+FMA55712	skeletal	upper secondary incisor tooth	
+FMA55713	skeletal	lower secondary incisor tooth	
+FMA55714	skeletal	upper secondary canine tooth	
+FMA55715	skeletal	lower secondary canine tooth	
+FMA55716	skeletal	upper secondary premolar tooth	
+FMA55717	skeletal	lower secondary premolar tooth	
+FMA55720	skeletal	upper secondary molar tooth	
+FMA55721	skeletal	lower secondary molar tooth	
+FMA55722	skeletal	upper central secondary incisor tooth	
+FMA55723	skeletal	lower central secondary incisor tooth	
+FMA55724	skeletal	upper lateral secondary incisor tooth	
+FMA55725	skeletal	lower lateral secondary incisor tooth	
+FMA55798	skeletal	right upper secondary canine tooth	
+FMA55799	skeletal	left upper secondary canine tooth	
+FMA55801	skeletal	upper first secondary premolar tooth	
+FMA55802	skeletal	upper second secondary premolar tooth	
+FMA55803	skeletal	lower first secondary premolar tooth	
+FMA55804	skeletal	lower second secondary premolar tooth	
+FMA55811	skeletal	upper first secondary molar tooth	
+FMA55812	skeletal	upper second secondary molar tooth	
+FMA55814	skeletal	lower first secondary molar tooth	
+FMA55815	skeletal	lower second secondary molar tooth	
+FMA57140	skeletal	right lower lateral secondary incisor tooth	
+FMA57141	skeletal	left lower lateral secondary incisor tooth	
+FMA57142	skeletal	right lower central secondary incisor tooth	
+FMA57143	skeletal	left lower central secondary incisor tooth	
+FMA57965	skeletal	zone of investing fascia	
+FMA58071	sensory	chamber of eyeball	
+FMA58078	sensory	anterior chamber of eyeball	
+FMA58081	sensory	anterior chamber of right eyeball	
+FMA58082	sensory	anterior chamber of left eyeball	
+FMA58101	sensory	layer of wall of eyeball	
+FMA58102	sensory	fibrous layer of eyeball	
+FMA58235	sensory	iris	
+FMA58236	sensory	right iris	
+FMA58237	sensory	left iris	
+FMA58238	sensory	cornea	
+FMA58239	sensory	right cornea	
+FMA58240	sensory	left cornea	
+FMA58241	sensory	lens	
+FMA58242	sensory	right lens	
+FMA58243	sensory	left lens	
+FMA58245	sensory	lacrimal canaliculus	
+FMA58269	sensory	sclera	
+FMA58271	sensory	right sclera	
+FMA58272	sensory	left sclera	
+FMA58274	muscular	muscle of trunk	
+FMA58298	sensory	choroid	
+FMA58299	sensory	right choroid	
+FMA58300	sensory	left choroid	
+FMA58420	skeletal	zone of investing fascia of free lower limb	
+FMA58421	skeletal	zone of investing fascia of lower limb	
+FMA58431	sensory	corona ciliaris	
+FMA58479	sensory	region of ciliary body	
+FMA58483	sensory	right corona ciliaris	
+FMA58484	sensory	left corona ciliaris	
+FMA58599	sensory	region of retina	
+FMA58604	sensory	optic part of retina	
+FMA58607	sensory	optic part of right retina	
+FMA58608	sensory	optic part of left retina	
+FMA58741	skeletal	zone of investing fascia of thigh	
+FMA58775	skeletal	zone of fascia lata	
+FMA58776	skeletal	right iliotibial tract	
+FMA58777	skeletal	left iliotibial tract	
+FMA58817	sensory	subdivision of head proper	
+FMA58827	sensory	vitreous body	
+FMA58828	sensory	right vitreous body	
+FMA58829	sensory	left vitreous body	
+FMA58838	sensory	suspensory ligament of lens	
+FMA58839	sensory	suspensory ligament of right lens	
+FMA58840	sensory	suspensory ligament of left lens	
+FMA59086	sensory	tarsal plate of eyelid	
+FMA59087	sensory	tarsal plate of upper eyelid	
+FMA59088	sensory	tarsal plate of lower eyelid	
+FMA59089	sensory	tarsal plate of right lower eyelid	
+FMA59090	sensory	tarsal plate of left lower eyelid	
+FMA59091	sensory	tarsal plate of right upper eyelid	
+FMA59092	sensory	tarsal plate of left upper eyelid	
+FMA59101	sensory	lacrimal gland	
+FMA59102	sensory	right lacrimal gland	
+FMA59103	sensory	left lacrimal gland	
+FMA59402	sensory	lacrimal lake	
+FMA59502	respiratory	nasal cartilage	
+FMA59503	respiratory	septal nasal cartilage	
+FMA59504	skeletal	major alar cartilage	
+FMA59505	skeletal	right major alar cartilage	
+FMA59506	skeletal	left major alar cartilage	
+FMA59511	respiratory	lateral nasal cartilage	
+FMA59512	respiratory	right lateral nasal cartilage	
+FMA59513	respiratory	left lateral nasal cartilage	
+FMA59541	sensory	right lacrimal lake	
+FMA59542	sensory	left lacrimal lake	
+FMA59545	sensory	right lacrimal sac	
+FMA59546	sensory	left lacrimal sac	
+FMA59555	sensory	right nasolacrimal duct	
+FMA59556	sensory	left nasolacrimal duct	
+FMA59582	sensory	right lacrimal canaliculus	
+FMA59583	sensory	left lacrimal canaliculus	
+FMA59762	skeletal	gingiva	
+FMA59763	skeletal	gingiva of upper jaw	
+FMA59764	skeletal	gingiva of lower jaw	
+FMA59788	digestive	major salivary gland	
+FMA59791	digestive	sublingual gland	
+FMA59802	digestive	right submandibular gland	
+FMA59803	digestive	left submandibular gland	
+FMA59804	digestive	right sublingual gland	
+FMA59805	digestive	left sublingual gland	
+FMA59816	integumentary	lip	
+FMA61284	nervous	neural tree organ	
+FMA61708	sensory	subdivision of auriculotemporal part of head	
+FMA61775	arterial	physical anatomical entity	
+FMA61815	nervous	cardinal segment of brain	
+FMA61820	nervous	segment of cerebral hemisphere	
+FMA61823	nervous	lobe of cerebral hemisphere	
+FMA61833	nervous	caudate nucleus	
+FMA61834	nervous	putamen	
+FMA61835	nervous	globus pallidus	
+FMA61841	nervous	amygdala	
+FMA61842	nervous	septum of telencephalon	
+FMA61857	nervous	superior frontal gyrus	
+FMA61859	nervous	middle frontal gyrus	
+FMA61860	nervous	inferior frontal gyrus	
+FMA61894	nervous	precentral gyrus	
+FMA61896	nervous	postcentral gyrus	
+FMA61897	nervous	supramarginal gyrus	
+FMA61898	nervous	angular gyrus	
+FMA61899	nervous	superior parietal lobule	
+FMA61906	nervous	middle temporal gyrus	
+FMA61907	nervous	inferior temporal gyrus	
+FMA61908	nervous	fusiform gyrus	
+FMA61918	nervous	parahippocampal gyrus	
+FMA61934	sensory	choroid plexus of cerebral hemisphere	
+FMA61950	nervous	internal capsule	
+FMA61961	nervous	anterior commissure	
+FMA61965	nervous	fornix of forebrain	
+FMA61970	nervous	commissure of fornix of forebrain	
+FMA61974	nervous	stria terminalis	
+FMA61975	nervous	lamina terminalis	
+FMA61993	nervous	midbrain	
+FMA61996	nervous	segment of forebrain	
+FMA61997	nervous	segment of midbrain	
+FMA61998	nervous	segment of hindbrain	
+FMA62004	nervous	medulla oblongata	
+FMA62007	nervous	thalamus	
+FMA62008	nervous	hypothalamus	
+FMA62032	nervous	habenula	
+FMA62045	nervous	optic chiasm	
+FMA62046	nervous	optic tract	
+FMA62072	nervous	posterior commissure	
+FMA62080	nervous	stria medullaris of thalamus	
+FMA62209	nervous	lateral geniculate body	
+FMA62211	nervous	medial geniculate body	
+FMA62327	nervous	tuber cinereum	
+FMA62374	nervous	segment of telencephalon	
+FMA62382	nervous	right optic tract	
+FMA62394	nervous	peduncle of midbrain	
+FMA62398	nervous	segment of midbrain tectum	
+FMA62403	nervous	superior colliculus	
+FMA62404	nervous	inferior colliculus	
+FMA62434	nervous	cingulate gyrus	
+FMA62445	nervous	commissure of diencephalon	
+FMA62466	nervous	capsule of cerebral hemisphere	
+FMA62493	nervous	hippocampus	
+FMA62504	venous	tributary of deep palmar venous arch	
+FMA62506	venous	dorsal venous network of right hand	
+FMA62507	venous	dorsal venous network of left hand	
+FMA62512	venous	trunk of systemic vein	
+FMA62514	nervous	basal ganglion of telencephalon	
+FMA62955	arterial	anatomical entity	
+FMA63103	digestive	pancreatic duct tree	
+FMA63120	digestive	parenchyma of pancreas	
+FMA63812	arterial	set of arteries	
+FMA63814	venous	set of veins	
+FMA63822	arterial	posterior intercostal arteries	
+FMA64796	digestive	region of serous membrane	
+FMA64822	muscular	superficial muscle of neck	
+FMA64829	muscular	scalene muscle	
+FMA64875	muscular	anterior suboccipital muscle	
+FMA64916	muscular	thenar muscle	
+FMA64917	muscular	hypothenar muscle	
+FMA64922	muscular	gluteal muscle	
+FMA64989	digestive	heterogeneous cluster	
+FMA64990	sensory	organ part cluster	
+FMA65004	muscular	superficial muscle of posterior compartment of leg	
+FMA65008	muscular	deep muscle of posterior compartment of leg	
+FMA65014	muscular	right flexor hallucis longus	
+FMA65015	muscular	left flexor hallucis longus	
+FMA65016	muscular	right flexor digitorum longus	
+FMA65017	muscular	left flexor digitorum longus	
+FMA65018	skeletal	right tibialis posterior	
+FMA65019	skeletal	left tibialis posterior	
+FMA65020	muscular	intrinsic muscle of foot	
+FMA65045	muscular	intrinsic muscle of dorsum of foot	
+FMA65046	muscular	intrinsic muscle of plantar part of foot	
+FMA65132	nervous	nerve	
+FMA65198	muscular	superficial head of right flexor pollicis brevis	
+FMA65199	muscular	superficial head of left flexor pollicis brevis	
+FMA65410	connective	intermediate tendon	
+FMA65470	skeletal	proximal phalanx of left thumb	
+FMA65539	nervous	subdivision of parasympathetic nervous system	
+FMA65551	nervous	subdivisionof autonomic nervous system	
+FMA66241	arterial	first posterior intercostal artery	
+FMA66242	arterial	right first posterior intercostal artery	
+FMA66243	arterial	left first posterior intercostal artery	
+FMA66267	arterial	variant systemic artery	
+FMA66320	arterial	thoracodorsal artery	
+FMA66321	arterial	right thoracodorsal artery	
+FMA66322	arterial	left thoracodorsal artery	
+FMA66326	arterial	pulmonary artery	
+FMA66327	arterial	branch of right coronary artery	
+FMA66328	arterial	branch of left coronary artery	
+FMA66332	arterial	zone of artery	
+FMA66358	arterial	trunk of superior mesenteric artery	
+FMA66362	arterial	trunk of renal artery	
+FMA66363	arterial	trunk of right renal artery	
+FMA66364	arterial	trunk of left renal artery	
+FMA66403	venous	anterior interventricular vein	
+FMA66464	arterial	systemic artery	
+FMA66562	arterial	trunk of thoraco-acromial artery	
+FMA66563	arterial	trunk of right thoraco-acromial artery	
+FMA66564	arterial	trunk of left thoraco-acromial artery	
+FMA66643	venous	pulmonary vein	
+FMA66644	venous	systemic vein	
+FMA66645	venous	portal vein	
+FMA66791	skeletal	proximal phalanx of left little finger	
+FMA67135	arterial	anatomical structure	
+FMA67165	arterial	material anatomical entity	
+FMA67242	nervous	gray matter of neuraxis	
+FMA67325	nervous	occipital lobe	
+FMA67329	nervous	insula	
+FMA67396	skeletal	articular disk of symphysis	
+FMA67498	muscular	organ	
+FMA67504	sensory	subdivision of cardinal body part	
+FMA67536	integumentary	cardinal tissue part	
+FMA67538	integumentary	subdivision of epithelium	
+FMA67601	skeletal	process of organ	
+FMA67619	arterial	organ region	
+FMA67936	nervous	left optic tract	
+FMA67942	nervous	segment of metencephalon	
+FMA67943	nervous	pons	
+FMA67944	nervous	cerebellum	
+FMA67950	nervous	stria of telencephalon	
+FMA67951	nervous	lamina of cerebral hemisphere	
+FMA67957	nervous	segment of gyrus of cerebral hemisphere	
+FMA67977	venous	dorsal venous network of hand	
+FMA68045	arterial	segment of thoracic aorta	
+FMA68068	venous	inferior phrenic vein	
+FMA68109	arterial	bronchial artery	
+FMA68192	arterial	lobar artery	
+FMA68197	arterial	right upper lobar artery	
+FMA68208	respiratory	pulmonary segment of bronchial tree	
+FMA68211	respiratory	right apical segmental bronchial tree	
+FMA68212	respiratory	right anterior segmental bronchial tree	
+FMA68213	respiratory	right posterior segmental bronchial tree	
+FMA68214	respiratory	medial segmental bronchial tree	
+FMA68215	respiratory	lateral segmental bronchial tree	
+FMA68216	respiratory	right superior segmental bronchial tree	
+FMA68218	respiratory	right medial basal segmental bronchial tree	
+FMA68219	respiratory	anterior basal segmental bronchial tree	
+FMA68220	respiratory	right lateral basal segmental bronchial tree	
+FMA68221	respiratory	right posterior basal segmental bronchial tree	
+FMA68222	respiratory	left anterior segmental bronchial tree	
+FMA68223	respiratory	left apical segmental bronchial tree	
+FMA68225	respiratory	left posterior segmental bronchial tree	
+FMA68226	respiratory	superior lingular bronchial tree	
+FMA68227	respiratory	inferior lingular bronchial tree	
+FMA68228	respiratory	left superior segmental bronchial tree	
+FMA68229	respiratory	posterior basal segmental bronchial tree	
+FMA68230	respiratory	left medial basal segmental bronchial tree	
+FMA68231	respiratory	left anterior basal segmental bronchial tree	
+FMA68232	respiratory	left lateral basal segmental bronchial tree	
+FMA68233	respiratory	left posterior basal segmental bronchial tree	
+FMA68234	respiratory	apical segmental bronchial tree	
+FMA68235	respiratory	anterior segmental bronchial tree	
+FMA68236	respiratory	posterior segmental bronchial tree	
+FMA68237	respiratory	superior segmental bronchial tree	
+FMA68238	respiratory	basal segmental bronchial tree	
+FMA68320	respiratory	medial basal segmental bronchial tree	
+FMA68321	respiratory	right anterior basal segmental bronchial tree	
+FMA68322	respiratory	lateral basal segmental bronchial tree	
+FMA68418	respiratory	right main bronchus proper	
+FMA68661	arterial	apical part of apical segmental artery	
+FMA68662	arterial	apical part of right apical segmental artery	
+FMA68664	arterial	anterior part of apical segmental artery	
+FMA68665	arterial	anterior part of right apical segmental artery	
+FMA68667	arterial	subsegmental part of apical segmental artery	
+FMA68668	arterial	subsegmental part of posterior segmental artery	
+FMA68669	arterial	apical part of posterior segmental artery	
+FMA68670	arterial	apical part of right posterior segmental artery	
+FMA68672	arterial	posterior part of posterior segmental artery	
+FMA68673	arterial	posterior part of right posterior segmental artery	
+FMA68675	arterial	subsegmental part of anterior segmental artery	
+FMA68676	arterial	posterior part of anterior segmental artery	
+FMA68677	arterial	posterior branch of right anterior segmental artery	
+FMA68682	arterial	anterior branch of anterior segmental artery	
+FMA68683	arterial	anterior branch of right anterior segmental artery	
+FMA68689	arterial	subsegmental part of lateral segmental artery	
+FMA68690	arterial	posterior branch of lateral segmental artery	
+FMA68691	arterial	anterior branch of lateral segmental artery	
+FMA68692	arterial	subsegmental part of medial segmental artery	
+FMA68693	arterial	superior branch of medial segmental artery	
+FMA68694	arterial	inferior branch of medial segmental artery	
+FMA68704	arterial	medial branch of superior segmental artery	
+FMA68705	arterial	subsegmental part of superior segmental artery	
+FMA68706	arterial	medial branch of right superior segmental artery	
+FMA68708	arterial	superior branch of superior segmental artery	
+FMA68709	arterial	superior branch of right superior segmental artery	
+FMA68711	arterial	lateral branch of superior segmental artery	
+FMA68712	arterial	lateral branch of right superior segmental artery	
+FMA68720	arterial	subsegmental part of anterior basal segmental artery	
+FMA68721	arterial	lateral branch of anterior basal segmental artery	
+FMA68722	arterial	basal branch of anterior basal segmental artery	
+FMA68723	arterial	basal branch of right anterior basal segmental artery	
+FMA68725	arterial	lateral branch of right anterior basal segmental artery	
+FMA68727	arterial	subsegmental part of lateral basal segmental artery	
+FMA68728	arterial	lateral branch of right lateral basal segmental artery	
+FMA68733	arterial	subsegmental part of posterior basal segmental artery	
+FMA68734	arterial	accessory subsuperior branch of posterior basal segmental artery	
+FMA68735	arterial	accessory subsuperior branch of right posterior basal segmental artery	
+FMA68737	arterial	laterobasal branch of posterior basal segmental artery	
+FMA68738	arterial	laterobasal branch of right posterior basal segmental artery	
+FMA68740	arterial	mediobasal branch of posterior basal segmental artery	
+FMA68741	arterial	mediobasal branch of right posterior basal segmental artery	
+FMA68878	venous	trunk of segmental pulmonary vein	
+FMA68879	venous	trunk of apical segmental vein	
+FMA68880	venous	trunk of right apical segmental vein	
+FMA68919	venous	apical part of apical segmental vein	
+FMA68920	venous	anterior part of apical segmental vein	
+FMA68921	venous	anterior part of right apical segmental vein	
+FMA68926	venous	superior part of right anterior segmental vein	
+FMA68928	venous	inferior part of right anterior segmental vein	
+FMA68944	venous	posterior part of lateral segmental vein	
+FMA68945	venous	anterior part of lateral segmental vein	
+FMA68982	venous	superior part of medial segmental vein	
+FMA68983	venous	inferior part of medial segmental vein	
+FMA69264	arterial	inferior suprarenal artery	
+FMA69265	arterial	right inferior suprarenal artery	
+FMA69266	arterial	left inferior suprarenal artery	
+FMA69418	arterial	trunk of branch of popliteal artery	
+FMA69458	arterial	subdivision of external iliac artery	
+FMA69459	arterial	subdivision of deep femoral artery	
+FMA69476	arterial	subdivision of anterior tibial artery	
+FMA69490	arterial	right lateral tarsal artery	
+FMA69491	arterial	left lateral tarsal artery	
+FMA69494	arterial	right arcuate artery	
+FMA69495	arterial	left arcuate artery	
+FMA69513	arterial	deep plantar artery	
+FMA69514	arterial	right deep plantar artery	
+FMA69515	arterial	left deep plantar artery	
+FMA69517	arterial	distal perforating artery	
+FMA69559	arterial	zone of trunk of lateral plantar artery	
+FMA69713	arterial	digital artery of foot	
+FMA69784	arterial	branch of posterior tibial artery	
+FMA69796	arterial	subdivision of internal iliac artery	
+FMA69803	arterial	subdivision of anterior division of internal iliac artery	
+FMA69805	arterial	subdivision of internal pudendal artery	
+FMA70247	arterial	subdivision of external iliac artery proper	
+FMA70248	arterial	femoral artery	
+FMA70249	arterial	right femoral artery	
+FMA70250	arterial	left femoral artery	
+FMA70251	arterial	subdivision of femoral artery	
+FMA70345	arterial	subdivision of subclavian artery	
+FMA70353	arterial	subdivision of thyrocervical artery	
+FMA70358	arterial	subdivision of internal thoracic artery	
+FMA70399	arterial	subdivision of costocervical artery	
+FMA70408	arterial	subdivision of thoraco-acromial artery	
+FMA70422	arterial	subdivision of subscapular artery	
+FMA70429	arterial	subdivision of celiac artery	
+FMA70433	arterial	subdivision of common hepatic artery	
+FMA70436	arterial	subdivision of gastroduodenal artery	
+FMA70437	arterial	superior pancreaticoduodenal artery	
+FMA70439	arterial	subdivision of right hepatic artery	
+FMA70440	arterial	subdivision of left hepatic artery	
+FMA70442	arterial	anterior superior segmental hepatic artery	
+FMA70443	arterial	anterior inferior segmental hepatic artery	
+FMA70445	arterial	posterior superior segmental hepatic artery	
+FMA70446	arterial	posterior inferior segmental hepatic artery	
+FMA70447	arterial	caudate lobe branch of right hepatic artery	
+FMA70449	arterial	medial superior segmental hepatic artery	
+FMA70450	arterial	medial inferior segmental hepatic artery	
+FMA70452	arterial	lateral superior segmental hepatic artery	
+FMA70453	arterial	lateral inferior segmental hepatic artery	
+FMA70455	arterial	caudate lobe branch of left hepatic artery	
+FMA70456	arterial	trunk of right hepatic artery	
+FMA70457	arterial	trunk of left hepatic artery	
+FMA70470	arterial	subdivision of splenic artery	
+FMA70471	arterial	pancreatic artery	
+FMA70478	arterial	subdivision of superior mesenteric artery	
+FMA70479	arterial	anterior inferior pancreaticoduodenal artery	
+FMA70480	arterial	posterior inferior pancreaticoduodenal artery	
+FMA70481	arterial	subdivision of inferior pancreaticoduodenal artery	
+FMA70483	arterial	subdivision of inferior mesenteric artery	
+FMA70484	arterial	segment of renal artery	
+FMA70485	arterial	anterior division of renal artery	
+FMA70486	arterial	anterior division of right renal artery	
+FMA70487	arterial	anterior division of left renal artery	
+FMA70488	arterial	posterior division of renal artery	
+FMA70489	arterial	posterior division of right renal artery	
+FMA70490	arterial	posterior division of left renal artery	
+FMA70491	arterial	ureteric segment of renal artery	
+FMA70492	arterial	ureteric segment of right renal artery	
+FMA70493	arterial	ureteric segment of left renal artery	
+FMA70494	arterial	segmental renal artery	
+FMA70499	arterial	superior segmental renal artery	
+FMA70502	arterial	inferior segmental renal artery	
+FMA70503	arterial	posterior segmental renal artery	
+FMA70504	arterial	subdivision of common carotid artery	
+FMA70506	arterial	subdivision of internal carotid artery	
+FMA70523	arterial	subdivision of cerebral part of internal carotid artery	
+FMA70593	integumentary	subdivision of epidermis	
+FMA70676	nervous	subdivision of superior temporal gyrus	
+FMA70701	nervous	anterior part of superior temporal gyrus	
+FMA70703	nervous	posterior part of superior temporal gyrus	
+FMA70741	integumentary	set of facial hairs	
+FMA70752	integumentary	set of hairs	
+FMA70779	muscular	set of organs	
+FMA70800	arterial	set of dorsal metacarpal arteries	
+FMA70801	arterial	set of dorsal digital arteries	
+FMA70815	arterial	set of perforating arteries	
+FMA70821	arterial	set of common plantar digital arteries	
+FMA70839	venous	set of anterior intercostal veins	
+FMA70917	venous	set of dorsal digital veins	
+FMA70919	venous	set of plantar digital veins	
+FMA70922	venous	set of perforating veins	
+FMA71012	integumentary	skin appendage	
+FMA71114	nervous	brachium of inferior colliculus	
+FMA71209	venous	tributary of axillary vein	
+FMA71210	venous	lateral thoracic vein	
+FMA71211	venous	right lateral thoracic vein	
+FMA71212	venous	left lateral thoracic vein	
+FMA71213	venous	thoracodorsal vein	
+FMA71214	venous	right thoracodorsal vein	
+FMA71215	venous	left thoracodorsal vein	
+FMA71235	nervous	region of dura mater	
+FMA71307	muscular	set of interspinales lumborum	
+FMA71309	muscular	set of interspinales cervicis	
+FMA71313	muscular	set of levatores costarum longi	
+FMA71314	muscular	set of levatores costarum breves	
+FMA71318	muscular	set of lumbricals of hand	
+FMA71319	muscular	set of dorsal interossei of hand	
+FMA71320	muscular	set of palmar interossei of hand	
+FMA71442	muscular	set of anterior cervical intertransversarii	
+FMA71443	muscular	set of posterior cervical intertransversarii	
+FMA71502	arterial	set of posterior temporal branches of lateral occipital artery	
+FMA71537	arterial	set of oesophageal branches of thoracic aorta	
+FMA71562	arterial	set of calcaneal branches of posterior tibial artery	
+FMA71564	arterial	set of plantar digital arteries proper	
+FMA71708	arterial	right lobe branch of right hepatic artery	
+FMA71709	arterial	subdivision of right lobe branch of right hepatic artery	
+FMA71710	arterial	left lobe branch of left hepatic artery	
+FMA71736	arterial	subdivision of left lobe branch of left hepatic artery	
+FMA71856	digestive	segment of biliary tree	
+FMA71859	digestive	segment of right hepatic biliary tree	
+FMA71860	digestive	segment of left hepatic biliary tree	
+FMA71865	digestive	segmental tributary of right hepatic biliary tree	
+FMA71866	digestive	segmental tributary of left hepatic biliary tree	
+FMA71867	digestive	anterior superior tributary of right hepatic biliary tree	
+FMA71868	digestive	anterior inferior tributary of right hepatic biliary tree	
+FMA71869	digestive	posterior superior tributary of right hepatic biliary tree	
+FMA71870	digestive	posterior inferior tributary of right hepatic biliary tree	
+FMA71885	digestive	medial superior tributary of left hepatic biliary tree	
+FMA71886	digestive	medial inferior tributary of left hepatic biliary tree	
+FMA71887	digestive	lateral superior tributary of left hepatic biliary tree	
+FMA71888	digestive	lateral inferior tributary of left hepatic biliary tree	
+FMA71889	digestive	caudate lobe tributary of left hepatic biliary tree	
+FMA71903	venous	subdivision of hepatic portal vein	
+FMA71904	venous	pre-hepatic portal vein	
+FMA71905	venous	subdivision of right hepatic portal vein	
+FMA71906	venous	subdivision of left hepatic portal vein	
+FMA71907	venous	trunk of branch of hepatic portal vein	
+FMA71908	skeletal	proximal phalanx of left middle finger	
+FMA71915	skeletal	proximal phalanx of left index finger	
+FMA71916	skeletal	proximal phalanx of left ring finger	
+FMA72058	connective	intrinsic ligament of larynx	
+FMA72308	connective	stylohyoid ligament	
+FMA72309	connective	right stylohyoid ligament	
+FMA72311	connective	left stylohyoid ligament	
+FMA72417	nervous	brachium of superior colliculus	
+FMA72653	nervous	right superior frontal gyrus	
+FMA72654	nervous	left superior frontal gyrus	
+FMA72655	nervous	right middle frontal gyrus	
+FMA72656	nervous	left middle frontal gyrus	
+FMA72657	nervous	right inferior frontal gyrus	
+FMA72658	nervous	left inferior frontal gyrus	
+FMA72661	nervous	right precentral gyrus	
+FMA72662	nervous	left precentral gyrus	
+FMA72665	nervous	right postcentral gyrus	
+FMA72666	nervous	left postcentral gyrus	
+FMA72667	nervous	right supramarginal gyrus	
+FMA72668	nervous	left supramarginal gyrus	
+FMA72669	nervous	right angular gyrus	
+FMA72670	nervous	left angular gyrus	
+FMA72671	nervous	right superior parietal lobule	
+FMA72672	nervous	left superior parietal lobule	
+FMA72685	nervous	right middle temporal gyrus	
+FMA72686	nervous	left middle temporal gyrus	
+FMA72687	nervous	right inferior temporal gyrus	
+FMA72688	nervous	left inferior temporal gyrus	
+FMA72689	nervous	right fusiform gyrus	
+FMA72690	nervous	left fusiform gyrus	
+FMA72705	nervous	right parahippocampal gyrus	
+FMA72706	nervous	left parahippocampal gyrus	
+FMA72713	nervous	right hippocampus	
+FMA72714	nervous	left hippocampus	
+FMA72717	nervous	right cingulate gyrus	
+FMA72718	nervous	left cingulate gyrus	
+FMA72800	nervous	anterior part of right superior temporal gyrus	
+FMA72801	nervous	anterior part of left superior temporal gyrus	
+FMA72804	nervous	posterior part of right superior temporal gyrus	
+FMA72805	nervous	posterior part of left superior temporal gyrus	
+FMA72826	nervous	right caudate nucleus	
+FMA72827	nervous	left caudate nucleus	
+FMA72828	nervous	right putamen	
+FMA72829	nervous	left putamen	
+FMA72830	nervous	right globus pallidus	
+FMA72831	nervous	left globus pallidus	
+FMA72832	nervous	right amygdala	
+FMA72833	nervous	left amygdala	
+FMA72906	nervous	right internal capsule	
+FMA72907	nervous	left internal capsule	
+FMA72924	nervous	right fornix of forebrain	
+FMA72925	nervous	left fornix of forebrain	
+FMA72940	nervous	left stria terminalis	
+FMA72975	nervous	right occipital lobe	
+FMA72976	nervous	left occipital lobe	
+FMA72977	nervous	right insula	
+FMA72978	nervous	left insula	
+FMA73203	arterial	trunk of subdivision of axillary artery	
+FMA73204	arterial	trunk of branch of common iliac artery	
+FMA73303	nervous	right lateral geniculate body	
+FMA73304	nervous	left lateral geniculate body	
+FMA73309	nervous	right medial geniculate body	
+FMA73310	nervous	left medial geniculate body	
+FMA73413	nervous	right stria medullaris of thalamus	
+FMA73414	nervous	left stria medullaris of thalamus	
+FMA73422	nervous	right superior colliculus	
+FMA73423	nervous	left superior colliculus	
+FMA73434	nervous	right inferior colliculus	
+FMA73435	nervous	left inferior colliculus	
+FMA73461	nervous	brachium of right superior colliculus	
+FMA73462	nervous	brachium of left superior colliculus	
+FMA73463	nervous	brachium of right inferior colliculus	
+FMA73464	nervous	brachium of left inferior colliculus	
+FMA74075	muscular	set of right levatores costarum longi	
+FMA74076	muscular	set of left levatores costarum longi	
+FMA74077	muscular	set of right levatores costarum breves	
+FMA74078	muscular	set of left levatores costarum breves	
+FMA74779	muscular	musculature of chest	
+FMA74866	nervous	zone of diencephalon	
+FMA74877	nervous	mammillary body	
+FMA74912	arterial	trunk of anterior interventricular branch of left coronary artery	
+FMA75445	connective	membrane organ component	
+FMA75865	arterial	trunk of branch of internal carotid artery	
+FMA76107	arterial	trunk of branch of middle cerebral artery	
+FMA76127	arterial	trunk of inferior terminal branch of middle cerebral artery	
+FMA76128	arterial	trunk of inferior terminal branch of right middle cerebral artery	
+FMA76129	arterial	trunk of inferior terminal branch of left middle cerebral artery	
+FMA76259	arterial	branch of vertebral artery	
+FMA76264	arterial	intracranial branch of vertebral artery	
+FMA76269	arterial	branch of basilar artery	
+FMA76301	arterial	trunk of branch of subclavian artery	
+FMA76547	arterial	trunk of branch of common hepatic artery	
+FMA76574	arterial	trunk of gastroduodenal artery	
+FMA76582	arterial	trunk of hepatic artery	
+FMA76767	venous	anterior cardiac vein	
+FMA76903	digestive	left duct of caudate lobe of liver	
+FMA76998	arterial	supreme intercostal artery	
+FMA77140	arterial	ulnar recurrent artery	
+FMA77144	arterial	recurrent interosseous artery	
+FMA77155	arterial	popliteal artery	
+FMA77168	venous	median sacral vein	
+FMA77177	muscular	iliocostalis	
+FMA77178	muscular	longissimus	
+FMA77179	muscular	spinalis	
+FMA77180	muscular	splenius	
+FMA77380	arterial	right popliteal artery	
+FMA77381	arterial	left popliteal artery	
+FMA77439	arterial	artery of central sulcus	
+FMA77498	venous	circumflex scapular vein	
+FMA77499	venous	anterior circumflex humeral vein	
+FMA77883	venous	subdivision of brachiocephalic vein	
+FMA77884	venous	subdivision of subclavian vein	
+FMA77949	venous	right circumflex scapular vein	
+FMA77950	venous	left circumflex scapular vein	
+FMA77954	venous	right anterior circumflex humeral vein	
+FMA77955	venous	left anterior circumflex humeral vein	
+FMA78021	venous	medial brachial vein	
+FMA78048	venous	subdivision of superior vena caval tree	
+FMA78049	venous	subdivision of inferior vena caval tree	
+FMA78121	venous	superior phrenic vein	
+FMA78204	venous	subdivision of external iliac vein	
+FMA78207	venous	tributary of basilic vein	
+FMA78467	nervous	cerebral aqueduct	
+FMA78497	nervous	central canal of spinal cord	
+FMA78562	arterial	set of organ regions	
+FMA78590	nervous	set of heterogeneous clusters	
+FMA79615	arterial	branch of postcommunicating part of anterior cerebral artery	
+FMA79631	arterial	branch of sphenoid part of middle cerebral artery	
+FMA79658	arterial	dorsal scapular artery	
+FMA79979	muscular	sternocostal part of right pectoralis major	
+FMA79980	muscular	sternocostal part of left pectoralis major	
+FMA81150	nervous	lobule of cerebral hemisphere	
+FMA81752	muscular	right cervical rotator	
+FMA81753	muscular	left cervical rotator	
+FMA82472	arterial	cardinal organ part	
+FMA82481	sensory	organ chamber	
+FMA82485	sensory	organ component layer	
+FMA82494	digestive	lobular segment	
+FMA82500	sensory	membranous layer	
+FMA82594	arterial	segment of subclavian artery	
+FMA82695	venous	trunk of right portal vein	
+FMA82697	venous	trunk of left portal vein	
+FMA82706	venous	caudate lobe branch of right portal vein	
+FMA82734	nervous	right long ciliary nerve	
+FMA82735	nervous	left long ciliary nerve	
+FMA83115	nervous	cell part cluster	
+FMA83143	nervous	cell part cluster of neuraxis	
+FMA83153	nervous	organ component of neuraxis	
+FMA83465	nervous	segment of white matter of neuraxis	
+FMA83563	digestive	subdivision of muscle layer	
+FMA83686	nervous	nucleus of neuraxis	
+FMA83738	nervous	subarachnoid incisure	
+FMA83740	nervous	interpeduncular fossa	
+FMA83840	nervous	nucleus of brain	
+FMA83854	nervous	stria of neuraxis	
+FMA83856	nervous	lamina of neuraxis	
+FMA83857	nervous	brachium of neuraxis	
+FMA83860	nervous	peduncle of neuraxis	
+FMA83865	nervous	fornix of neuraxis	
+FMA83874	nervous	gyrus of neuraxis	
+FMA83904	nervous	septum of neuraxis	
+FMA83906	nervous	commissure of neuraxis	
+FMA83912	nervous	gray matter of diencephalon	
+FMA83915	nervous	gray matter of hypothalamus	
+FMA83929	nervous	white matter of neuraxis	
+FMA83930	nervous	white matter of telencephalon	
+FMA83966	nervous	tentorium cerebelli	
+FMA84054	nervous	zone of neuraxis	
+FMA84059	nervous	nuclear complex of neuraxis	
+FMA84201	skeletal	secondary incisor tooth	
+FMA84203	skeletal	secondary canine tooth	
+FMA84207	skeletal	secondary molar tooth	
+FMA84881	nervous	subdivision of subarachnoid space	
+FMA84926	nervous	anatomical compartment space	
+FMA84953	nervous	space of compartment of head	
+FMA85095	venous	proper palmar digital vein of little finger	
+FMA85096	venous	proper palmar digital vein of right index finger	
+FMA85097	venous	proper palmar digital vein of left index finger	
+FMA85098	venous	proper palmar digital vein of right middle finger	
+FMA85099	venous	proper palmar digital vein of left middle finger	
+FMA85100	venous	proper palmar digital vein of right ring finger	
+FMA85101	venous	proper palmar digital vein of left ring finger	
+FMA85102	venous	proper palmar digital vein of right little finger	
+FMA85103	venous	proper palmar digital vein of left little finger	
+FMA85107	arterial	third common palmar digital artery	
+FMA85108	arterial	fourth common palmar digital artery	
+FMA85109	arterial	branch of first common palmar digital artery	
+FMA85110	arterial	branch of second common palmar digital artery	
+FMA85111	arterial	medial proper palmar digital artery of middle finger	
+FMA85112	arterial	medial proper palmar digital artery of right middle finger	
+FMA85114	arterial	lateral proper palmar digital artery of ring finger	
+FMA85115	arterial	lateral proper palmar digital artery of right ring finger	
+FMA85116	arterial	lateral proper palmar digital artery of left ring finger	
+FMA85117	arterial	branch of third common palmar digital artery	
+FMA85118	arterial	left first common palmar digital artery	
+FMA85119	arterial	right second common palmar digital artery	
+FMA85120	arterial	left second common palmar digital artery	
+FMA85121	arterial	right third common palmar digital artery	
+FMA85122	arterial	left third common palmar digital artery	
+FMA85123	arterial	right fourth common palmar digital artery	
+FMA85124	arterial	left fourth common palmar digital artery	
+FMA85453	muscular	head of muscle organ	
+FMA86020	arterial	subdivision of transverse cervical artery	
+FMA86033	muscular	opponens digiti minimi of foot	
+FMA86034	muscular	opponens digiti minimi of right foot	
+FMA86035	muscular	opponens digiti minimi of left foot	
+FMA86103	sensory	region of organ component	
+FMA86127	arterial	branch of posterior choroidal artery	
+FMA86140	arterial	organ segment	
+FMA86187	arterial	segment of arterial tree organ	
+FMA86188	venous	segment of venous tree organ	
+FMA86195	sensory	segment of lacrimal duct	
+FMA86254	arterial	segment of systemic artery	
+FMA86256	arterial	segment of arterial trunk	
+FMA86340	arterial	superior segmental branch of right renal artery	
+FMA86341	arterial	superior segmental branch of left renal artery	
+FMA86346	arterial	inferior segmental branch of right renal artery	
+FMA86347	arterial	inferior segmental branch of left renal artery	
+FMA86348	arterial	posterior segmental branch of right renal artery	
+FMA86349	arterial	posterior segmental branch of left renal artery	
+FMA86375	connective	ligament organ component	
+FMA86464	nervous	corpus callosum	
+FMA86565	muscular	region of papillary muscle of left ventricle	
+FMA86566	muscular	region of lateral papillary muscle of left ventricle	
+FMA87217	arterial	descending thoracic aorta	
+FMA87218	arterial	trunk of coronary artery	
+FMA222905	digestive	segment of colon	
+FMA223151	nervous	internal gray matter component	
+FMA225818	sensory	region of layer of wall of eyeball	
+FMA228667	arterial	set of organ parts	
+FMA230984	skeletal	middle phalanx of little toe	
+FMA230986	skeletal	middle phalanx of right little toe	
+FMA230988	skeletal	middle phalanx of left little toe	
+FMA241998	nervous	cerebral white matter	
+FMA242193	nervous	region of cerebral cortex	
+FMA242770	sensory	region of wall of ventricular system of neuraxis	
+FMA256174	nervous	region of cerebral white matter	
+FMA256194	nervous	orbital gyrus	
+FMA256237	nervous	segment of neuraxis	
+FMA256693	nervous	nucleus of thalamus	
+FMA258714	nervous	right thalamus	
+FMA258716	nervous	left thalamus	
+FMA258847	connective	right calcaneal tendon	
+FMA258850	connective	right intermediate tendon	
+FMA260791	nervous	white matter of right cerebral hemisphere	
+FMA260794	nervous	white matter of left cerebral hemisphere	
+FMA264844	connective	left calcaneal tendon	
+FMA265178	connective	ligament of lower limb	
+FMA265180	connective	ligament of limb	
+FMA265400	sensory	region of vascular layer of eyeball	
+FMA266054	nervous	subdivision of cranial dura mater	
+FMA268667	arterial	right recurrent interosseous artery	
+FMA268669	arterial	left recurrent interosseous artery	
+FMA268712	arterial	segment of anterior tibial artery	
+FMA268955	muscular	region of papillary muscle	
+FMA3734	arterial	aorta	
+FMA3862	arterial	anterior interventricular branch of left coronary artery	
+FMA4717	venous	anterior cardiac venous tree	
+FMA7152	digestive	alimentary system	
+FMA7154	nervous	head	
+FMA7155	skeletal	neck	
+FMA7157	nervous	nervous system	
+FMA7158	respiratory	respiratory system	
+FMA7161	arterial	cardiovascular system	
+FMA7165	arterial	right side of heart	
+FMA7166	arterial	left side of heart	
+FMA7181	arterial	trunk	
+FMA7184	skeletal	lower limb	
+FMA7185	skeletal	right upper limb	
+FMA7186	skeletal	left upper limb	
+FMA7187	skeletal	right lower limb	
+FMA7188	skeletal	left lower limb	
+FMA7200	digestive	small intestine	
+FMA7201	digestive	large intestine	
+FMA7207	digestive	jejunum	
+FMA7208	digestive	ileum	
+FMA7259	muscular	papillary muscle of right ventricle	
+FMA7309	arterial	right lung	
+FMA7310	respiratory	left lung	
+FMA7333	arterial	upper lobe of right lung	
+FMA7337	respiratory	lower lobe of right lung	
+FMA7338	respiratory	right apical bronchopulmonary segment	
+FMA7339	venous	right posterior bronchopulmonary segment	
+FMA7359	arterial	right anterior bronchopulmonary segment	
+FMA7360	respiratory	medial bronchopulmonary segment	
+FMA7361	venous	lateral bronchopulmonary segment	
+FMA7362	venous	right posterior basal bronchopulmonary segment	
+FMA7363	respiratory	right lateral basal bronchopulmonary segment	
+FMA7364	respiratory	right anterior basal bronchopulmonary segment	
+FMA7365	respiratory	right medial basal bronchopulmonary segment	
+FMA7366	respiratory	right superior bronchopulmonary segment	
+FMA7370	venous	upper lobe of left lung	
+FMA7371	respiratory	lower lobe of left lung	
+FMA7372	venous	apicoposterior bronchopulmonary segment	
+FMA7373	respiratory	left anterior bronchopulmonary segment	
+FMA7374	respiratory	superior lingular bronchopulmonary segment	
+FMA7375	respiratory	inferior lingular bronchopulmonary segment	
+FMA7376	respiratory	left superior bronchopulmonary segment	
+FMA7377	respiratory	left medial basal bronchopulmonary segment	
+FMA7378	venous	left anterior basal bronchopulmonary segment	
+FMA7379	respiratory	left lateral basal bronchopulmonary segment	
+FMA7380	respiratory	left posterior basal bronchopulmonary segment	
+FMA7383	venous	middle lobe of lung	
+FMA7385	venous	left apical bronchopulmonary segment	
+FMA7386	venous	left posterior bronchopulmonary segment	
+FMA7393	respiratory	tracheobronchial tree	
+FMA7395	respiratory	right main bronchus	
+FMA7480	skeletal	rib cage	
+FMA7481	skeletal	skeletal system of thorax	
+FMA7482	skeletal	musculoskeletal system	
+FMA7483	skeletal	axial skeletal system	
+FMA7485	skeletal	sternum	
+FMA7563	arterial	body compartment	
+FMA7647	nervous	spinal cord	
+FMA8617	arterial	right apical segmental artery	
+FMA8619	arterial	right posterior segmental artery	
+FMA8627	arterial	right superior segmental artery	
+FMA8630	arterial	right anterior basal segmental artery	
+FMA8631	arterial	right lateral basal segmental artery	
+FMA8632	arterial	right posterior basal segmental artery	
+FMA8655	venous	right upper lobar vein	
+FMA8656	venous	middle lobar vein	
+FMA8657	venous	left upper lobar vein	
+FMA8658	venous	lingular vein	
+FMA8661	venous	right apical segmental vein	
+FMA8664	venous	lateral segmental vein	
+FMA8665	venous	medial segmental vein	
+FMA8666	venous	apicoposterior segmental vein	
+FMA8671	venous	right common basal vein	
+FMA8672	venous	right superior basal vein	
+FMA8674	venous	right inferior basal vein	
+FMA8676	venous	left common basal vein	
+FMA8677	venous	left superior basal vein	
+FMA8679	venous	left inferior basal vein	
+FMA9140	skeletal	thoracic vertebral column	
+FMA9352	muscular	papillary muscle of left ventricle	
+FMA9533	muscular	wall of right ventricle	
+FMA9535	muscular	myocardium of right ventricle	
+FMA9552	muscular	inflow part of right ventricle	
+FMA9553	muscular	anterior wall of right ventricle	
+FMA9555	muscular	inferior wall of right ventricle	
+FMA9556	muscular	wall of left ventricle	
+FMA9558	muscular	myocardium of left ventricle	
+FMA9560	muscular	anterior wall of left ventricle	
+FMA9563	muscular	lateral wall of left ventricle	
+FMA9576	arterial	thorax	
+FMA9577	skeletal	abdomen	
+FMA9578	muscular	pelvis	
+FMA9579	muscular	perineum	
+FMA9584	digestive	peritoneum	
+FMA9668	digestive	endocrine system	
+FMA9713	skeletal	right hand	
+FMA9714	skeletal	left hand	
+FMA9826	arterial	mediastinum	
+FMA9827	arterial	superior mediastinum	
+FMA9828	arterial	inferior mediastinum	
+FMA9839	arterial	middle mediastinum	
+FMA9840	respiratory	posterior mediastinum	
+FMA9908	digestive	peritoneal sac	
+FMA10427	skeletal	body wall	
+FMA10428	skeletal	thoracic wall	
+FMA10429	skeletal	wall of abdomen proper	
+FMA10430	muscular	pelvic wall	
+FMA11343	skeletal	right foot	
+FMA11344	skeletal	left foot	
+FMA11345	skeletal	right forearm	
+FMA11346	skeletal	left forearm	
+FMA12514	sensory	right eyeball	
+FMA12515	sensory	left eyeball	
+FMA13362	arterial	right lobe of liver	
+FMA13363	digestive	left lobe of liver	
+FMA13373	muscular	right pectoralis major	
+FMA13374	muscular	left pectoralis major	
+FMA13478	skeletal	vertebral column	
+FMA14541	digestive	cecum	
+FMA14615	digestive	wall of small intestine	
+FMA14618	digestive	wall of ileum	
+FMA14619	digestive	wall of large intestine	
+FMA14627	muscular	anterior abdominal wall	
+FMA14628	skeletal	posterior abdominal wall	
+FMA14665	digestive	biliary tree	
+FMA14703	digestive	visceral peritoneum	
+FMA14775	arterial	gastroduodenal artery	
+FMA14778	arterial	right hepatic artery	
+FMA14779	arterial	left hepatic artery	
+FMA14823	arterial	inferior branch of ileocolic artery	
+FMA14971	digestive	muscle layer of large intestine	
+FMA15419	venous	anterior branch of right portal vein	
+FMA15422	venous	posterior branch of right portal vein	
+FMA15427	venous	medial branch of left portal vein	
+FMA15430	venous	lateral branch of left portal vein	
+FMA15748	venous	anterior sector of right liver	
+FMA15749	venous	posterior sector of right liver	
+FMA15750	venous	anterior sector of left liver	
+FMA15751	venous	posterior sector of left liver	
+FMA15809	venous	right hemiliver	
+FMA15810	venous	left hemiliver	
+FMA16203	skeletal	lumbar vertebral column	
+FMA16580	skeletal	bony pelvis	
+FMA16581	skeletal	pelvic girdle	
+FMA16582	skeletal	right pelvic girdle	
+FMA16583	skeletal	left pelvic girdle	
+FMA17181	digestive	wall of distal part of ileum	
+FMA20218	integumentary	mons pubis	
+FMA20224	skeletal	right side of rib cage	
+FMA20225	skeletal	left side of rib cage	
+FMA20226	skeletal	right side of bony pelvis	
+FMA20227	skeletal	left side of bony pelvis	
+FMA20347	muscular	anal part of perineum	
+FMA20394	arterial	human body	
+FMA20796	arterial	right deep femoral artery	
+FMA20797	arterial	left deep femoral artery	
+FMA22672	arterial	right thoraco-acromial artery	
+FMA22673	arterial	left thoraco-acromial artery	
+FMA23218	muscular	right pectoral girdle	
+FMA23219	muscular	left pectoral girdle	
+FMA23876	skeletal	skeleton (in vivo)	
+FMA23881	skeletal	skeletal system	
+FMA24138	skeletal	cervical vertebral column	
+FMA24163	skeletal	skeleton of right pectoral girdle	
+FMA24164	skeletal	skeleton of left pectoral girdle	
+FMA24189	skeletal	back of neck	
+FMA24217	skeletal	back of thorax	
+FMA24228	skeletal	posterior part of pelvis	
+FMA24728	sensory	face	
+FMA24816	arterial	anterior chest	
+FMA24866	skeletal	sternal part of chest	
+FMA24880	skeletal	right free upper limb	
+FMA24881	skeletal	left free upper limb	
+FMA24882	skeletal	right free lower limb	
+FMA24883	skeletal	left free lower limb	
+FMA24895	arterial	right arm	
+FMA24896	muscular	left arm	
+FMA24940	skeletal	right wrist	
+FMA24941	skeletal	left wrist	
+FMA24965	skeletal	right hip	
+FMA24966	skeletal	left hip	
+FMA24968	skeletal	right thigh	
+FMA24969	skeletal	left thigh	
+FMA24977	skeletal	right knee	
+FMA24978	skeletal	left knee	
+FMA24980	skeletal	right leg	
+FMA24981	skeletal	left leg	
+FMA25511	skeletal	intervertebral symphysis	
+FMA25558	muscular	right lateral chest wall	
+FMA25559	muscular	left lateral chest wall	
+FMA25571	skeletal	intervertebral symphysis of axis	
+FMA25572	skeletal	right bony pectoral girdle	
+FMA25573	skeletal	left bony pectoral girdle	
+FMA26078	skeletal	third cervical intervertebral symphysis	
+FMA26083	skeletal	fourth cervical intervertebral symphysis	
+FMA26084	skeletal	fifth cervical intervertebral symphysis	
+FMA26085	skeletal	sixth cervical intervertebral symphysis	
+FMA26086	skeletal	seventh cervical intervertebral symphysis	
+FMA26089	skeletal	first thoracic intervertebral symphysis	
+FMA26094	skeletal	second thoracic intervertebral symphysis	
+FMA26095	skeletal	third thoracic intervertebral symphysis	
+FMA26096	skeletal	fourth thoracic intervertebral symphysis	
+FMA26097	skeletal	fifth thoracic intervertebral symphysis	
+FMA26098	skeletal	sixth thoracic intervertebral symphysis	
+FMA26099	skeletal	seventh thoracic intervertebral symphysis	
+FMA26100	skeletal	eighth thoracic intervertebral symphysis	
+FMA26101	skeletal	ninth thoracic intervertebral symphysis	
+FMA26102	skeletal	tenth thoracic intervertebral symphysis	
+FMA26103	skeletal	eleventh thoracic intervertebral symphysis	
+FMA26105	skeletal	first lumbar intervertebral symphysis	
+FMA26106	skeletal	second lumbar intervertebral symphysis	
+FMA26107	skeletal	third lumbar intervertebral symphysis	
+FMA26108	skeletal	fourth lumbar intervertebral symphysis	
+FMA26109	skeletal	fifth lumbar intervertebral symphysis	
+FMA26572	respiratory	thoracic part of tracheobronchial tree	
+FMA26661	respiratory	right bronchial tree	
+FMA26662	respiratory	left bronchial tree	
+FMA31741	respiratory	middle lobe part of right bronchial tree	
+FMA31744	respiratory	upper lobe part of right bronchial tree	
+FMA31746	respiratory	upper lobe part of left bronchial tree	
+FMA31747	respiratory	lower lobe part of right bronchial tree	
+FMA31748	respiratory	lower lobe part of left bronchial tree	
+FMA33642	skeletal	right shoulder	
+FMA33644	muscular	pectoral part of right pectoral girdle	
+FMA33645	muscular	pectoral part of left pectoral girdle	
+FMA33646	muscular	scapular part of right pectoral girdle	
+FMA33647	muscular	scapular part of left pectoral girdle	
+FMA45621	arterial	pulmonary vascular system	
+FMA45623	arterial	systemic arterial system	
+FMA45626	venous	systemic venous system	
+FMA45628	venous	portal venous system	
+FMA45662	respiratory	lower respiratory tract	
+FMA45842	arterial	pulmonary arterial tree	
+FMA45847	venous	portal venous tree	
+FMA46448	nervous	frontal part of head	
+FMA46472	skeletal	nose	
+FMA46565	sensory	skull	
+FMA49177	digestive	upper gastrointestinal tract	
+FMA49179	digestive	lower gastrointestinal tract	
+FMA49184	muscular	mouth	
+FMA49187	skeletal	occipital part of head	
+FMA49207	muscular	wall of inflow part of right ventricle	
+FMA49214	muscular	wall of inflow part of left ventricle	
+FMA49894	arterial	systemic arterial tree	
+FMA50039	arterial	right coronary artery	
+FMA50040	arterial	left coronary artery	
+FMA50060	skeletal	chest wall	
+FMA50061	muscular	superficial chest wall	
+FMA50063	muscular	anterior superficial chest wall	
+FMA50071	muscular	right lateral superficial chest wall	
+FMA50072	muscular	left lateral superficial chest wall	
+FMA50082	arterial	right middle cerebral artery	
+FMA50308	venous	coronary sinus tree	
+FMA50454	arterial	cerebral arterial circle	
+FMA50561	arterial	right pontine artery	
+FMA50562	arterial	left pontine artery	
+FMA50584	arterial	right posterior cerebral artery	
+FMA50585	arterial	left posterior cerebral artery	
+FMA50658	arterial	right posterior choroidal artery	
+FMA50659	arterial	left posterior choroidal artery	
+FMA51044	skeletal	fascia lata of right thigh	
+FMA51045	skeletal	fascia lata of left thigh	
+FMA52801	skeletal	basicranium	
+FMA53082	sensory	right orbit	
+FMA53083	sensory	left orbit	
+FMA53637	skeletal	right cheek	
+FMA53638	skeletal	left cheek	
+FMA53672	skeletal	neurocranium	
+FMA53673	sensory	viscerocranium	
+FMA54375	respiratory	nasal septum	
+FMA54397	skeletal	upper jaw	
+FMA54398	skeletal	lower jaw	
+FMA54440	muscular	right upper eyelid	
+FMA54441	muscular	left upper eyelid	
+FMA54443	sensory	right lower eyelid	
+FMA54444	sensory	left lower eyelid	
+FMA54449	sensory	right eye	
+FMA54450	sensory	left eye	
+FMA54545	nervous	head proper	
+FMA54667	sensory	right orbital compartment	
+FMA54668	sensory	left orbital compartment	
+FMA55021	muscular	soft palate	
+FMA55022	muscular	uvula	
+FMA55675	nervous	neuraxis	
+FMA58099	sensory	wall of right eyeball	
+FMA58100	sensory	wall of left eyeball	
+FMA58105	sensory	fibrous layer of right eyeball	
+FMA58106	sensory	fibrous layer of left eyeball	
+FMA58107	sensory	vascular layer of right eyeball	
+FMA58108	sensory	vascular layer of left eyeball	
+FMA58401	sensory	investing fascia of right upper limb	
+FMA58405	sensory	investing fascia of right free upper limb	
+FMA58406	sensory	investing fascia of left free upper limb	
+FMA58418	skeletal	investing fascia of right lower limb	
+FMA58419	skeletal	investing fascia of left lower limb	
+FMA58429	skeletal	investing fascia of right free lower limb	
+FMA58430	skeletal	investing fascia of left free lower limb	
+FMA58448	sensory	investing fascia of right wrist	
+FMA58449	sensory	investing fascia of left wrist	
+FMA58575	sensory	investing fascia of right forearm	
+FMA58576	sensory	investing fascia of left forearm	
+FMA58742	skeletal	investing fascia of right thigh	
+FMA58743	skeletal	investing fascia of left thigh	
+FMA59368	sensory	right lacrimal apparatus	
+FMA59369	sensory	left lacrimal apparatus	
+FMA59398	skeletal	mandibular part of mouth	
+FMA59399	skeletal	maxillary part of mouth	
+FMA59515	skeletal	external nose	
+FMA59516	skeletal	root of nose	
+FMA59517	respiratory	dorsum of nose	
+FMA59538	respiratory	cartilaginous skeleton of nose	
+FMA59637	respiratory	internal nose	
+FMA59654	skeletal	osseous skeleton of nose	
+FMA59655	skeletal	osseous skeleton of external nose	
+FMA59656	respiratory	osseous skeleton of internal nose	
+FMA59665	skeletal	septum of internal nose	
+FMA59668	respiratory	wall of internal nose	
+FMA59671	respiratory	right lateral wall of internal nose	
+FMA59672	respiratory	left lateral wall of internal nose	
+FMA59748	respiratory	right side of internal nose	
+FMA59749	respiratory	left side of internal nose	
+FMA59754	respiratory	wall of right side of internal nose	
+FMA59755	respiratory	wall of left side of internal nose	
+FMA59836	skeletal	cartilaginous skeleton of external nose	
+FMA59837	skeletal	bony part of nasal septum	
+FMA59838	respiratory	cartilaginous part of nasal septum	
+FMA59992	muscular	faucial part of mouth	
+FMA60116	skeletal	nasal skeleton	
+FMA60118	respiratory	skeleton of nasal septum	
+FMA60325	skeletal	right thumb	
+FMA60326	skeletal	left thumb	
+FMA60327	skeletal	right little finger	
+FMA60328	skeletal	left little finger	
+FMA60329	skeletal	right ring finger	
+FMA60330	skeletal	left ring finger	
+FMA60331	skeletal	right middle finger	
+FMA60332	skeletal	left middle finger	
+FMA60333	skeletal	right index finger	
+FMA60334	skeletal	left index finger	
+FMA60335	skeletal	right big toe	
+FMA60336	skeletal	left big toe	
+FMA60337	skeletal	right second toe	
+FMA60338	skeletal	left second toe	
+FMA60339	skeletal	right third toe	
+FMA60340	skeletal	left third toe	
+FMA60341	skeletal	right fourth toe	
+FMA60342	skeletal	left fourth toe	
+FMA60343	skeletal	right little toe	
+FMA60344	skeletal	left little toe	
+FMA61064	sensory	right lacrimal duct	
+FMA61065	sensory	left lacrimal duct	
+FMA61068	skeletal	right hand proper	
+FMA61069	skeletal	left hand proper	
+FMA61472	muscular	right pectoral part of chest	
+FMA61473	muscular	left pectoral part of chest	
+FMA61670	skeletal	skeleton of mouth	
+FMA61680	skeletal	abdomen proper	
+FMA61681	skeletal	back of abdomen	
+FMA61732	nervous	right parietal part of head	
+FMA61733	nervous	left parietal part of head	
+FMA61819	nervous	left cerebral hemisphere	
+FMA61991	arterial	trunk of right middle cerebral artery	
+FMA61992	nervous	forebrain	
+FMA62000	nervous	telencephalon	
+FMA62001	nervous	diencephalon	
+FMA62003	nervous	metencephalon	
+FMA62009	nervous	epithalamus	
+FMA62028	nervous	intermediate hypothalamic region	
+FMA67292	nervous	right cerebral hemisphere	
+FMA67687	nervous	hindbrain	
+FMA67994	arterial	intrapulmonary part of right pulmonary artery	
+FMA67995	arterial	intrapulmonary part of left pulmonary artery	
+FMA68002	venous	intrapulmonary part of right superior pulmonary vein	
+FMA68003	venous	intrapulmonary part of right inferior pulmonary vein	
+FMA68004	venous	intrapulmonary part of left superior pulmonary vein	
+FMA68005	venous	intrapulmonary part of left inferior pulmonary vein	
+FMA68016	digestive	intrahepatic biliary tree	
+FMA68193	arterial	medial segmental artery	
+FMA68194	arterial	lateral segmental artery	
+FMA68196	arterial	middle lobar artery	
+FMA68198	arterial	left upper lobar artery	
+FMA68200	arterial	right lower lobar artery	
+FMA68201	arterial	left lower lobar artery	
+FMA68317	respiratory	superior division of upper lobe part of left bronchial tree	
+FMA68318	respiratory	inferior division of upper lobe part of left bronchial tree	
+FMA68319	respiratory	inferomedial part of right bronchial tree	
+FMA68658	arterial	inferomedial branch of right pulmonary artery	
+FMA68659	arterial	apicoposterior division of right upper lobar artery	
+FMA68843	arterial	antero-medial basal segmental artery	
+FMA68845	arterial	right basal segmental artery	
+FMA68846	arterial	left basal segmental artery	
+FMA69566	arterial	trunk of right lateral plantar artery	
+FMA69567	arterial	trunk of left lateral plantar artery	
+FMA70347	arterial	right thyrocervical artery	
+FMA70348	arterial	left thyrocervical artery	
+FMA70351	arterial	right costocervical artery	
+FMA70352	arterial	left costocervical artery	
+FMA70441	arterial	anterior segmental hepatic artery	
+FMA70444	arterial	posterior segmental hepatic artery	
+FMA70448	arterial	medial segmental hepatic artery	
+FMA70451	arterial	lateral segmental hepatic artery	
+FMA71132	digestive	gastrointestinal tract	
+FMA71221	skeletal	axial skeleton	
+FMA71857	digestive	right hepatic biliary tree	
+FMA71858	digestive	left hepatic biliary tree	
+FMA71861	digestive	anterior tributary of right hepatic biliary tree	
+FMA71862	digestive	posterior tributary of right hepatic biliary tree	
+FMA71863	digestive	lateral tributary of left hepatic biliary tree	
+FMA71864	digestive	medial tributary of left hepatic biliary tree	
+FMA71891	digestive	hepatic biliary tree	
+FMA72062	skeletal	pelvic skeleton	
+FMA72063	skeletal	set of cervical vertebrae	
+FMA72064	skeletal	set of thoracic vertebrae	
+FMA72065	skeletal	set of lumbar vertebrae	
+FMA72952	sensory	orbital part of right eye	
+FMA72953	sensory	orbital part of left eye	
+FMA72969	nervous	right frontal lobe	
+FMA72970	nervous	left frontal lobe	
+FMA72971	nervous	right temporal lobe	
+FMA72972	nervous	left temporal lobe	
+FMA72973	nervous	right parietal lobe	
+FMA72974	nervous	left parietal lobe	
+FMA72979	integumentary	integumentary system	
+FMA72980	nervous	right limbic lobe	
+FMA72981	nervous	left limbic lobe	
+FMA73055	skeletal	anterior part of right knee	
+FMA73056	skeletal	anterior part of left knee	
+FMA73086	skeletal	right foot proper	
+FMA73087	skeletal	left foot proper	
+FMA73103	skeletal	posterior thoracic wall	
+FMA73703	muscular	wall of right side of heart	
+FMA73704	muscular	wall of left side of heart	
+FMA74657	integumentary	integument	
+FMA75007	nervous	cavity of neuraxis	
+FMA78435	muscular	musculature of anterior abdominal wall	
+FMA79063	skeletal	deep fascial system	
+FMA79065	skeletal	patellar part of right knee	
+FMA79066	skeletal	patellar part of left knee	
+FMA79181	skeletal	skeleton of right hand proper	
+FMA79182	skeletal	skeleton of left hand proper	
+FMA79269	arterial	content of thorax	
+FMA79273	arterial	content of mediastinum	
+FMA79274	arterial	content of superior mediastinum	
+FMA79275	arterial	content of inferior mediastinum	
+FMA79277	respiratory	content of posterior mediastinum	
+FMA79278	arterial	content of middle mediastinum	
+FMA79876	nervous	brainstem	
+FMA82672	venous	superior systemic venous tree	
+FMA82673	venous	inferior systemic venous tree	
+FMA83447	muscular	myocardium of right ventricle proper	
+FMA83448	muscular	myocardium of left ventricle proper	
+FMA83902	nervous	midbrain tectum	
+FMA84842	muscular	free wall of right ventricle	
+FMA84850	muscular	free wall of left ventricle	
+FMA84856	muscular	subendocardial layer of myocardium of right ventricle	
+FMA84857	muscular	subendocardial layer of myocardium of left ventricle	
+FMA84931	muscular	myocardium of free wall of right ventricle	
+FMA84932	muscular	myocardium of free wall of left ventricle	
+FMA85008	arterial	compartment of thorax	
+FMA85031	arterial	compartment of abdomen	
+FMA85055	arterial	right pulmopleural compartment	
+FMA85056	respiratory	left pulmopleural compartment	
+FMA86063	muscular	myocardial zone 11	
+FMA86064	muscular	myocardial zone 12	
+FMA86917	muscular	musculature of abdomen	
+FMA87178	muscular	myocardium of lateral wall of left ventricle	
+FMA87542	skeletal	anterior thoracic wall	
+FMA87543	skeletal	anterior chest wall	
+FMA87552	skeletal	posterior chest	
+FMA87598	skeletal	skeletal system of trunk	
+FMA228642	arterial	vasculature of body	
+FMA231424	arterial	body proper	
+FMA242180	nervous	cortex of right cerebral hemisphere	
+FMA242182	nervous	cortex of left cerebral hemisphere	
+FMA242184	nervous	subcortex of right cerebral hemisphere	
+FMA242186	nervous	subcortex of left cerebral hemisphere	
+FMA242207	nervous	cortex of right frontal lobe	
+FMA242209	nervous	cortex of left frontal lobe	
+FMA242609	nervous	right archicortex	
+FMA242611	nervous	left archicortex	
+FMA242625	nervous	right prefrontal cortex	
+FMA242627	nervous	left prefrontal cortex	
+FMA259054	skeletal	wall of abdomen	
+FMA259209	arterial	thoracic segment of trunk	
+FMA259211	skeletal	abdominal segment of trunk	
+FMA259248	arterial	content of abdomen	
+FMA260124	sensory	right orbital content	
+FMA260127	sensory	left orbital content	
+FMA260456	arterial	body cavity content	
+FMA261139	nervous	right hippocampal formation	
+FMA261141	nervous	left hippocampal formation	
+FMA265130	respiratory	respiratory tract	
+FMA265228	digestive	pancreaticobiliary system	
+FMA270201	nervous	basicranial part of head proper	

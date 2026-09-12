@@ -1,0 +1,114 @@
+conceptId	system	en	ru
+FMA67552	cardiac	anatomical cavity	
+FMA9338	cardiac	anatomical conduit space	
+FMA5897	cardiac	anatomical space	
+FMA7253	cardiac	anterior cusp of aortic valve	
+FMA7242	cardiac	anterior leaflet of mitral valve	
+FMA7238	cardiac	anterior leaflet of tricuspid valve	
+FMA7236	cardiac	aortic valve	
+FMA13237	cardiac	cavity of atrium	
+FMA9464	cardiac	cavity of cardiac chamber	
+FMA9465	cardiac	cavity of left atrium	
+FMA9466	cardiac	cavity of left ventricle	
+FMA24034	cardiac	cavity of organ part	
+FMA11359	cardiac	cavity of right atrium	
+FMA9291	cardiac	cavity of right ventricle	
+FMA13238	cardiac	cavity of ventricle	
+FMA7251	cardiac	cusp of aortic valve	
+FMA7232	cardiac	cusp of cardiac valve	
+FMA7248	cardiac	cusp of pulmonary valve	
+FMA9498	cardiac	fibrous ring of mitral valve	
+FMA9496	cardiac	fibrous skeleton of heart	
+FMA78469	cardiac	fourth ventricle	
+FMA67112	cardiac	immaterial anatomical entity	
+FMA9561	cardiac	inferior wall of left ventricle	
+FMA9564	cardiac	inflow part of left ventricle	
+FMA75351	cardiac	interventricular foramen	
+FMA78448	cardiac	lateral ventricle	
+FMA67598	cardiac	leaf of cardiac valve	
+FMA7241	cardiac	leaflet of mitral valve	
+FMA7237	cardiac	leaflet of tricuspid valve	
+FMA7247	cardiac	left anterior cusp of pulmonary valve	
+FMA7097	cardiac	left atrium	
+FMA78450	cardiac	left lateral ventricle	
+FMA7254	cardiac	left posterior cusp of aortic valve	
+FMA7101	cardiac	left ventricle	
+FMA7235	cardiac	mitral valve	
+FMA86056	cardiac	myocardial zone 4	
+FMA87179	cardiac	myocardium of inferior wall of left ventricle	
+FMA9551	cardiac	outflow part of left atrium	
+FMA9473	cardiac	outflow part of left ventricle	
+FMA9550	cardiac	outflow part of right atrium	
+FMA7216	cardiac	outflow part of right ventricle	
+FMA7250	cardiac	posterior cusp of pulmonary valve	
+FMA7243	cardiac	posterior leaflet of mitral valve	
+FMA7239	cardiac	posterior leaflet of tricuspid valve	
+FMA7246	cardiac	pulmonary valve	
+FMA78447	cardiac	region of ventricular system of brain	
+FMA242789	cardiac	region of ventricular system of neuraxis	
+FMA86212	cardiac	region of wall of heart	
+FMA7249	cardiac	right anterior cusp of pulmonary valve	
+FMA7096	cardiac	right atrium	
+FMA78449	cardiac	right lateral ventricle	
+FMA7252	cardiac	right posterior cusp of aortic valve	
+FMA7098	cardiac	right ventricle	
+FMA7240	cardiac	septal leaflet of tricuspid valve	
+FMA9348	cardiac	subaortic curtain of left ventricle	
+FMA78454	cardiac	third ventricle	
+FMA7234	cardiac	tricuspid valve	
+FMA242787	cardiac	ventricular system of brain	
+FMA242675	cardiac	ventricular system of neuraxis	
+FMA13883	cardiac	wall of atrium	
+FMA13256	cardiac	wall of cardiac chamber	
+FMA9531	cardiac	wall of left atrium	
+FMA9457	cardiac	wall of right atrium	
+FMA13884	cardiac	wall of ventricle	
+FMA9604	endocrine	adrenal gland	
+FMA84081	endocrine	circumventricular organ of neuraxis	
+FMA55663	endocrine	corticomedullary organ	
+FMA15630	endocrine	left adrenal gland	
+FMA62033	endocrine	pineal body	
+FMA13889	endocrine	pituitary gland	
+FMA15629	endocrine	right adrenal gland	
+FMA45728	lymphatic	anatomical lobe	
+FMA9838	lymphatic	anterior mediastinum	
+FMA79276	lymphatic	content of anterior mediastinum	
+FMA71195	lymphatic	left lobe of thymus	
+FMA71193	lymphatic	lobe of thymus	
+FMA82478	lymphatic	lobular organ component	
+FMA71194	lymphatic	right lobe of thymus	
+FMA7196	lymphatic	spleen	Селезёнка
+FMA9607	lymphatic	thymus	
+FMA20194	reproductive	cavernous organ	
+FMA19618	reproductive	corpus cavernosum of penis	
+FMA19617	reproductive	corpus spongiosum of penis	
+FMA19234	reproductive	deferent duct	
+FMA18255	reproductive	epididymis	
+FMA7160	reproductive	genital system	
+FMA18247	reproductive	glans penis	
+FMA19236	reproductive	left deferent duct	
+FMA18257	reproductive	left epididymis	
+FMA19388	reproductive	left seminal vesicle	
+FMA7212	reproductive	left testis	
+FMA7146	reproductive	organ component gland	
+FMA9600	reproductive	prostate	
+FMA19235	reproductive	right deferent duct	
+FMA18256	reproductive	right epididymis	
+FMA19387	reproductive	right seminal vesicle	
+FMA7211	reproductive	right testis	
+FMA19386	reproductive	seminal vesicle	
+FMA7210	reproductive	testis	
+FMA20221	reproductive	zone of cavernous organ	
+FMA20247	reproductive	zone of corpus spongiosum of penis	
+FMA7203	urinary	kidney	
+FMA7205	urinary	left kidney	
+FMA71103	urinary	left upper urinary tract	
+FMA15572	urinary	left ureter	
+FMA45659	urinary	lower urinary tract	
+FMA7204	urinary	right kidney	
+FMA71102	urinary	right upper urinary tract	
+FMA15571	urinary	right ureter	
+FMA9704	urinary	ureter	
+FMA19667	urinary	urethra	
+FMA15900	urinary	urinary bladder	
+FMA7159	urinary	urinary system	

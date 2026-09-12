@@ -1,0 +1,680 @@
+[
+  {
+    "conceptId": "FMA67552",
+    "system": "cardiac",
+    "en": "anatomical cavity",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9338",
+    "system": "cardiac",
+    "en": "anatomical conduit space",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA5897",
+    "system": "cardiac",
+    "en": "anatomical space",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7253",
+    "system": "cardiac",
+    "en": "anterior cusp of aortic valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7242",
+    "system": "cardiac",
+    "en": "anterior leaflet of mitral valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7238",
+    "system": "cardiac",
+    "en": "anterior leaflet of tricuspid valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7236",
+    "system": "cardiac",
+    "en": "aortic valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA13237",
+    "system": "cardiac",
+    "en": "cavity of atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9464",
+    "system": "cardiac",
+    "en": "cavity of cardiac chamber",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9465",
+    "system": "cardiac",
+    "en": "cavity of left atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9466",
+    "system": "cardiac",
+    "en": "cavity of left ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA24034",
+    "system": "cardiac",
+    "en": "cavity of organ part",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA11359",
+    "system": "cardiac",
+    "en": "cavity of right atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9291",
+    "system": "cardiac",
+    "en": "cavity of right ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA13238",
+    "system": "cardiac",
+    "en": "cavity of ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7251",
+    "system": "cardiac",
+    "en": "cusp of aortic valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7232",
+    "system": "cardiac",
+    "en": "cusp of cardiac valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7248",
+    "system": "cardiac",
+    "en": "cusp of pulmonary valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9498",
+    "system": "cardiac",
+    "en": "fibrous ring of mitral valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9496",
+    "system": "cardiac",
+    "en": "fibrous skeleton of heart",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA78469",
+    "system": "cardiac",
+    "en": "fourth ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA67112",
+    "system": "cardiac",
+    "en": "immaterial anatomical entity",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9561",
+    "system": "cardiac",
+    "en": "inferior wall of left ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9564",
+    "system": "cardiac",
+    "en": "inflow part of left ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA75351",
+    "system": "cardiac",
+    "en": "interventricular foramen",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA78448",
+    "system": "cardiac",
+    "en": "lateral ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA67598",
+    "system": "cardiac",
+    "en": "leaf of cardiac valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7241",
+    "system": "cardiac",
+    "en": "leaflet of mitral valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7237",
+    "system": "cardiac",
+    "en": "leaflet of tricuspid valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7247",
+    "system": "cardiac",
+    "en": "left anterior cusp of pulmonary valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7097",
+    "system": "cardiac",
+    "en": "left atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA78450",
+    "system": "cardiac",
+    "en": "left lateral ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7254",
+    "system": "cardiac",
+    "en": "left posterior cusp of aortic valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7101",
+    "system": "cardiac",
+    "en": "left ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7235",
+    "system": "cardiac",
+    "en": "mitral valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA86056",
+    "system": "cardiac",
+    "en": "myocardial zone 4",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA87179",
+    "system": "cardiac",
+    "en": "myocardium of inferior wall of left ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9551",
+    "system": "cardiac",
+    "en": "outflow part of left atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9473",
+    "system": "cardiac",
+    "en": "outflow part of left ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9550",
+    "system": "cardiac",
+    "en": "outflow part of right atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7216",
+    "system": "cardiac",
+    "en": "outflow part of right ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7250",
+    "system": "cardiac",
+    "en": "posterior cusp of pulmonary valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7243",
+    "system": "cardiac",
+    "en": "posterior leaflet of mitral valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7239",
+    "system": "cardiac",
+    "en": "posterior leaflet of tricuspid valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7246",
+    "system": "cardiac",
+    "en": "pulmonary valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA78447",
+    "system": "cardiac",
+    "en": "region of ventricular system of brain",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA242789",
+    "system": "cardiac",
+    "en": "region of ventricular system of neuraxis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA86212",
+    "system": "cardiac",
+    "en": "region of wall of heart",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7249",
+    "system": "cardiac",
+    "en": "right anterior cusp of pulmonary valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7096",
+    "system": "cardiac",
+    "en": "right atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA78449",
+    "system": "cardiac",
+    "en": "right lateral ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7252",
+    "system": "cardiac",
+    "en": "right posterior cusp of aortic valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7098",
+    "system": "cardiac",
+    "en": "right ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7240",
+    "system": "cardiac",
+    "en": "septal leaflet of tricuspid valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9348",
+    "system": "cardiac",
+    "en": "subaortic curtain of left ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA78454",
+    "system": "cardiac",
+    "en": "third ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7234",
+    "system": "cardiac",
+    "en": "tricuspid valve",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA242787",
+    "system": "cardiac",
+    "en": "ventricular system of brain",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA242675",
+    "system": "cardiac",
+    "en": "ventricular system of neuraxis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA13883",
+    "system": "cardiac",
+    "en": "wall of atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA13256",
+    "system": "cardiac",
+    "en": "wall of cardiac chamber",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9531",
+    "system": "cardiac",
+    "en": "wall of left atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9457",
+    "system": "cardiac",
+    "en": "wall of right atrium",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA13884",
+    "system": "cardiac",
+    "en": "wall of ventricle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9604",
+    "system": "endocrine",
+    "en": "adrenal gland",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA84081",
+    "system": "endocrine",
+    "en": "circumventricular organ of neuraxis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA55663",
+    "system": "endocrine",
+    "en": "corticomedullary organ",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA15630",
+    "system": "endocrine",
+    "en": "left adrenal gland",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA62033",
+    "system": "endocrine",
+    "en": "pineal body",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA13889",
+    "system": "endocrine",
+    "en": "pituitary gland",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA15629",
+    "system": "endocrine",
+    "en": "right adrenal gland",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA45728",
+    "system": "lymphatic",
+    "en": "anatomical lobe",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9838",
+    "system": "lymphatic",
+    "en": "anterior mediastinum",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA79276",
+    "system": "lymphatic",
+    "en": "content of anterior mediastinum",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA71195",
+    "system": "lymphatic",
+    "en": "left lobe of thymus",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA71193",
+    "system": "lymphatic",
+    "en": "lobe of thymus",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA82478",
+    "system": "lymphatic",
+    "en": "lobular organ component",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA71194",
+    "system": "lymphatic",
+    "en": "right lobe of thymus",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7196",
+    "system": "lymphatic",
+    "en": "spleen",
+    "ru": "Селезёнка"
+  },
+  {
+    "conceptId": "FMA9607",
+    "system": "lymphatic",
+    "en": "thymus",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA20194",
+    "system": "reproductive",
+    "en": "cavernous organ",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19618",
+    "system": "reproductive",
+    "en": "corpus cavernosum of penis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19617",
+    "system": "reproductive",
+    "en": "corpus spongiosum of penis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19234",
+    "system": "reproductive",
+    "en": "deferent duct",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA18255",
+    "system": "reproductive",
+    "en": "epididymis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7160",
+    "system": "reproductive",
+    "en": "genital system",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA18247",
+    "system": "reproductive",
+    "en": "glans penis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19236",
+    "system": "reproductive",
+    "en": "left deferent duct",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA18257",
+    "system": "reproductive",
+    "en": "left epididymis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19388",
+    "system": "reproductive",
+    "en": "left seminal vesicle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7212",
+    "system": "reproductive",
+    "en": "left testis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7146",
+    "system": "reproductive",
+    "en": "organ component gland",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9600",
+    "system": "reproductive",
+    "en": "prostate",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19235",
+    "system": "reproductive",
+    "en": "right deferent duct",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA18256",
+    "system": "reproductive",
+    "en": "right epididymis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19387",
+    "system": "reproductive",
+    "en": "right seminal vesicle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7211",
+    "system": "reproductive",
+    "en": "right testis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19386",
+    "system": "reproductive",
+    "en": "seminal vesicle",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7210",
+    "system": "reproductive",
+    "en": "testis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA20221",
+    "system": "reproductive",
+    "en": "zone of cavernous organ",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA20247",
+    "system": "reproductive",
+    "en": "zone of corpus spongiosum of penis",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7203",
+    "system": "urinary",
+    "en": "kidney",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7205",
+    "system": "urinary",
+    "en": "left kidney",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA71103",
+    "system": "urinary",
+    "en": "left upper urinary tract",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA15572",
+    "system": "urinary",
+    "en": "left ureter",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA45659",
+    "system": "urinary",
+    "en": "lower urinary tract",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7204",
+    "system": "urinary",
+    "en": "right kidney",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA71102",
+    "system": "urinary",
+    "en": "right upper urinary tract",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA15571",
+    "system": "urinary",
+    "en": "right ureter",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA9704",
+    "system": "urinary",
+    "en": "ureter",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA19667",
+    "system": "urinary",
+    "en": "urethra",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA15900",
+    "system": "urinary",
+    "en": "urinary bladder",
+    "ru": ""
+  },
+  {
+    "conceptId": "FMA7159",
+    "system": "urinary",
+    "en": "urinary system",
+    "ru": ""
+  }
+]

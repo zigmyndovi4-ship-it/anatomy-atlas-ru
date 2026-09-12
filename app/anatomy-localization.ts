@@ -4,6 +4,7 @@ export type AnatomyTranslation = {
   en:string;
   ru:string;
   system:string;
+  aliases?:string[];
 };
 
 export type AnatomyTranslations = Record<string,AnatomyTranslation>;
@@ -25,6 +26,9 @@ export function anatomySearchText(
   englishName:string,
   translations:AnatomyTranslations | null,
 ) {
-  const ru=translations?.[conceptId]?.ru?.trim() ?? '';
-  return `${englishName} ${ru}`.toLowerCase();
+  const entry=translations?.[conceptId];
+  const ru=entry?.ru?.trim() ?? '';
+  const aliases=entry?.aliases?.join(' ') ?? '';
+
+  return `${englishName} ${ru} ${aliases}`.toLowerCase();
 }

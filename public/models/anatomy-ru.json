@@ -546,7 +546,7 @@
   },
   "FMA5897": {
     "en": "anatomical space",
-    "ru": "",
+    "ru": "Анатомическое пространство",
     "system": "cardiac"
   },
   "FMA5898": {
@@ -586,7 +586,7 @@
   },
   "FMA7146": {
     "en": "organ component gland",
-    "ru": "",
+    "ru": "Железа — компонент органа",
     "system": "reproductive"
   },
   "FMA7148": {
@@ -616,17 +616,17 @@
   },
   "FMA7203": {
     "en": "kidney",
-    "ru": "",
+    "ru": "Почка",
     "system": "urinary"
   },
   "FMA7204": {
     "en": "right kidney",
-    "ru": "",
+    "ru": "Правая почка",
     "system": "urinary"
   },
   "FMA7205": {
     "en": "left kidney",
-    "ru": "",
+    "ru": "Левая почка",
     "system": "urinary"
   },
   "FMA7206": {
@@ -636,97 +636,97 @@
   },
   "FMA7210": {
     "en": "testis",
-    "ru": "",
+    "ru": "Яичко",
     "system": "reproductive"
   },
   "FMA7211": {
     "en": "right testis",
-    "ru": "",
+    "ru": "Правое яичко",
     "system": "reproductive"
   },
   "FMA7212": {
     "en": "left testis",
-    "ru": "",
+    "ru": "Левое яичко",
     "system": "reproductive"
   },
   "FMA7232": {
     "en": "cusp of cardiac valve",
-    "ru": "",
+    "ru": "Заслонка сердечного клапана",
     "system": "cardiac"
   },
   "FMA7237": {
     "en": "leaflet of tricuspid valve",
-    "ru": "",
+    "ru": "Створка трёхстворчатого клапана",
     "system": "cardiac"
   },
   "FMA7238": {
     "en": "anterior leaflet of tricuspid valve",
-    "ru": "",
+    "ru": "Передняя створка трёхстворчатого клапана",
     "system": "cardiac"
   },
   "FMA7239": {
     "en": "posterior leaflet of tricuspid valve",
-    "ru": "",
+    "ru": "Задняя створка трёхстворчатого клапана",
     "system": "cardiac"
   },
   "FMA7240": {
     "en": "septal leaflet of tricuspid valve",
-    "ru": "",
+    "ru": "Перегородочная створка трёхстворчатого клапана",
     "system": "cardiac"
   },
   "FMA7241": {
     "en": "leaflet of mitral valve",
-    "ru": "",
+    "ru": "Створка митрального клапана",
     "system": "cardiac"
   },
   "FMA7242": {
     "en": "anterior leaflet of mitral valve",
-    "ru": "",
+    "ru": "Передняя створка митрального клапана",
     "system": "cardiac"
   },
   "FMA7243": {
     "en": "posterior leaflet of mitral valve",
-    "ru": "",
+    "ru": "Задняя створка митрального клапана",
     "system": "cardiac"
   },
   "FMA7247": {
     "en": "left anterior cusp of pulmonary valve",
-    "ru": "",
+    "ru": "Левая передняя заслонка клапана лёгочного ствола",
     "system": "cardiac"
   },
   "FMA7248": {
     "en": "cusp of pulmonary valve",
-    "ru": "",
+    "ru": "Заслонка клапана лёгочного ствола",
     "system": "cardiac"
   },
   "FMA7249": {
     "en": "right anterior cusp of pulmonary valve",
-    "ru": "",
+    "ru": "Правая передняя заслонка клапана лёгочного ствола",
     "system": "cardiac"
   },
   "FMA7250": {
     "en": "posterior cusp of pulmonary valve",
-    "ru": "",
+    "ru": "Задняя заслонка клапана лёгочного ствола",
     "system": "cardiac"
   },
   "FMA7251": {
     "en": "cusp of aortic valve",
-    "ru": "",
+    "ru": "Заслонка аортального клапана",
     "system": "cardiac"
   },
   "FMA7252": {
     "en": "right posterior cusp of aortic valve",
-    "ru": "",
+    "ru": "Правая задняя заслонка аортального клапана",
     "system": "cardiac"
   },
   "FMA7253": {
     "en": "anterior cusp of aortic valve",
-    "ru": "",
+    "ru": "Передняя заслонка аортального клапана",
     "system": "cardiac"
   },
   "FMA7254": {
     "en": "left posterior cusp of aortic valve",
-    "ru": "",
+    "ru": "Левая задняя заслонка аортального клапана",
     "system": "cardiac"
   },
   "FMA7260": {
@@ -1331,7 +1331,7 @@
   },
   "FMA9291": {
     "en": "cavity of right ventricle",
-    "ru": "",
+    "ru": "Полость правого желудочка",
     "system": "cardiac"
   },
   "FMA9311": {
@@ -1346,7 +1346,7 @@
   },
   "FMA9338": {
     "en": "anatomical conduit space",
-    "ru": "",
+    "ru": "Полость анатомического проводника",
     "system": "cardiac"
   },
   "FMA9411": {
@@ -1406,27 +1406,27 @@
   },
   "FMA9457": {
     "en": "wall of right atrium",
-    "ru": "",
+    "ru": "Стенка правого предсердия",
     "system": "cardiac"
   },
   "FMA9464": {
     "en": "cavity of cardiac chamber",
-    "ru": "",
+    "ru": "Полость камеры сердца",
     "system": "cardiac"
   },
   "FMA9465": {
     "en": "cavity of left atrium",
-    "ru": "",
+    "ru": "Полость левого предсердия",
     "system": "cardiac"
   },
   "FMA9466": {
     "en": "cavity of left ventricle",
-    "ru": "",
+    "ru": "Полость левого желудочка",
     "system": "cardiac"
   },
   "FMA9531": {
     "en": "wall of left atrium",
-    "ru": "",
+    "ru": "Стенка левого предсердия",
     "system": "cardiac"
   },
   "FMA9597": {
@@ -1436,12 +1436,15 @@
   },
   "FMA9600": {
     "en": "prostate",
-    "ru": "",
-    "system": "reproductive"
+    "ru": "Предстательная железа",
+    "system": "reproductive",
+    "aliases": [
+      "простата"
+    ]
   },
   "FMA9604": {
     "en": "adrenal gland",
-    "ru": "",
+    "ru": "Надпочечник",
     "system": "endocrine"
   },
   "FMA9611": {
@@ -1536,7 +1539,7 @@
   },
   "FMA9704": {
     "en": "ureter",
-    "ru": "",
+    "ru": "Мочеточник",
     "system": "urinary"
   },
   "FMA9706": {
@@ -1806,7 +1809,7 @@
   },
   "FMA11359": {
     "en": "cavity of right atrium",
-    "ru": "",
+    "ru": "Полость правого предсердия",
     "system": "cardiac"
   },
   "FMA12215": {
@@ -1916,17 +1919,17 @@
   },
   "FMA13237": {
     "en": "cavity of atrium",
-    "ru": "",
+    "ru": "Полость предсердия",
     "system": "cardiac"
   },
   "FMA13238": {
     "en": "cavity of ventricle",
-    "ru": "",
+    "ru": "Полость желудочка",
     "system": "cardiac"
   },
   "FMA13256": {
     "en": "wall of cardiac chamber",
-    "ru": "",
+    "ru": "Стенка камеры сердца",
     "system": "cardiac"
   },
   "FMA13278": {
@@ -2376,18 +2379,21 @@
   },
   "FMA13883": {
     "en": "wall of atrium",
-    "ru": "",
+    "ru": "Стенка предсердия",
     "system": "cardiac"
   },
   "FMA13884": {
     "en": "wall of ventricle",
-    "ru": "",
+    "ru": "Стенка желудочка",
     "system": "cardiac"
   },
   "FMA13889": {
     "en": "pituitary gland",
-    "ru": "",
-    "system": "endocrine"
+    "ru": "Гипофиз",
+    "system": "endocrine",
+    "aliases": [
+      "питуитарная железа"
+    ]
   },
   "FMA13894": {
     "en": "intervertebral disk of lumbar vertebra",
@@ -3101,22 +3107,22 @@
   },
   "FMA15571": {
     "en": "right ureter",
-    "ru": "",
+    "ru": "Правый мочеточник",
     "system": "urinary"
   },
   "FMA15572": {
     "en": "left ureter",
-    "ru": "",
+    "ru": "Левый мочеточник",
     "system": "urinary"
   },
   "FMA15629": {
     "en": "right adrenal gland",
-    "ru": "",
+    "ru": "Правый надпочечник",
     "system": "endocrine"
   },
   "FMA15630": {
     "en": "left adrenal gland",
-    "ru": "",
+    "ru": "Левый надпочечник",
     "system": "endocrine"
   },
   "FMA15737": {
@@ -3236,8 +3242,11 @@
   },
   "FMA15900": {
     "en": "urinary bladder",
-    "ru": "",
-    "system": "urinary"
+    "ru": "Мочевой пузырь",
+    "system": "urinary",
+    "aliases": [
+      "мочевик"
+    ]
   },
   "FMA16033": {
     "en": "intervertebral disk of first lumbar vertebra",
@@ -3321,22 +3330,22 @@
   },
   "FMA18247": {
     "en": "glans penis",
-    "ru": "",
+    "ru": "Головка полового члена",
     "system": "reproductive"
   },
   "FMA18255": {
     "en": "epididymis",
-    "ru": "",
+    "ru": "Придаток яичка",
     "system": "reproductive"
   },
   "FMA18256": {
     "en": "right epididymis",
-    "ru": "",
+    "ru": "Правый придаток яичка",
     "system": "reproductive"
   },
   "FMA18257": {
     "en": "left epididymis",
-    "ru": "",
+    "ru": "Левый придаток яичка",
     "system": "reproductive"
   },
   "FMA18805": {
@@ -3536,48 +3545,54 @@
   },
   "FMA19234": {
     "en": "deferent duct",
-    "ru": "",
-    "system": "reproductive"
+    "ru": "Семявыносящий проток",
+    "system": "reproductive",
+    "aliases": [
+      "семявыносящий канал"
+    ]
   },
   "FMA19235": {
     "en": "right deferent duct",
-    "ru": "",
+    "ru": "Правый семявыносящий проток",
     "system": "reproductive"
   },
   "FMA19236": {
     "en": "left deferent duct",
-    "ru": "",
+    "ru": "Левый семявыносящий проток",
     "system": "reproductive"
   },
   "FMA19386": {
     "en": "seminal vesicle",
-    "ru": "",
+    "ru": "Семенной пузырёк",
     "system": "reproductive"
   },
   "FMA19387": {
     "en": "right seminal vesicle",
-    "ru": "",
+    "ru": "Правый семенной пузырёк",
     "system": "reproductive"
   },
   "FMA19388": {
     "en": "left seminal vesicle",
-    "ru": "",
+    "ru": "Левый семенной пузырёк",
     "system": "reproductive"
   },
   "FMA19617": {
     "en": "corpus spongiosum of penis",
-    "ru": "",
+    "ru": "Губчатое тело полового члена",
     "system": "reproductive"
   },
   "FMA19618": {
     "en": "corpus cavernosum of penis",
-    "ru": "",
+    "ru": "Пещеристое тело полового члена",
     "system": "reproductive"
   },
   "FMA19667": {
     "en": "urethra",
-    "ru": "",
-    "system": "urinary"
+    "ru": "Мочеиспускательный канал",
+    "system": "urinary",
+    "aliases": [
+      "уретра"
+    ]
   },
   "FMA19728": {
     "en": "superficial perineal muscle",
@@ -3611,17 +3626,17 @@
   },
   "FMA20194": {
     "en": "cavernous organ",
-    "ru": "",
+    "ru": "Пещеристый орган",
     "system": "reproductive"
   },
   "FMA20221": {
     "en": "zone of cavernous organ",
-    "ru": "",
+    "ru": "Зона пещеристого органа",
     "system": "reproductive"
   },
   "FMA20247": {
     "en": "zone of corpus spongiosum of penis",
-    "ru": "",
+    "ru": "Зона губчатого тела полового члена",
     "system": "reproductive"
   },
   "FMA20278": {
@@ -5651,7 +5666,7 @@
   },
   "FMA24034": {
     "en": "cavity of organ part",
-    "ru": "",
+    "ru": "Полость части органа",
     "system": "cardiac"
   },
   "FMA24218": {
@@ -8086,7 +8101,7 @@
   },
   "FMA45728": {
     "en": "anatomical lobe",
-    "ru": "",
+    "ru": "Анатомическая доля",
     "system": "lymphatic"
   },
   "FMA45729": {
@@ -10661,7 +10676,7 @@
   },
   "FMA55663": {
     "en": "corticomedullary organ",
-    "ru": "",
+    "ru": "Кортикомедуллярный орган",
     "system": "endocrine"
   },
   "FMA55665": {
@@ -11541,8 +11556,11 @@
   },
   "FMA62033": {
     "en": "pineal body",
-    "ru": "",
-    "system": "endocrine"
+    "ru": "Шишковидное тело",
+    "system": "endocrine",
+    "aliases": [
+      "эпифиз"
+    ]
   },
   "FMA62045": {
     "en": "optic chiasm",
@@ -11941,7 +11959,7 @@
   },
   "FMA67112": {
     "en": "immaterial anatomical entity",
-    "ru": "",
+    "ru": "Нематериальная анатомическая сущность",
     "system": "cardiac"
   },
   "FMA67135": {
@@ -11996,12 +12014,12 @@
   },
   "FMA67552": {
     "en": "anatomical cavity",
-    "ru": "",
+    "ru": "Анатомическая полость",
     "system": "cardiac"
   },
   "FMA67598": {
     "en": "leaf of cardiac valve",
-    "ru": "",
+    "ru": "Створка сердечного клапана",
     "system": "cardiac"
   },
   "FMA67601": {
@@ -12961,17 +12979,17 @@
   },
   "FMA71193": {
     "en": "lobe of thymus",
-    "ru": "",
+    "ru": "Доля тимуса",
     "system": "lymphatic"
   },
   "FMA71194": {
     "en": "right lobe of thymus",
-    "ru": "",
+    "ru": "Правая доля тимуса",
     "system": "lymphatic"
   },
   "FMA71195": {
     "en": "left lobe of thymus",
-    "ru": "",
+    "ru": "Левая доля тимуса",
     "system": "lymphatic"
   },
   "FMA71209": {
@@ -13601,7 +13619,7 @@
   },
   "FMA75351": {
     "en": "interventricular foramen",
-    "ru": "",
+    "ru": "Межжелудочковое отверстие",
     "system": "cardiac"
   },
   "FMA75445": {
@@ -13811,27 +13829,27 @@
   },
   "FMA78447": {
     "en": "region of ventricular system of brain",
-    "ru": "",
+    "ru": "Область желудочковой системы головного мозга",
     "system": "cardiac"
   },
   "FMA78448": {
     "en": "lateral ventricle",
-    "ru": "",
+    "ru": "Боковой желудочек",
     "system": "cardiac"
   },
   "FMA78449": {
     "en": "right lateral ventricle",
-    "ru": "",
+    "ru": "Правый боковой желудочек",
     "system": "cardiac"
   },
   "FMA78450": {
     "en": "left lateral ventricle",
-    "ru": "",
+    "ru": "Левый боковой желудочек",
     "system": "cardiac"
   },
   "FMA78454": {
     "en": "third ventricle",
-    "ru": "",
+    "ru": "Третий желудочек",
     "system": "cardiac"
   },
   "FMA78467": {
@@ -13841,7 +13859,7 @@
   },
   "FMA78469": {
     "en": "fourth ventricle",
-    "ru": "",
+    "ru": "Четвёртый желудочек",
     "system": "cardiac"
   },
   "FMA78497": {
@@ -13906,7 +13924,7 @@
   },
   "FMA82478": {
     "en": "lobular organ component",
-    "ru": "",
+    "ru": "Дольковый компонент органа",
     "system": "lymphatic"
   },
   "FMA82481": {
@@ -14081,7 +14099,7 @@
   },
   "FMA84081": {
     "en": "circumventricular organ of neuraxis",
-    "ru": "",
+    "ru": "Околожелудочковый орган нервной оси",
     "system": "endocrine"
   },
   "FMA84201": {
@@ -14301,7 +14319,7 @@
   },
   "FMA86212": {
     "en": "region of wall of heart",
-    "ru": "",
+    "ru": "Область стенки сердца",
     "system": "cardiac"
   },
   "FMA86254": {
@@ -14426,7 +14444,7 @@
   },
   "FMA242789": {
     "en": "region of ventricular system of neuraxis",
-    "ru": "",
+    "ru": "Область желудочковой системы нервной оси",
     "system": "cardiac"
   },
   "FMA256174": {
@@ -14546,22 +14564,22 @@
   },
   "FMA7096": {
     "en": "right atrium",
-    "ru": "",
+    "ru": "Правое предсердие",
     "system": "cardiac"
   },
   "FMA7097": {
     "en": "left atrium",
-    "ru": "",
+    "ru": "Левое предсердие",
     "system": "cardiac"
   },
   "FMA7098": {
     "en": "right ventricle",
-    "ru": "",
+    "ru": "Правый желудочек",
     "system": "cardiac"
   },
   "FMA7101": {
     "en": "left ventricle",
-    "ru": "",
+    "ru": "Левый желудочек",
     "system": "cardiac"
   },
   "FMA7152": {
@@ -14591,12 +14609,12 @@
   },
   "FMA7159": {
     "en": "urinary system",
-    "ru": "",
+    "ru": "Мочевая система",
     "system": "urinary"
   },
   "FMA7160": {
     "en": "genital system",
-    "ru": "",
+    "ru": "Половая система",
     "system": "reproductive"
   },
   "FMA7161": {
@@ -14671,27 +14689,30 @@
   },
   "FMA7216": {
     "en": "outflow part of right ventricle",
-    "ru": "",
+    "ru": "Выносящая часть правого желудочка",
     "system": "cardiac"
   },
   "FMA7234": {
     "en": "tricuspid valve",
-    "ru": "",
+    "ru": "Трёхстворчатый клапан",
     "system": "cardiac"
   },
   "FMA7235": {
     "en": "mitral valve",
-    "ru": "",
-    "system": "cardiac"
+    "ru": "Митральный клапан",
+    "system": "cardiac",
+    "aliases": [
+      "двустворчатый клапан"
+    ]
   },
   "FMA7236": {
     "en": "aortic valve",
-    "ru": "",
+    "ru": "Аортальный клапан",
     "system": "cardiac"
   },
   "FMA7246": {
     "en": "pulmonary valve",
-    "ru": "",
+    "ru": "Клапан лёгочного ствола",
     "system": "cardiac"
   },
   "FMA7259": {
@@ -14991,7 +15012,7 @@
   },
   "FMA9348": {
     "en": "subaortic curtain of left ventricle",
-    "ru": "",
+    "ru": "Субаортальная занавеска левого желудочка",
     "system": "cardiac"
   },
   "FMA9352": {
@@ -15001,17 +15022,17 @@
   },
   "FMA9473": {
     "en": "outflow part of left ventricle",
-    "ru": "",
+    "ru": "Выносящая часть левого желудочка",
     "system": "cardiac"
   },
   "FMA9496": {
     "en": "fibrous skeleton of heart",
-    "ru": "",
+    "ru": "Фиброзный скелет сердца",
     "system": "cardiac"
   },
   "FMA9498": {
     "en": "fibrous ring of mitral valve",
-    "ru": "",
+    "ru": "Фиброзное кольцо митрального клапана",
     "system": "cardiac"
   },
   "FMA9533": {
@@ -15026,12 +15047,12 @@
   },
   "FMA9550": {
     "en": "outflow part of right atrium",
-    "ru": "",
+    "ru": "Выносящая часть правого предсердия",
     "system": "cardiac"
   },
   "FMA9551": {
     "en": "outflow part of left atrium",
-    "ru": "",
+    "ru": "Выносящая часть левого предсердия",
     "system": "cardiac"
   },
   "FMA9552": {
@@ -15066,7 +15087,7 @@
   },
   "FMA9561": {
     "en": "inferior wall of left ventricle",
-    "ru": "",
+    "ru": "Нижняя стенка левого желудочка",
     "system": "cardiac"
   },
   "FMA9563": {
@@ -15076,7 +15097,7 @@
   },
   "FMA9564": {
     "en": "inflow part of left ventricle",
-    "ru": "",
+    "ru": "Приточная часть левого желудочка",
     "system": "cardiac"
   },
   "FMA9576": {
@@ -15106,8 +15127,11 @@
   },
   "FMA9607": {
     "en": "thymus",
-    "ru": "",
-    "system": "lymphatic"
+    "ru": "Тимус",
+    "system": "lymphatic",
+    "aliases": [
+      "вилочковая железа"
+    ]
   },
   "FMA9668": {
     "en": "endocrine system",
@@ -15141,7 +15165,7 @@
   },
   "FMA9838": {
     "en": "anterior mediastinum",
-    "ru": "",
+    "ru": "Переднее средостение",
     "system": "lymphatic"
   },
   "FMA9839": {
@@ -15801,7 +15825,7 @@
   },
   "FMA45659": {
     "en": "lower urinary tract",
-    "ru": "",
+    "ru": "Нижние мочевые пути",
     "system": "urinary"
   },
   "FMA45662": {
@@ -16661,12 +16685,12 @@
   },
   "FMA71102": {
     "en": "right upper urinary tract",
-    "ru": "",
+    "ru": "Правые верхние мочевые пути",
     "system": "urinary"
   },
   "FMA71103": {
     "en": "left upper urinary tract",
-    "ru": "",
+    "ru": "Левые верхние мочевые пути",
     "system": "urinary"
   },
   "FMA71132": {
@@ -16886,7 +16910,7 @@
   },
   "FMA79276": {
     "en": "content of anterior mediastinum",
-    "ru": "",
+    "ru": "Содержимое переднего средостения",
     "system": "lymphatic"
   },
   "FMA79277": {
@@ -16981,7 +17005,7 @@
   },
   "FMA86056": {
     "en": "myocardial zone 4",
-    "ru": "",
+    "ru": "Зона миокарда 4",
     "system": "cardiac"
   },
   "FMA86063": {
@@ -17006,7 +17030,7 @@
   },
   "FMA87179": {
     "en": "myocardium of inferior wall of left ventricle",
-    "ru": "",
+    "ru": "Миокард нижней стенки левого желудочка",
     "system": "cardiac"
   },
   "FMA87542": {
@@ -17091,12 +17115,12 @@
   },
   "FMA242675": {
     "en": "ventricular system of neuraxis",
-    "ru": "",
+    "ru": "Желудочковая система нервной оси",
     "system": "cardiac"
   },
   "FMA242787": {
     "en": "ventricular system of brain",
-    "ru": "",
+    "ru": "Желудочковая система головного мозга",
     "system": "cardiac"
   },
   "FMA259054": {
