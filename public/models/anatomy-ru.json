@@ -5001,12 +5001,12 @@
   },
   "FMA22858": {
     "en": "lateral proper palmar digital artery of right middle finger",
-    "ru": "Латеральная собственно ладонная дигитал артерия правый средняя палец",
+    "ru": "Правая латеральная собственная ладонная пальцевая артерия среднего пальца",
     "system": "arterial"
   },
   "FMA22860": {
     "en": "lateral proper palmar digital artery of left middle finger",
-    "ru": "Латеральная собственно ладонная дигитал артерия левый средняя палец",
+    "ru": "Левая латеральная собственная ладонная пальцевая артерия среднего пальца",
     "system": "arterial"
   },
   "FMA22863": {
@@ -5284,27 +5284,27 @@
   },
   "FMA23050": {
     "en": "medial proper palmar digital artery of right index finger",
-    "ru": "Медиальная собственно ладонная дигитал артерия правый индэкс палец",
+    "ru": "Правая медиальная собственная ладонная пальцевая артерия указательного пальца",
     "system": "arterial"
   },
   "FMA23051": {
     "en": "medial proper palmar digital artery of left index finger",
-    "ru": "Медиальная собственно ладонная дигитал артерия левый индэкс палец",
+    "ru": "Левая медиальная собственная ладонная пальцевая артерия указательного пальца",
     "system": "arterial"
   },
   "FMA23052": {
     "en": "medial proper palmar digital artery of right ring finger",
-    "ru": "Медиальная собственно ладонная дигитал артерия правый кольцо палец",
+    "ru": "Правая медиальная собственная ладонная пальцевая артерия безымянного пальца",
     "system": "arterial"
   },
   "FMA23054": {
     "en": "lateral proper palmar digital artery of right little finger",
-    "ru": "Латеральная собственно ладонная дигитал артерия правый литтлэ палец",
+    "ru": "Правая латеральная собственная ладонная пальцевая артерия мизинца",
     "system": "arterial"
   },
   "FMA23055": {
     "en": "lateral proper palmar digital artery of left little finger",
-    "ru": "Латеральная собственно ладонная дигитал артерия левый литтлэ палец",
+    "ru": "Левая латеральная собственная ладонная пальцевая артерия мизинца",
     "system": "arterial"
   },
   "FMA23062": {
@@ -9525,7 +9525,7 @@
   },
   "FMA50476": {
     "en": "branch of right middle cerebral artery to right angular gyrus",
-    "ru": "Ветвь правый средняя мозговая артерия к правый ангулар извилина",
+    "ru": "Ветвь правой средней мозговой артерии к правой угловой извилине",
     "system": "arterial"
   },
   "FMA50477": {
@@ -10237,12 +10237,12 @@
   },
   "FMA52673": {
     "en": "communicating branch of right nasociliary nerve with right ciliary ganglion",
-    "ru": "Соединительная ветвь правый насокилиарй нерв вит правый ресничная ганглий",
+    "ru": "Ветвь правого носоресничного нерва к правому ресничному узлу",
     "system": "nervous"
   },
   "FMA52674": {
     "en": "communicating branch of left nasociliary nerve with left ciliary ganglion",
-    "ru": "Соединительная ветвь левый насокилиарй нерв вит левый ресничная ганглий",
+    "ru": "Ветвь левого носоресничного нерва к левому ресничному узлу",
     "system": "nervous"
   },
   "FMA52675": {
@@ -13861,12 +13861,12 @@
   },
   "FMA77954": {
     "en": "right anterior circumflex humeral vein",
-    "ru": "Правый передняя огибающая хумэрал вена",
+    "ru": "Правая передняя вена, огибающая плечевую кость",
     "system": "venous"
   },
   "FMA77955": {
     "en": "left anterior circumflex humeral vein",
-    "ru": "Левый передняя огибающая хумэрал вена",
+    "ru": "Левая передняя вена, огибающая плечевую кость",
     "system": "venous"
   },
   "FMA78021": {
@@ -14276,7 +14276,7 @@
   },
   "FMA85112": {
     "en": "medial proper palmar digital artery of right middle finger",
-    "ru": "Медиальная собственно ладонная дигитал артерия правый средняя палец",
+    "ru": "Правая медиальная собственная ладонная пальцевая артерия среднего пальца",
     "system": "arterial"
   },
   "FMA85114": {
@@ -14286,12 +14286,12 @@
   },
   "FMA85115": {
     "en": "lateral proper palmar digital artery of right ring finger",
-    "ru": "Латеральная собственно ладонная дигитал артерия правый кольцо палец",
+    "ru": "Правая латеральная собственная ладонная пальцевая артерия безымянного пальца",
     "system": "arterial"
   },
   "FMA85116": {
     "en": "lateral proper palmar digital artery of left ring finger",
-    "ru": "Латеральная собственно ладонная дигитал артерия левый кольцо палец",
+    "ru": "Левая латеральная собственная ладонная пальцевая артерия безымянного пальца",
     "system": "arterial"
   },
   "FMA85117": {
@@ -17065,7 +17065,7 @@
   },
   "FMA84856": {
     "en": "subendocardial layer of myocardium of right ventricle",
-    "ru": "Субэндокардиальная слой миокард правый желудочек",
+    "ru": "Субэндокардиальный слой правого желудочка",
     "system": "muscular"
   },
   "FMA84857": {
