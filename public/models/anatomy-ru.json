@@ -8164,6 +8164,7 @@
   "FMA45738": {
     "en": "platysma",
     "ru": "Подкожная мышца шеи",
+    "aliases": ["платизма"],
     "system": "muscular"
   },
   "FMA45739": {
@@ -15344,6 +15345,7 @@
   "FMA13478": {
     "en": "vertebral column",
     "ru": "Позвоночная столб",
+    "aliases": ["позвоночник"],
     "system": "skeletal"
   },
   "FMA14541": {
