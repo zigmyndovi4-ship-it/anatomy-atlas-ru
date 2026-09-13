@@ -4,9 +4,12 @@ const file = 'public/models/anatomy-ru.json';
 const data = JSON.parse(fs.readFileSync(file, 'utf8'));
 const entries = Object.entries(data);
 const findings = [];
-const translit = /фаскиаэ|фасциаэ|латаэ|дигитал|хумэрал|ангулар|интринсик|дивисион|клустэр|кластер|нэураксис|скэлэтон|прэкоммуникатинг|улнарис/i;
+const translit = /скапулаэ|фаскиаэ|фасциаэ|\bлата(?:э)?\b|дигиторум|карпи|радиалис|ульнарис|феморис|тибиалис|хумэрал|ангулар|интринсик|дивисион|клустэр|хэтэрогэнэоус|нэураксис|скэлэтон|прэкоммуникатинг|инфэромэдиал|гэникулатэ|таламогэникулатэ|витрэоус|интрапулмонарй|тумб|сидэ|кагэ/i;
 const badLaterality = /(?:^|\s)(левый|правый)\s+[А-Яа-яЁё]+(?:ая|ое|ые)(?=\s|$)/i;
-const badOrdinal = /(?:^|\s)(первая|вторая|третья|четвёртая|пятая|шестая|седьмая|восьмая|девятая|десятая)\s+(ребро|рёберная\s+хрящ)(?=\s|$)/i;
+const badNounGender = /(?:^|\s)(?:левый|правый)\s+(?:лопатка|мышца|артерия|вена|кость|железа|кишка|связка|фасция|ветвь|оболочка|перегородка|полость|борозда|извилина)(?=\s|$)/i;
+const embeddedLaterality = /(?:^|\s)(?:левый|правый)\s+(?=(?:верхняя|средняя|нижняя|задняя|передняя|внутренняя|наружная|сегментарный|сегментарная|мозговая|межжелудочковая|соединительная)(?:\s|$))/i;
+const badOrdinal = /(?:^|\s)(первая|вторая|третья|четвёртая|пятая|шестая|седьмая|восьмая|девятая|десятая|одиннадцатая|двенадцатая)\s+(ребро|рёберная\s+хрящ)(?=\s|$)/i;
+const badMorphology = /позвоночная\s+столб|межпозвоночное\s+диск|грудная\s+позвонок|поясничная\s+позвонок|шейная\s+позвонок|тощий\s+кишка|рёберная\s+хрящ/i;
 const ids = new Set();
 
 for (const [conceptId, value] of entries) {
@@ -18,7 +21,10 @@ for (const [conceptId, value] of entries) {
   if (translit.test(ru)) findings.push({ conceptId, kind: 'transliteration', value: ru });
   if (/\s{2,}/.test(ru)) findings.push({ conceptId, kind: 'repeated spaces', value: ru });
   if (badLaterality.test(ru)) findings.push({ conceptId, kind: 'laterality/gender agreement', value: ru });
+  if (badNounGender.test(ru)) findings.push({ conceptId, kind: 'laterality/noun gender agreement', value: ru });
+  if (embeddedLaterality.test(ru)) findings.push({ conceptId, kind: 'embedded laterality/agreement', value: ru });
   if (badOrdinal.test(ru)) findings.push({ conceptId, kind: 'ordinal/gender agreement', value: ru });
+  if (badMorphology.test(ru)) findings.push({ conceptId, kind: 'morphology/agreement', value: ru });
 }
 
 const counts = {};
