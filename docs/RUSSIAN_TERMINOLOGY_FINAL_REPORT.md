@@ -103,14 +103,14 @@ concepts: две записи одновременно имели по две к
 grammar-категорию, но в исходном наборе они совпадали с laterality; после
 применения high-confidence исправлений таких отдельных findings не осталось.
 
-Оставшиеся 162 латерально-грамматические записи и 10 транслитерированных либо
+До final validator pass оставались 162 латерально-грамматические записи и 10 транслитерированных либо
 являются сложными FMA-производными/агрегатами, либо требуют подтверждения
 русским анатомическим источником. Они сознательно не применялись автоматически.
 
 ### 50 наиболее явных строк до cleanup-pass
 
 ```text
-+FMA3802	laterality/gender agreement	Туловище правый коронарная артерия
+FMA3802	laterality/gender agreement	Туловище правый коронарная артерия
 FMA3815	laterality/gender agreement	Первая передняя желудочковая ветвь правый коронарная артерия
 FMA3818	laterality/gender agreement	Краевая ветвь правый коронарная артерия
 FMA3835	laterality/gender agreement	Задняя желудочковая ветвь правый коронарная артерия
@@ -165,7 +165,7 @@ FMA13375	laterality/gender agreement	Правый грудная мышца ма
 ### 50 оставшихся наиболее подозрительных строк после cleanup-pass
 
 ```text
-+FMA3870	laterality/gender agreement	Правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия
+FMA3870	laterality/gender agreement	Правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия
 FMA3872	laterality/gender agreement	Первая правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия
 FMA3874	laterality/gender agreement	Вторая правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия
 FMA3876	laterality/gender agreement	Третья правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия
@@ -216,3 +216,34 @@ FMA49073	laterality/gender agreement	Левый общая сухожильна�
 FMA49443	transliteration	Анатомический кластер
 FMA52629	laterality/gender agreement	Правый слёзная нерв
 ```
+
+## Final validator pass
+
+Перед финальным проходом validator сообщал 172 findings, соответствующих 170
+уникальным concepts. Проверены `en`, TA2/FMA mapping и непосредственные
+left/right пары. Применено 162 исправления с `APPLY/HIGH`; 8 записей оставлены
+с `REVIEW/LOW`.
+
+После применения validator сообщает 8 findings:
+
+| Категория | До | После |
+| --- | ---: | ---: |
+| LATERALITY / GRAMMAR | 162 | 0 |
+| TRANSLITERATION | 10 | 8 |
+
+Оставшиеся REVIEW:
+
+- FMA42603 — `organ component cluster`;
+- FMA49443 — `anatomical cluster`;
+- FMA64989 — `heterogeneous cluster`;
+- FMA64990 — `organ part cluster`;
+- FMA65551 — `subdivisionof autonomic nervous system`;
+- FMA78590 — `set of heterogeneous clusters`;
+- FMA83115 — `cell part cluster`;
+- FMA83143 — `cell part cluster of neuraxis`.
+
+Для этих восьми записей русская форма зависит от редакционного выбора между
+«кластер», «скопление», «компонент» и «подразделение»; автоматическое решение
+без специализированного русского источника было бы рискованным. Все остальные
+validator-подозрения закрыты, включая left/right-согласование, рёбра, сосуды,
+нервы, глазные структуры, бронхиальное/желчное дерево и пальцы стопы.

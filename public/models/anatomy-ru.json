@@ -126,22 +126,22 @@
   },
   "FMA3870": {
     "en": "right anterior branch of anterior interventricular branch of left coronary artery",
-    "ru": "Правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия",
+    "ru": "Правая передняя ветвь передней межжелудочковой ветви левой коронарной артерии",
     "system": "arterial"
   },
   "FMA3872": {
     "en": "first right anterior branch of anterior interventricular branch of left coronary artery",
-    "ru": "Первая правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия",
+    "ru": "Первая правая передняя ветвь передней межжелудочковой ветви левой коронарной артерии",
     "system": "arterial"
   },
   "FMA3874": {
     "en": "second right anterior branch of anterior interventricular branch of left coronary artery",
-    "ru": "Вторая правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия",
+    "ru": "Вторая правая передняя ветвь передней межжелудочковой ветви левой коронарной артерии",
     "system": "arterial"
   },
   "FMA3876": {
     "en": "third right anterior branch of anterior interventricular branch of left coronary artery",
-    "ru": "Третья правый передняя ветвь передняя межжелудочковая ветвь левый коронарная артерия",
+    "ru": "Третья правая передняя ветвь передней межжелудочковой ветви левой коронарной артерии",
     "system": "arterial"
   },
   "FMA3892": {
@@ -1135,22 +1135,22 @@
   },
   "FMA8531": {
     "en": "right eleventh rib",
-    "ru": "Правый одиннадцатая ребро",
+    "ru": "Правое одиннадцатое ребро",
     "system": "skeletal"
   },
   "FMA8532": {
     "en": "left eleventh rib",
-    "ru": "Левый одиннадцатая ребро",
+    "ru": "Левое одиннадцатое ребро",
     "system": "skeletal"
   },
   "FMA8533": {
     "en": "right twelfth rib",
-    "ru": "Правый двенадцатая ребро",
+    "ru": "Правое двенадцатое ребро",
     "system": "skeletal"
   },
   "FMA8534": {
     "en": "left twelfth rib",
-    "ru": "Левый двенадцатая ребро",
+    "ru": "Левое двенадцатое ребро",
     "system": "skeletal"
   },
   "FMA8612": {
@@ -4911,12 +4911,12 @@
   },
   "FMA22835": {
     "en": "right superficial palmar arterial arch",
-    "ru": "Правый поверхностная ладонная артериальная дуга",
+    "ru": "Правая поверхностная ладонная артериальная дуга",
     "system": "arterial"
   },
   "FMA22837": {
     "en": "left superficial palmar arterial arch",
-    "ru": "Левый поверхностная ладонная артериальная дуга",
+    "ru": "Левая поверхностная ладонная артериальная дуга",
     "system": "arterial"
   },
   "FMA22838": {
@@ -4926,12 +4926,12 @@
   },
   "FMA22839": {
     "en": "right deep palmar arch",
-    "ru": "Правый глубокая ладонная дуга",
+    "ru": "Правая глубокая ладонная дуга",
     "system": "arterial"
   },
   "FMA22840": {
     "en": "left deep palmar arch",
-    "ru": "Левый глубокая ладонная дуга",
+    "ru": "Левая глубокая ладонная дуга",
     "system": "arterial"
   },
   "FMA22841": {
@@ -5099,12 +5099,12 @@
   },
   "FMA22912": {
     "en": "right deep palmar venous arch",
-    "ru": "Правый глубокая ладонная венозная дуга",
+    "ru": "Правая глубокая ладонная венозная дуга",
     "system": "venous"
   },
   "FMA22913": {
     "en": "left deep palmar venous arch",
-    "ru": "Левый глубокая ладонная венозная дуга",
+    "ru": "Левая глубокая ладонная венозная дуга",
     "system": "venous"
   },
   "FMA22914": {
@@ -5114,12 +5114,12 @@
   },
   "FMA22915": {
     "en": "right superficial palmar venous arch",
-    "ru": "Правый поверхностная ладонная венозная дуга",
+    "ru": "Правая поверхностная ладонная венозная дуга",
     "system": "venous"
   },
   "FMA22916": {
     "en": "left superficial palmar venous arch",
-    "ru": "Левый поверхностная ладонная венозная дуга",
+    "ru": "Левая поверхностная ладонная венозная дуга",
     "system": "venous"
   },
   "FMA22917": {
@@ -5374,12 +5374,12 @@
   },
   "FMA23089": {
     "en": "right lumbar rotator",
-    "ru": "Правый поясничная вращатель",
+    "ru": "Правый поясничный вращатель",
     "system": "muscular"
   },
   "FMA23090": {
     "en": "left lumbar rotator",
-    "ru": "Левый поясничная вращатель",
+    "ru": "Левый поясничный вращатель",
     "system": "muscular"
   },
   "FMA23113": {
@@ -6299,12 +6299,12 @@
   },
   "FMA32544": {
     "en": "right supraspinatus",
-    "ru": "Правый надостная",
+    "ru": "Правая надостная мышца",
     "system": "muscular"
   },
   "FMA32545": {
     "en": "left supraspinatus",
-    "ru": "Левый надостная",
+    "ru": "Левая надостная мышца",
     "system": "muscular"
   },
   "FMA32546": {
@@ -6454,12 +6454,12 @@
   },
   "FMA32634": {
     "en": "proximal phalanx of right second toe",
-    "ru": "Проксимальная фаланга правый вторая палец стопы",
+    "ru": "Проксимальная фаланга правого второго пальца стопы",
     "system": "skeletal"
   },
   "FMA32635": {
     "en": "proximal phalanx of left second toe",
-    "ru": "Проксимальная фаланга левый вторая палец стопы",
+    "ru": "Проксимальная фаланга левого второго пальца стопы",
     "system": "skeletal"
   },
   "FMA32636": {
@@ -6474,12 +6474,12 @@
   },
   "FMA32638": {
     "en": "proximal phalanx of right fourth toe",
-    "ru": "Проксимальная фаланга правый четвёртая палец стопы",
+    "ru": "Проксимальная фаланга правого четвёртого пальца стопы",
     "system": "skeletal"
   },
   "FMA32639": {
     "en": "proximal phalanx of left fourth toe",
-    "ru": "Проксимальная фаланга левый четвёртая палец стопы",
+    "ru": "Проксимальная фаланга левого четвёртого пальца стопы",
     "system": "skeletal"
   },
   "FMA32640": {
@@ -6494,12 +6494,12 @@
   },
   "FMA32642": {
     "en": "middle phalanx of right second toe",
-    "ru": "Средняя фаланга правый вторая палец стопы",
+    "ru": "Средняя фаланга правого второго пальца стопы",
     "system": "skeletal"
   },
   "FMA32643": {
     "en": "middle phalanx of left second toe",
-    "ru": "Средняя фаланга левый вторая палец стопы",
+    "ru": "Средняя фаланга левого второго пальца стопы",
     "system": "skeletal"
   },
   "FMA32644": {
@@ -6514,12 +6514,12 @@
   },
   "FMA32646": {
     "en": "middle phalanx of right fourth toe",
-    "ru": "Средняя фаланга правый четвёртая палец стопы",
+    "ru": "Средняя фаланга правого четвёртого пальца стопы",
     "system": "skeletal"
   },
   "FMA32647": {
     "en": "middle phalanx of left fourth toe",
-    "ru": "Средняя фаланга левый четвёртая палец стопы",
+    "ru": "Средняя фаланга левого четвёртого пальца стопы",
     "system": "skeletal"
   },
   "FMA32650": {
@@ -6534,12 +6534,12 @@
   },
   "FMA32652": {
     "en": "distal phalanx of right second toe",
-    "ru": "Дистальная фаланга правый вторая палец стопы",
+    "ru": "Дистальная фаланга правого второго пальца стопы",
     "system": "skeletal"
   },
   "FMA32653": {
     "en": "distal phalanx of left second toe",
-    "ru": "Дистальная фаланга левый вторая палец стопы",
+    "ru": "Дистальная фаланга левого второго пальца стопы",
     "system": "skeletal"
   },
   "FMA32654": {
@@ -6554,12 +6554,12 @@
   },
   "FMA32656": {
     "en": "distal phalanx of right fourth toe",
-    "ru": "Дистальная фаланга правый четвёртая палец стопы",
+    "ru": "Дистальная фаланга правого четвёртого пальца стопы",
     "system": "skeletal"
   },
   "FMA32657": {
     "en": "distal phalanx of left fourth toe",
-    "ru": "Дистальная фаланга левый четвёртая палец стопы",
+    "ru": "Дистальная фаланга левого четвёртого пальца стопы",
     "system": "skeletal"
   },
   "FMA32658": {
@@ -7373,12 +7373,12 @@
   },
   "FMA38495": {
     "en": "right extensor carpi radialis longus",
-    "ru": "Правый длинная лучевая мышца, разгибающая запястье",
+    "ru": "Правая длинная лучевая мышца, разгибающая запястье",
     "system": "muscular"
   },
   "FMA38496": {
     "en": "left extensor carpi radialis longus",
-    "ru": "Левый длинная лучевая мышца, разгибающая запястье",
+    "ru": "Левая длинная лучевая мышца, разгибающая запястье",
     "system": "muscular"
   },
   "FMA38497": {
@@ -7388,12 +7388,12 @@
   },
   "FMA38498": {
     "en": "right extensor carpi radialis brevis",
-    "ru": "Правый короткая лучевая мышца, разгибающая запястье",
+    "ru": "Правая короткая лучевая мышца, разгибающая запястье",
     "system": "muscular"
   },
   "FMA38499": {
     "en": "left extensor carpi radialis brevis",
-    "ru": "Левый короткая лучевая мышца, разгибающая запястье",
+    "ru": "Левая короткая лучевая мышца, разгибающая запястье",
     "system": "muscular"
   },
   "FMA38500": {
@@ -7878,12 +7878,12 @@
   },
   "FMA43943": {
     "en": "right plantar arch",
-    "ru": "Правый подошвенная дуга",
+    "ru": "Правая подошвенная дуга",
     "system": "arterial"
   },
   "FMA43944": {
     "en": "left plantar arch",
-    "ru": "Левый подошвенная дуга",
+    "ru": "Левая подошвенная дуга",
     "system": "arterial"
   },
   "FMA43956": {
@@ -8178,12 +8178,12 @@
   },
   "FMA45826": {
     "en": "right stylohyoid",
-    "ru": "Правый шилоподъязычная",
+    "ru": "Правая шилоподъязычная мышца",
     "system": "muscular"
   },
   "FMA45827": {
     "en": "left stylohyoid",
-    "ru": "Левый шилоподъязычная",
+    "ru": "Левая шилоподъязычная мышца",
     "system": "muscular"
   },
   "FMA45854": {
@@ -8423,17 +8423,17 @@
   },
   "FMA46284": {
     "en": "superior oblique part of left longus colli",
-    "ru": "Верхняя косая мышца часть левый длинная колли",
+    "ru": "Верхняя косая часть левой длинной мышцы шеи",
     "system": "muscular"
   },
   "FMA46286": {
     "en": "vertical intermediate part of left longus colli",
-    "ru": "Вертикальная промежуточная часть левый длинная колли",
+    "ru": "Вертикальная промежуточная часть левой длинной мышцы шеи",
     "system": "muscular"
   },
   "FMA46288": {
     "en": "inferior oblique part of left longus colli",
-    "ru": "Нижняя косая мышца часть левый длинная колли",
+    "ru": "Нижняя косая часть левой длинной мышцы шеи",
     "system": "muscular"
   },
   "FMA46290": {
@@ -8463,12 +8463,12 @@
   },
   "FMA46309": {
     "en": "right longus capitis",
-    "ru": "Правый длинная головки",
+    "ru": "Правая длинная мышца головы",
     "system": "muscular"
   },
   "FMA46310": {
     "en": "left longus capitis",
-    "ru": "Левый длинная головки",
+    "ru": "Левая длинная мышца головы",
     "system": "muscular"
   },
   "FMA46312": {
@@ -9011,12 +9011,12 @@
   },
   "FMA49072": {
     "en": "right common tendinous ring",
-    "ru": "Правый общая сухожильная кольцо",
+    "ru": "Правое общее сухожильное кольцо",
     "system": "sensory"
   },
   "FMA49073": {
     "en": "left common tendinous ring",
-    "ru": "Левый общая сухожильная кольцо",
+    "ru": "Левое общее сухожильное кольцо",
     "system": "sensory"
   },
   "FMA49143": {
@@ -10152,12 +10152,12 @@
   },
   "FMA52629": {
     "en": "right lacrimal nerve",
-    "ru": "Правый слёзная нерв",
+    "ru": "Правый слёзный нерв",
     "system": "nervous"
   },
   "FMA52630": {
     "en": "left lacrimal nerve",
-    "ru": "Левый слёзная нерв",
+    "ru": "Левый слёзный нерв",
     "system": "nervous"
   },
   "FMA52638": {
@@ -10167,12 +10167,12 @@
   },
   "FMA52639": {
     "en": "right frontal nerve",
-    "ru": "Правый лобная нерв",
+    "ru": "Правый лобный нерв",
     "system": "nervous"
   },
   "FMA52640": {
     "en": "left frontal nerve",
-    "ru": "Левый лобная нерв",
+    "ru": "Левый лобный нерв",
     "system": "nervous"
   },
   "FMA52641": {
@@ -10387,12 +10387,12 @@
   },
   "FMA53549": {
     "en": "right ciliary ganglion",
-    "ru": "Правый ресничная ганглий",
+    "ru": "Правый ресничный ганглий",
     "system": "nervous"
   },
   "FMA53550": {
     "en": "left ciliary ganglion",
-    "ru": "Левый ресничная ганглий",
+    "ru": "Левый ресничный ганглий",
     "system": "nervous"
   },
   "FMA53645": {
@@ -11132,12 +11132,12 @@
   },
   "FMA58299": {
     "en": "right choroid",
-    "ru": "Правый сосудистая оболочка",
+    "ru": "Правая сосудистая оболочка",
     "system": "sensory"
   },
   "FMA58300": {
     "en": "left choroid",
-    "ru": "Левый сосудистая оболочка",
+    "ru": "Левая сосудистая оболочка",
     "system": "sensory"
   },
   "FMA58420": {
@@ -11287,12 +11287,12 @@
   },
   "FMA59102": {
     "en": "right lacrimal gland",
-    "ru": "Правый слёзная железа",
+    "ru": "Правая слёзная железа",
     "system": "sensory"
   },
   "FMA59103": {
     "en": "left lacrimal gland",
-    "ru": "Левый слёзная железа",
+    "ru": "Левая слёзная железа",
     "system": "sensory"
   },
   "FMA59402": {
@@ -11317,12 +11317,12 @@
   },
   "FMA59505": {
     "en": "right major alar cartilage",
-    "ru": "Правый большая алар хрящ",
+    "ru": "Правый большой крыльный хрящ",
     "system": "skeletal"
   },
   "FMA59506": {
     "en": "left major alar cartilage",
-    "ru": "Левый большая алар хрящ",
+    "ru": "Левый большой крыльный хрящ",
     "system": "skeletal"
   },
   "FMA59511": {
@@ -11332,32 +11332,32 @@
   },
   "FMA59512": {
     "en": "right lateral nasal cartilage",
-    "ru": "Правый латеральная носовая хрящ",
+    "ru": "Правый латеральный носовой хрящ",
     "system": "respiratory"
   },
   "FMA59513": {
     "en": "left lateral nasal cartilage",
-    "ru": "Левый латеральная носовая хрящ",
+    "ru": "Левый латеральный носовой хрящ",
     "system": "respiratory"
   },
   "FMA59541": {
     "en": "right lacrimal lake",
-    "ru": "Правый слёзная озеро",
+    "ru": "Правое слёзное озеро",
     "system": "sensory"
   },
   "FMA59542": {
     "en": "left lacrimal lake",
-    "ru": "Левый слёзная озеро",
+    "ru": "Левое слёзное озеро",
     "system": "sensory"
   },
   "FMA59545": {
     "en": "right lacrimal sac",
-    "ru": "Правый слёзная сак",
+    "ru": "Правый слёзный мешок",
     "system": "sensory"
   },
   "FMA59546": {
     "en": "left lacrimal sac",
-    "ru": "Левый слёзная сак",
+    "ru": "Левый слёзный мешок",
     "system": "sensory"
   },
   "FMA59555": {
@@ -11372,12 +11372,12 @@
   },
   "FMA59582": {
     "en": "right lacrimal canaliculus",
-    "ru": "Правый слёзная каналикулус",
+    "ru": "Правый слёзный канальчик",
     "system": "sensory"
   },
   "FMA59583": {
     "en": "left lacrimal canaliculus",
-    "ru": "Левый слёзная каналикулус",
+    "ru": "Левый слёзный канальчик",
     "system": "sensory"
   },
   "FMA59762": {
@@ -12176,7 +12176,7 @@
   },
   "FMA68211": {
     "en": "right apical segmental bronchial tree",
-    "ru": "Правый верхушечная сегментарный бронхиальная дерево",
+    "ru": "Правое верхушечное сегментарное бронхиальное дерево",
     "system": "respiratory"
   },
   "FMA68212": {
@@ -12206,7 +12206,7 @@
   },
   "FMA68218": {
     "en": "right medial basal segmental bronchial tree",
-    "ru": "Правый медиальная базальная сегментарный бронхиальная дерево",
+    "ru": "Правое медиальное базальное сегментарное бронхиальное дерево",
     "system": "respiratory"
   },
   "FMA68219": {
@@ -12216,7 +12216,7 @@
   },
   "FMA68220": {
     "en": "right lateral basal segmental bronchial tree",
-    "ru": "Правый латеральная базальная сегментарный бронхиальная дерево",
+    "ru": "Правое латеральное базальное сегментарное бронхиальное дерево",
     "system": "respiratory"
   },
   "FMA68221": {
@@ -12231,7 +12231,7 @@
   },
   "FMA68223": {
     "en": "left apical segmental bronchial tree",
-    "ru": "Левый верхушечная сегментарный бронхиальная дерево",
+    "ru": "Левое верхушечное сегментарное бронхиальное дерево",
     "system": "respiratory"
   },
   "FMA68225": {
@@ -12261,7 +12261,7 @@
   },
   "FMA68230": {
     "en": "left medial basal segmental bronchial tree",
-    "ru": "Левый медиальная базальная сегментарный бронхиальная дерево",
+    "ru": "Левое медиальное базальное сегментарное бронхиальное дерево",
     "system": "respiratory"
   },
   "FMA68231": {
@@ -12271,7 +12271,7 @@
   },
   "FMA68232": {
     "en": "left lateral basal segmental bronchial tree",
-    "ru": "Левый латеральная базальная сегментарный бронхиальная дерево",
+    "ru": "Левое латеральное базальное сегментарное бронхиальное дерево",
     "system": "respiratory"
   },
   "FMA68233": {
@@ -12906,12 +12906,12 @@
   },
   "FMA70489": {
     "en": "posterior division of right renal artery",
-    "ru": "Задняя дивисион правый почечная артерия",
+    "ru": "Задний отдел правой почечной артерии",
     "system": "arterial"
   },
   "FMA70490": {
     "en": "posterior division of left renal artery",
-    "ru": "Задняя дивисион левый почечная артерия",
+    "ru": "Задний отдел левой почечной артерии",
     "system": "arterial"
   },
   "FMA70491": {
@@ -13176,7 +13176,7 @@
   },
   "FMA71709": {
     "en": "subdivision of right lobe branch of right hepatic artery",
-    "ru": "Подразделение правый доля ветвь правый печёночная артерия",
+    "ru": "Подразделение правой долевой ветви правой печёночной артерии",
     "system": "arterial"
   },
   "FMA71710": {
@@ -13186,7 +13186,7 @@
   },
   "FMA71736": {
     "en": "subdivision of left lobe branch of left hepatic artery",
-    "ru": "Подразделение левый доля ветвь левый печёночная артерия",
+    "ru": "Подразделение левой долевой ветви левой печёночной артерии",
     "system": "arterial"
   },
   "FMA71856": {
@@ -13196,22 +13196,22 @@
   },
   "FMA71859": {
     "en": "segment of right hepatic biliary tree",
-    "ru": "Сегмент правый печёночная желчная дерево",
+    "ru": "Сегмент правого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71860": {
     "en": "segment of left hepatic biliary tree",
-    "ru": "Сегмент левый печёночная желчная дерево",
+    "ru": "Сегмент левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71865": {
     "en": "segmental tributary of right hepatic biliary tree",
-    "ru": "Сегментарный приток правый печёночная желчная дерево",
+    "ru": "Сегментарный приток правого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71866": {
     "en": "segmental tributary of left hepatic biliary tree",
-    "ru": "Сегментарный приток левый печёночная желчная дерево",
+    "ru": "Сегментарный приток левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71867": {
@@ -13226,37 +13226,37 @@
   },
   "FMA71869": {
     "en": "posterior superior tributary of right hepatic biliary tree",
-    "ru": "Задняя верхняя приток правый печёночная желчная дерево",
+    "ru": "Задний верхний приток правого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71870": {
     "en": "posterior inferior tributary of right hepatic biliary tree",
-    "ru": "Задняя нижняя приток правый печёночная желчная дерево",
+    "ru": "Задний нижний приток правого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71885": {
     "en": "medial superior tributary of left hepatic biliary tree",
-    "ru": "Медиальная верхняя приток левый печёночная желчная дерево",
+    "ru": "Медиальный верхний приток левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71886": {
     "en": "medial inferior tributary of left hepatic biliary tree",
-    "ru": "Медиальная нижняя приток левый печёночная желчная дерево",
+    "ru": "Медиальный нижний приток левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71887": {
     "en": "lateral superior tributary of left hepatic biliary tree",
-    "ru": "Латеральная верхняя приток левый печёночная желчная дерево",
+    "ru": "Латеральный верхний приток левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71888": {
     "en": "lateral inferior tributary of left hepatic biliary tree",
-    "ru": "Латеральная нижняя приток левый печёночная желчная дерево",
+    "ru": "Латеральный нижний приток левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71889": {
     "en": "caudate lobe tributary of left hepatic biliary tree",
-    "ru": "Хвостатая доля приток левый печёночная желчная дерево",
+    "ru": "Приток хвостатой доли левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71903": {
@@ -13486,12 +13486,12 @@
   },
   "FMA72826": {
     "en": "right caudate nucleus",
-    "ru": "Правый хвостатая ядро",
+    "ru": "Правое хвостатое ядро",
     "system": "nervous"
   },
   "FMA72827": {
     "en": "left caudate nucleus",
-    "ru": "Левый хвостатая ядро",
+    "ru": "Левое хвостатое ядро",
     "system": "nervous"
   },
   "FMA72828": {
@@ -13516,12 +13516,12 @@
   },
   "FMA72832": {
     "en": "right amygdala",
-    "ru": "Правый миндалевидное тело",
+    "ru": "Правое миндалевидное тело",
     "system": "nervous"
   },
   "FMA72833": {
     "en": "left amygdala",
-    "ru": "Левый миндалевидное тело",
+    "ru": "Левое миндалевидное тело",
     "system": "nervous"
   },
   "FMA72906": {
@@ -13581,22 +13581,22 @@
   },
   "FMA73303": {
     "en": "right lateral geniculate body",
-    "ru": "Правый латеральная гэникулатэ тело",
+    "ru": "Правое латеральное коленчатое тело",
     "system": "nervous"
   },
   "FMA73304": {
     "en": "left lateral geniculate body",
-    "ru": "Левый латеральная гэникулатэ тело",
+    "ru": "Левое латеральное коленчатое тело",
     "system": "nervous"
   },
   "FMA73309": {
     "en": "right medial geniculate body",
-    "ru": "Правый медиальная гэникулатэ тело",
+    "ru": "Правое медиальное коленчатое тело",
     "system": "nervous"
   },
   "FMA73310": {
     "en": "left medial geniculate body",
-    "ru": "Левый медиальная гэникулатэ тело",
+    "ru": "Левое медиальное коленчатое тело",
     "system": "nervous"
   },
   "FMA73413": {
@@ -13981,12 +13981,12 @@
   },
   "FMA81752": {
     "en": "right cervical rotator",
-    "ru": "Правый шейная вращатель",
+    "ru": "Правый шейный вращатель",
     "system": "muscular"
   },
   "FMA81753": {
     "en": "left cervical rotator",
-    "ru": "Левый шейная вращатель",
+    "ru": "Левый шейный вращатель",
     "system": "muscular"
   },
   "FMA82472": {
@@ -14041,12 +14041,12 @@
   },
   "FMA82734": {
     "en": "right long ciliary nerve",
-    "ru": "Правый длинная ресничная нерв",
+    "ru": "Правый длинный ресничный нерв",
     "system": "nervous"
   },
   "FMA82735": {
     "en": "left long ciliary nerve",
-    "ru": "Левый длинная ресничная нерв",
+    "ru": "Левый длинный ресничный нерв",
     "system": "nervous"
   },
   "FMA83115": {
@@ -14554,27 +14554,27 @@
   },
   "FMA258847": {
     "en": "right calcaneal tendon",
-    "ru": "Правый пяточное сухожилие",
+    "ru": "Правое пяточное сухожилие",
     "system": "connective"
   },
   "FMA258850": {
     "en": "right intermediate tendon",
-    "ru": "Правый промежуточная сухожилие",
+    "ru": "Правое промежуточное сухожилие",
     "system": "connective"
   },
   "FMA260791": {
     "en": "white matter of right cerebral hemisphere",
-    "ru": "Белое вещество правый мозговая полушарие",
+    "ru": "Белое вещество правого мозгового полушария",
     "system": "nervous"
   },
   "FMA260794": {
     "en": "white matter of left cerebral hemisphere",
-    "ru": "Белое вещество левый мозговая полушарие",
+    "ru": "Белое вещество левого мозгового полушария",
     "system": "nervous"
   },
   "FMA264844": {
     "en": "left calcaneal tendon",
-    "ru": "Левый пяточное сухожилие",
+    "ru": "Левое пяточное сухожилие",
     "system": "connective"
   },
   "FMA265178": {
@@ -14814,17 +14814,17 @@
   },
   "FMA7333": {
     "en": "upper lobe of right lung",
-    "ru": "Верхняя доля правый лёгкое",
+    "ru": "Верхняя доля правого лёгкого",
     "system": "arterial"
   },
   "FMA7337": {
     "en": "lower lobe of right lung",
-    "ru": "Нижняя доля правый лёгкое",
+    "ru": "Нижняя доля правого лёгкого",
     "system": "respiratory"
   },
   "FMA7338": {
     "en": "right apical bronchopulmonary segment",
-    "ru": "Правый верхушечная бронхолёгочный сегмент",
+    "ru": "Правый верхушечный бронхолёгочный сегмент",
     "system": "respiratory"
   },
   "FMA7339": {
@@ -14854,7 +14854,7 @@
   },
   "FMA7363": {
     "en": "right lateral basal bronchopulmonary segment",
-    "ru": "Правый латеральная базальная бронхолёгочный сегмент",
+    "ru": "Правый латеральный базальный бронхолёгочный сегмент",
     "system": "respiratory"
   },
   "FMA7364": {
@@ -14864,7 +14864,7 @@
   },
   "FMA7365": {
     "en": "right medial basal bronchopulmonary segment",
-    "ru": "Правый медиальная базальная бронхолёгочный сегмент",
+    "ru": "Правый медиальный базальный бронхолёгочный сегмент",
     "system": "respiratory"
   },
   "FMA7366": {
@@ -14874,12 +14874,12 @@
   },
   "FMA7370": {
     "en": "upper lobe of left lung",
-    "ru": "Верхняя доля левый лёгкое",
+    "ru": "Верхняя доля левого лёгкого",
     "system": "venous"
   },
   "FMA7371": {
     "en": "lower lobe of left lung",
-    "ru": "Нижняя доля левый лёгкое",
+    "ru": "Нижняя доля левого лёгкого",
     "system": "respiratory"
   },
   "FMA7372": {
@@ -14909,7 +14909,7 @@
   },
   "FMA7377": {
     "en": "left medial basal bronchopulmonary segment",
-    "ru": "Левый медиальная базальная бронхолёгочный сегмент",
+    "ru": "Левый медиальный базальный бронхолёгочный сегмент",
     "system": "respiratory"
   },
   "FMA7378": {
@@ -14919,7 +14919,7 @@
   },
   "FMA7379": {
     "en": "left lateral basal bronchopulmonary segment",
-    "ru": "Левый латеральная базальная бронхолёгочный сегмент",
+    "ru": "Левый латеральный базальный бронхолёгочный сегмент",
     "system": "respiratory"
   },
   "FMA7380": {
@@ -14934,7 +14934,7 @@
   },
   "FMA7385": {
     "en": "left apical bronchopulmonary segment",
-    "ru": "Левый верхушечная бронхолёгочный сегмент",
+    "ru": "Левый верхушечный бронхолёгочный сегмент",
     "system": "venous"
   },
   "FMA7386": {
@@ -15313,12 +15313,12 @@
   },
   "FMA12514": {
     "en": "right eyeball",
-    "ru": "Правый глазное яблоко",
+    "ru": "Правое глазное яблоко",
     "system": "sensory"
   },
   "FMA12515": {
     "en": "left eyeball",
-    "ru": "Левый глазное яблоко",
+    "ru": "Левое глазное яблоко",
     "system": "sensory"
   },
   "FMA13362": {
@@ -15616,22 +15616,22 @@
   },
   "FMA24880": {
     "en": "right free upper limb",
-    "ru": "Правый свободная верхняя конечность",
+    "ru": "Правая свободная верхняя конечность",
     "system": "skeletal"
   },
   "FMA24881": {
     "en": "left free upper limb",
-    "ru": "Левый свободная верхняя конечность",
+    "ru": "Левая свободная верхняя конечность",
     "system": "skeletal"
   },
   "FMA24882": {
     "en": "right free lower limb",
-    "ru": "Правый свободная нижняя конечность",
+    "ru": "Правая свободная нижняя конечность",
     "system": "skeletal"
   },
   "FMA24883": {
     "en": "left free lower limb",
-    "ru": "Левый свободная нижняя конечность",
+    "ru": "Левая свободная нижняя конечность",
     "system": "skeletal"
   },
   "FMA24895": {
@@ -15836,37 +15836,37 @@
   },
   "FMA26661": {
     "en": "right bronchial tree",
-    "ru": "Правый бронхиальная дерево",
+    "ru": "Правое бронхиальное дерево",
     "system": "respiratory"
   },
   "FMA26662": {
     "en": "left bronchial tree",
-    "ru": "Левый бронхиальная дерево",
+    "ru": "Левое бронхиальное дерево",
     "system": "respiratory"
   },
   "FMA31741": {
     "en": "middle lobe part of right bronchial tree",
-    "ru": "Средняя доля часть правый бронхиальная дерево",
+    "ru": "Средняя доля, часть правого бронхиального дерева",
     "system": "respiratory"
   },
   "FMA31744": {
     "en": "upper lobe part of right bronchial tree",
-    "ru": "Верхняя доля часть правый бронхиальная дерево",
+    "ru": "Верхняя доля, часть правого бронхиального дерева",
     "system": "respiratory"
   },
   "FMA31746": {
     "en": "upper lobe part of left bronchial tree",
-    "ru": "Верхняя доля часть левый бронхиальная дерево",
+    "ru": "Верхняя доля, часть левого бронхиального дерева",
     "system": "respiratory"
   },
   "FMA31747": {
     "en": "lower lobe part of right bronchial tree",
-    "ru": "Нижняя доля часть правый бронхиальная дерево",
+    "ru": "Нижняя доля, часть правого бронхиального дерева",
     "system": "respiratory"
   },
   "FMA31748": {
     "en": "lower lobe part of left bronchial tree",
-    "ru": "Нижняя доля часть левый бронхиальная дерево",
+    "ru": "Нижняя доля, часть левого бронхиального дерева",
     "system": "respiratory"
   },
   "FMA33642": {
@@ -16169,12 +16169,12 @@
   },
   "FMA54667": {
     "en": "right orbital compartment",
-    "ru": "Правый глазничная компартмент",
+    "ru": "Правый глазничный компартмент",
     "system": "sensory"
   },
   "FMA54668": {
     "en": "left orbital compartment",
-    "ru": "Левый глазничная компартмент",
+    "ru": "Левый глазничный компартмент",
     "system": "sensory"
   },
   "FMA55021": {
@@ -16194,32 +16194,32 @@
   },
   "FMA58099": {
     "en": "wall of right eyeball",
-    "ru": "Стенка правый глазное яблоко",
+    "ru": "Стенка правого глазного яблока",
     "system": "sensory"
   },
   "FMA58100": {
     "en": "wall of left eyeball",
-    "ru": "Стенка левый глазное яблоко",
+    "ru": "Стенка левого глазного яблока",
     "system": "sensory"
   },
   "FMA58105": {
     "en": "fibrous layer of right eyeball",
-    "ru": "Фиброзная слой правый глазное яблоко",
+    "ru": "Фиброзный слой правого глазного яблока",
     "system": "sensory"
   },
   "FMA58106": {
     "en": "fibrous layer of left eyeball",
-    "ru": "Фиброзная слой левый глазное яблоко",
+    "ru": "Фиброзный слой левого глазного яблока",
     "system": "sensory"
   },
   "FMA58107": {
     "en": "vascular layer of right eyeball",
-    "ru": "Сосудистое слой правый глазное яблоко",
+    "ru": "Сосудистый слой правого глазного яблока",
     "system": "sensory"
   },
   "FMA58108": {
     "en": "vascular layer of left eyeball",
-    "ru": "Сосудистое слой левый глазное яблоко",
+    "ru": "Сосудистый слой левого глазного яблока",
     "system": "sensory"
   },
   "FMA58401": {
@@ -16289,12 +16289,12 @@
   },
   "FMA59368": {
     "en": "right lacrimal apparatus",
-    "ru": "Правый слёзная аппарат",
+    "ru": "Правый слёзный аппарат",
     "system": "sensory"
   },
   "FMA59369": {
     "en": "left lacrimal apparatus",
-    "ru": "Левый слёзная аппарат",
+    "ru": "Левый слёзный аппарат",
     "system": "sensory"
   },
   "FMA59398": {
@@ -16479,12 +16479,12 @@
   },
   "FMA60337": {
     "en": "right second toe",
-    "ru": "Правый вторая палец стопы",
+    "ru": "Правый второй палец стопы",
     "system": "skeletal"
   },
   "FMA60338": {
     "en": "left second toe",
-    "ru": "Левый вторая палец стопы",
+    "ru": "Левый второй палец стопы",
     "system": "skeletal"
   },
   "FMA60339": {
@@ -16499,12 +16499,12 @@
   },
   "FMA60341": {
     "en": "right fourth toe",
-    "ru": "Правый четвёртая палец стопы",
+    "ru": "Правый четвёртый палец стопы",
     "system": "skeletal"
   },
   "FMA60342": {
     "en": "left fourth toe",
-    "ru": "Левый четвёртая палец стопы",
+    "ru": "Левый четвёртый палец стопы",
     "system": "skeletal"
   },
   "FMA60343": {
@@ -16519,12 +16519,12 @@
   },
   "FMA61064": {
     "en": "right lacrimal duct",
-    "ru": "Правый слёзная проток",
+    "ru": "Правый слёзный проток",
     "system": "sensory"
   },
   "FMA61065": {
     "en": "left lacrimal duct",
-    "ru": "Левый слёзная проток",
+    "ru": "Левый слёзный проток",
     "system": "sensory"
   },
   "FMA61068": {
@@ -16574,7 +16574,7 @@
   },
   "FMA61819": {
     "en": "left cerebral hemisphere",
-    "ru": "Левый мозговая полушарие",
+    "ru": "Левое мозговое полушарие",
     "system": "nervous"
   },
   "FMA61991": {
@@ -16614,7 +16614,7 @@
   },
   "FMA67292": {
     "en": "right cerebral hemisphere",
-    "ru": "Правый мозговая полушарие",
+    "ru": "Правое мозговое полушарие",
     "system": "nervous"
   },
   "FMA67687": {
@@ -16702,7 +16702,7 @@
   },
   "FMA68319": {
     "en": "inferomedial part of right bronchial tree",
-    "ru": "Инфэромэдиал часть правый бронхиальная дерево",
+    "ru": "Нижнемедиальная часть правого бронхиального дерева",
     "system": "respiratory"
   },
   "FMA68658": {
@@ -16805,12 +16805,12 @@
   },
   "FMA71857": {
     "en": "right hepatic biliary tree",
-    "ru": "Правый печёночная желчная дерево",
+    "ru": "Правое печёночное желчное дерево",
     "system": "digestive"
   },
   "FMA71858": {
     "en": "left hepatic biliary tree",
-    "ru": "Левый печёночная желчная дерево",
+    "ru": "Левое печёночное желчное дерево",
     "system": "digestive"
   },
   "FMA71861": {
@@ -16820,17 +16820,17 @@
   },
   "FMA71862": {
     "en": "posterior tributary of right hepatic biliary tree",
-    "ru": "Задняя приток правый печёночная желчная дерево",
+    "ru": "Задний приток правого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71863": {
     "en": "lateral tributary of left hepatic biliary tree",
-    "ru": "Латеральная приток левый печёночная желчная дерево",
+    "ru": "Латеральный приток левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71864": {
     "en": "medial tributary of left hepatic biliary tree",
-    "ru": "Медиальная приток левый печёночная желчная дерево",
+    "ru": "Медиальный приток левого печёночного желчного дерева",
     "system": "digestive"
   },
   "FMA71891": {
@@ -17168,22 +17168,22 @@
   },
   "FMA242180": {
     "en": "cortex of right cerebral hemisphere",
-    "ru": "Кора правый мозговая полушарие",
+    "ru": "Кора правого мозгового полушария",
     "system": "nervous"
   },
   "FMA242182": {
     "en": "cortex of left cerebral hemisphere",
-    "ru": "Кора левый мозговая полушарие",
+    "ru": "Кора левого мозгового полушария",
     "system": "nervous"
   },
   "FMA242184": {
     "en": "subcortex of right cerebral hemisphere",
-    "ru": "Подкорка правый мозговая полушарие",
+    "ru": "Подкорка правого мозгового полушария",
     "system": "nervous"
   },
   "FMA242186": {
     "en": "subcortex of left cerebral hemisphere",
-    "ru": "Подкорка левый мозговая полушарие",
+    "ru": "Подкорка левого мозгового полушария",
     "system": "nervous"
   },
   "FMA242207": {
@@ -17208,12 +17208,12 @@
   },
   "FMA242625": {
     "en": "right prefrontal cortex",
-    "ru": "Правый префронтальная кора",
+    "ru": "Правая префронтальная кора",
     "system": "nervous"
   },
   "FMA242627": {
     "en": "left prefrontal cortex",
-    "ru": "Левый префронтальная кора",
+    "ru": "Левая префронтальная кора",
     "system": "nervous"
   },
   "FMA242675": {
@@ -17248,12 +17248,12 @@
   },
   "FMA260124": {
     "en": "right orbital content",
-    "ru": "Правый глазничная содержимое",
+    "ru": "Правое глазничное содержимое",
     "system": "sensory"
   },
   "FMA260127": {
     "en": "left orbital content",
-    "ru": "Левый глазничная содержимое",
+    "ru": "Левое глазничное содержимое",
     "system": "sensory"
   },
   "FMA260456": {
@@ -17263,12 +17263,12 @@
   },
   "FMA261139": {
     "en": "right hippocampal formation",
-    "ru": "Правый гиппокампальная образование",
+    "ru": "Правое гиппокампальное образование",
     "system": "nervous"
   },
   "FMA261141": {
     "en": "left hippocampal formation",
-    "ru": "Левый гиппокампальная образование",
+    "ru": "Левое гиппокампальное образование",
     "system": "nervous"
   },
   "FMA265130": {
