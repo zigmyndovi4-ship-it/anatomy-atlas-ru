@@ -56,7 +56,7 @@
   },
   "FMA3802": {
     "en": "trunk of right coronary artery",
-    "ru": "Туловище правый коронарная артерия",
+    "ru": "Туловище правой коронарной артерии",
     "system": "arterial"
   },
   "FMA3807": {
@@ -71,22 +71,22 @@
   },
   "FMA3815": {
     "en": "first anterior ventricular branch of right coronary artery",
-    "ru": "Первая передняя желудочковая ветвь правый коронарная артерия",
+    "ru": "Первая передняя желудочковая ветвь правой коронарной артерии",
     "system": "arterial"
   },
   "FMA3818": {
     "en": "marginal branch of right coronary artery",
-    "ru": "Краевая ветвь правый коронарная артерия",
+    "ru": "Краевая ветвь правой коронарной артерии",
     "system": "arterial"
   },
   "FMA3835": {
     "en": "posterior ventricular branch of right coronary artery",
-    "ru": "Задняя желудочковая ветвь правый коронарная артерия",
+    "ru": "Задняя желудочковая ветвь правой коронарной артерии",
     "system": "arterial"
   },
   "FMA3837": {
     "en": "first posterior ventricular branch of right coronary artery",
-    "ru": "Первая задняя желудочковая ветвь правый коронарная артерия",
+    "ru": "Первая задняя желудочковая ветвь правой коронарной артерии",
     "system": "arterial"
   },
   "FMA3840": {
@@ -111,17 +111,17 @@
   },
   "FMA3855": {
     "en": "trunk of left coronary artery",
-    "ru": "Туловище левый коронарная артерия",
+    "ru": "Туловище левой коронарной артерии",
     "system": "arterial"
   },
   "FMA3860": {
     "en": "diagonal branch of anterior descending branch of left coronary artery",
-    "ru": "Диагональная ветвь передняя нисходящая ветвь левый коронарная артерия",
+    "ru": "Диагональная ветвь передняя нисходящая ветвь левой коронарной артерии",
     "system": "arterial"
   },
   "FMA3868": {
     "en": "conus branch of anterior interventricular branch of left coronary artery",
-    "ru": "Конус ветвь передняя межжелудочковая ветвь левый коронарная артерия",
+    "ru": "Конус ветвь передняя межжелудочковая ветвь левой коронарной артерии",
     "system": "arterial"
   },
   "FMA3870": {
@@ -199,7 +199,7 @@
   },
   "FMA3958": {
     "en": "right vertebral artery",
-    "ru": "Правый позвоночная артерия",
+    "ru": "Правая позвоночная артерия",
     "system": "arterial"
   },
   "FMA3960": {
@@ -234,7 +234,7 @@
   },
   "FMA4057": {
     "en": "right dorsal scapular artery",
-    "ru": "Правый тыльная лопаточная артерия",
+    "ru": "Правая тыльная лопаточная артерия",
     "system": "arterial"
   },
   "FMA4058": {
@@ -249,7 +249,7 @@
   },
   "FMA4066": {
     "en": "left vertebral artery",
-    "ru": "Левый позвоночная артерия",
+    "ru": "Левая позвоночная артерия",
     "system": "arterial"
   },
   "FMA4068": {
@@ -284,12 +284,12 @@
   },
   "FMA4112": {
     "en": "left second posterior intercostal artery",
-    "ru": "Левый вторая задняя межрёберная артерия",
+    "ru": "Левая вторая задняя межрёберная артерия",
     "system": "arterial"
   },
   "FMA4134": {
     "en": "left deep cervical artery",
-    "ru": "Левый глубокая шейная артерия",
+    "ru": "Левая глубокая шейная артерия",
     "system": "arterial"
   },
   "FMA4149": {
@@ -309,12 +309,12 @@
   },
   "FMA4634": {
     "en": "right subcostal artery",
-    "ru": "Правый подрёберная артерия",
+    "ru": "Правая подрёберная артерия",
     "system": "arterial"
   },
   "FMA4654": {
     "en": "left subcostal artery",
-    "ru": "Левый подрёберная артерия",
+    "ru": "Левая подрёберная артерия",
     "system": "arterial"
   },
   "FMA4677": {
@@ -339,7 +339,7 @@
   },
   "FMA4708": {
     "en": "left marginal vein",
-    "ru": "Левый краевая вена",
+    "ru": "Левая краевая вена",
     "system": "venous"
   },
   "FMA4712": {
@@ -359,7 +359,7 @@
   },
   "FMA4716": {
     "en": "right marginal vein",
-    "ru": "Правый краевая вена",
+    "ru": "Правая краевая вена",
     "system": "venous"
   },
   "FMA4720": {
@@ -412,7 +412,7 @@
   },
   "FMA4755": {
     "en": "right subclavian vein",
-    "ru": "Правый подключичная вена",
+    "ru": "Правая подключичная вена",
     "system": "venous"
   },
   "FMA4758": {
@@ -432,7 +432,7 @@
   },
   "FMA4763": {
     "en": "left subclavian vein",
-    "ru": "Левый подключичная вена",
+    "ru": "Левая подключичная вена",
     "system": "venous"
   },
   "FMA4771": {
@@ -517,7 +517,7 @@
   },
   "FMA5041": {
     "en": "right second posterior intercostal artery",
-    "ru": "Правый вторая задняя межрёберная артерия",
+    "ru": "Правая вторая задняя межрёберная артерия",
     "system": "arterial"
   },
   "FMA5042": {
@@ -1170,7 +1170,7 @@
   },
   "FMA8634": {
     "en": "left apical segmental artery",
-    "ru": "Левый верхушечная сегментарный артерия",
+    "ru": "Левая верхушечная сегментарный артерия",
     "system": "arterial"
   },
   "FMA8635": {
@@ -1195,7 +1195,7 @@
   },
   "FMA8644": {
     "en": "left medial basal segmental artery",
-    "ru": "Левый медиальная базальная сегментарный артерия",
+    "ru": "Левая медиальная базальная сегментарный артерия",
     "system": "arterial"
   },
   "FMA8645": {
@@ -1205,7 +1205,7 @@
   },
   "FMA8646": {
     "en": "left lateral basal segmental artery",
-    "ru": "Левый латеральная базальная сегментарный артерия",
+    "ru": "Левая латеральная базальная сегментарный артерия",
     "system": "arterial"
   },
   "FMA8647": {
@@ -1380,12 +1380,12 @@
   },
   "FMA9422": {
     "en": "right medial basal segmental vein",
-    "ru": "Правый медиальная базальная сегментарный вена",
+    "ru": "Правая медиальная базальная сегментарный вена",
     "system": "venous"
   },
   "FMA9425": {
     "en": "right lateral basal segmental vein",
-    "ru": "Правый латеральная базальная сегментарный вена",
+    "ru": "Правая латеральная базальная сегментарный вена",
     "system": "venous"
   },
   "FMA9428": {
@@ -1395,7 +1395,7 @@
   },
   "FMA9437": {
     "en": "left apical segmental vein",
-    "ru": "Левый верхушечная сегментарный вена",
+    "ru": "Левая верхушечная сегментарный вена",
     "system": "venous"
   },
   "FMA9438": {
@@ -1405,7 +1405,7 @@
   },
   "FMA9450": {
     "en": "left lateral basal segmental vein",
-    "ru": "Левый латеральная базальная сегментарный вена",
+    "ru": "Левая латеральная базальная сегментарный вена",
     "system": "venous"
   },
   "FMA9451": {
@@ -1598,12 +1598,12 @@
   },
   "FMA9761": {
     "en": "right transversus thoracis",
-    "ru": "Правый поперечная мышца груди",
+    "ru": "Правая поперечная мышца груди",
     "system": "muscular"
   },
   "FMA9762": {
     "en": "left transversus thoracis",
-    "ru": "Левый поперечная мышца груди",
+    "ru": "Левая поперечная мышца груди",
     "system": "muscular"
   },
   "FMA9914": {
@@ -1693,7 +1693,7 @@
   },
   "FMA10552": {
     "en": "left dorsal scapular artery",
-    "ru": "Левый тыльная лопаточная артерия",
+    "ru": "Левая тыльная лопаточная артерия",
     "system": "arterial"
   },
   "FMA10636": {
@@ -1718,7 +1718,7 @@
   },
   "FMA10660": {
     "en": "right deep cervical artery",
-    "ru": "Правый глубокая шейная артерия",
+    "ru": "Правая глубокая шейная артерия",
     "system": "arterial"
   },
   "FMA10662": {
@@ -1753,12 +1753,12 @@
   },
   "FMA10682": {
     "en": "left transverse cervical artery",
-    "ru": "Левый поперечная шейная артерия",
+    "ru": "Левая поперечная шейная артерия",
     "system": "arterial"
   },
   "FMA10683": {
     "en": "left superficial cervical artery",
-    "ru": "Левый поверхностная шейная артерия",
+    "ru": "Левая поверхностная шейная артерия",
     "system": "arterial"
   },
   "FMA10692": {
@@ -1778,12 +1778,12 @@
   },
   "FMA10699": {
     "en": "right transverse cervical artery",
-    "ru": "Правый поперечная шейная артерия",
+    "ru": "Правая поперечная шейная артерия",
     "system": "arterial"
   },
   "FMA10700": {
     "en": "right superficial cervical artery",
-    "ru": "Правый поверхностная шейная артерия",
+    "ru": "Правая поверхностная шейная артерия",
     "system": "arterial"
   },
   "FMA10704": {
@@ -2017,12 +2017,12 @@
   },
   "FMA13325": {
     "en": "right cephalic vein",
-    "ru": "Правый латеральная подкожная вена",
+    "ru": "Правая латеральная подкожная вена",
     "system": "venous"
   },
   "FMA13326": {
     "en": "left cephalic vein",
-    "ru": "Левый латеральная подкожная вена",
+    "ru": "Левая латеральная подкожная вена",
     "system": "venous"
   },
   "FMA13329": {
@@ -2032,12 +2032,12 @@
   },
   "FMA13330": {
     "en": "right axillary vein",
-    "ru": "Правый подмышечная вена",
+    "ru": "Правая подмышечная вена",
     "system": "venous"
   },
   "FMA13331": {
     "en": "left axillary vein",
-    "ru": "Левый подмышечная вена",
+    "ru": "Левая подмышечная вена",
     "system": "venous"
   },
   "FMA13335": {
@@ -2047,12 +2047,12 @@
   },
   "FMA13336": {
     "en": "right external oblique",
-    "ru": "Правый наружная косая мышца",
+    "ru": "Правая наружная косая мышца",
     "system": "muscular"
   },
   "FMA13337": {
     "en": "left external oblique",
-    "ru": "Левый наружная косая мышца",
+    "ru": "Левая наружная косая мышца",
     "system": "muscular"
   },
   "FMA13338": {
@@ -2132,12 +2132,12 @@
   },
   "FMA13375": {
     "en": "right pectoralis minor",
-    "ru": "Правый грудная мышца малая",
+    "ru": "Правая грудная мышца малая",
     "system": "muscular"
   },
   "FMA13376": {
     "en": "left pectoralis minor",
-    "ru": "Левый грудная мышца малая",
+    "ru": "Левая грудная мышца малая",
     "system": "muscular"
   },
   "FMA13379": {
@@ -2152,22 +2152,22 @@
   },
   "FMA13381": {
     "en": "right rhomboid major",
-    "ru": "Правый ромбовидная мышца большая",
+    "ru": "Правая ромбовидная мышца большая",
     "system": "muscular"
   },
   "FMA13382": {
     "en": "left rhomboid major",
-    "ru": "Левый ромбовидная мышца большая",
+    "ru": "Левая ромбовидная мышца большая",
     "system": "muscular"
   },
   "FMA13383": {
     "en": "right rhomboid minor",
-    "ru": "Правый ромбовидная мышца малая",
+    "ru": "Правая ромбовидная мышца малая",
     "system": "muscular"
   },
   "FMA13384": {
     "en": "left rhomboid minor",
-    "ru": "Левый ромбовидная мышца малая",
+    "ru": "Левая ромбовидная мышца малая",
     "system": "muscular"
   },
   "FMA13385": {
@@ -2187,32 +2187,32 @@
   },
   "FMA13388": {
     "en": "right scalenus posterior",
-    "ru": "Правый лестничная мышца задняя",
+    "ru": "Правая лестничная мышца задняя",
     "system": "muscular"
   },
   "FMA13389": {
     "en": "left scalenus posterior",
-    "ru": "Левый лестничная мышца задняя",
+    "ru": "Левая лестничная мышца задняя",
     "system": "muscular"
   },
   "FMA13390": {
     "en": "right scalenus medius",
-    "ru": "Правый лестничная мышца мэдиус",
+    "ru": "Правая лестничная мышца мэдиус",
     "system": "muscular"
   },
   "FMA13391": {
     "en": "left scalenus medius",
-    "ru": "Левый лестничная мышца мэдиус",
+    "ru": "Левая лестничная мышца мэдиус",
     "system": "muscular"
   },
   "FMA13392": {
     "en": "right scalenus anterior",
-    "ru": "Правый лестничная мышца передняя",
+    "ru": "Правая лестничная мышца передняя",
     "system": "muscular"
   },
   "FMA13393": {
     "en": "left scalenus anterior",
-    "ru": "Левый лестничная мышца передняя",
+    "ru": "Левая лестничная мышца передняя",
     "system": "muscular"
   },
   "FMA13394": {
@@ -2302,12 +2302,12 @@
   },
   "FMA13411": {
     "en": "left subclavius",
-    "ru": "Левый подключичная мышца",
+    "ru": "Левая подключичная мышца",
     "system": "muscular"
   },
   "FMA13412": {
     "en": "right subclavius",
-    "ru": "Правый подключичная мышца",
+    "ru": "Правая подключичная мышца",
     "system": "muscular"
   },
   "FMA13413": {
@@ -2317,12 +2317,12 @@
   },
   "FMA13414": {
     "en": "right subscapularis",
-    "ru": "Правый подлопаточная мышца",
+    "ru": "Правая подлопаточная мышца",
     "system": "skeletal"
   },
   "FMA13415": {
     "en": "left subscapularis",
-    "ru": "Левый подлопаточная мышца",
+    "ru": "Левая подлопаточная мышца",
     "system": "skeletal"
   },
   "FMA13442": {
@@ -2450,7 +2450,7 @@
   },
   "FMA13912": {
     "en": "ventricular branch of right coronary artery",
-    "ru": "Желудочковая ветвь правый коронарная артерия",
+    "ru": "Желудочковая ветвь правой коронарной артерии",
     "system": "arterial"
   },
   "FMA13914": {
@@ -2713,12 +2713,12 @@
   },
   "FMA14752": {
     "en": "right renal artery",
-    "ru": "Правый почечная артерия",
+    "ru": "Правая почечная артерия",
     "system": "arterial"
   },
   "FMA14753": {
     "en": "left renal artery",
-    "ru": "Левый почечная артерия",
+    "ru": "Левая почечная артерия",
     "system": "arterial"
   },
   "FMA14754": {
@@ -2743,12 +2743,12 @@
   },
   "FMA14759": {
     "en": "right testicular artery",
-    "ru": "Правый яичковая артерия",
+    "ru": "Правая яичковая артерия",
     "system": "arterial"
   },
   "FMA14760": {
     "en": "left testicular artery",
-    "ru": "Левый яичковая артерия",
+    "ru": "Левая яичковая артерия",
     "system": "arterial"
   },
   "FMA14764": {
@@ -2758,12 +2758,12 @@
   },
   "FMA14765": {
     "en": "right common iliac artery",
-    "ru": "Правый общая подвздошная артерия",
+    "ru": "Правая общая подвздошная артерия",
     "system": "arterial"
   },
   "FMA14766": {
     "en": "left common iliac artery",
-    "ru": "Левый общая подвздошная артерия",
+    "ru": "Левая общая подвздошная артерия",
     "system": "arterial"
   },
   "FMA14767": {
@@ -3076,12 +3076,12 @@
   },
   "FMA15414": {
     "en": "right portal vein",
-    "ru": "Правый воротная вена",
+    "ru": "Правая воротная вена",
     "system": "venous"
   },
   "FMA15415": {
     "en": "left portal vein",
-    "ru": "Левый воротная вена",
+    "ru": "Левая воротная вена",
     "system": "venous"
   },
   "FMA15420": {
@@ -3096,37 +3096,37 @@
   },
   "FMA15423": {
     "en": "posterior superior segmental branch of right portal vein",
-    "ru": "Задняя верхняя сегментарный ветвь правый воротная вена",
+    "ru": "Задняя верхняя сегментарный ветвь правой воротной вены",
     "system": "venous"
   },
   "FMA15424": {
     "en": "posterior inferior segmental branch of right portal vein",
-    "ru": "Задняя нижняя сегментарный ветвь правый воротная вена",
+    "ru": "Задняя нижняя сегментарный ветвь правой воротной вены",
     "system": "venous"
   },
   "FMA15425": {
     "en": "caudate lobe branch of left portal vein",
-    "ru": "Хвостатая доля ветвь левый воротная вена",
+    "ru": "Хвостатая доля ветвь левой воротной вены",
     "system": "venous"
   },
   "FMA15428": {
     "en": "medial superior segmental branch of left portal vein",
-    "ru": "Медиальная верхняя сегментарный ветвь левый воротная вена",
+    "ru": "Медиальная верхняя сегментарный ветвь левой воротной вены",
     "system": "venous"
   },
   "FMA15429": {
     "en": "medial inferior segmental branch of left portal vein",
-    "ru": "Медиальная нижняя сегментарный ветвь левый воротная вена",
+    "ru": "Медиальная нижняя сегментарный ветвь левой воротной вены",
     "system": "venous"
   },
   "FMA15431": {
     "en": "lateral superior segmental branch of left portal vein",
-    "ru": "Латеральная верхняя сегментарный ветвь левый воротная вена",
+    "ru": "Латеральная верхняя сегментарный ветвь левой воротной вены",
     "system": "venous"
   },
   "FMA15432": {
     "en": "lateral inferior segmental branch of left portal vein",
-    "ru": "Латеральная нижняя сегментарный ветвь левый воротная вена",
+    "ru": "Латеральная нижняя сегментарный ветвь левой воротной вены",
     "system": "venous"
   },
   "FMA15571": {
@@ -3211,7 +3211,7 @@
   },
   "FMA15791": {
     "en": "tributary of right hepatic vein",
-    "ru": "Приток правый печёночная вена",
+    "ru": "Приток правой печёночной вены",
     "system": "venous"
   },
   "FMA15793": {
@@ -3221,17 +3221,17 @@
   },
   "FMA15794": {
     "en": "tributary of left hepatic vein",
-    "ru": "Приток левый печёночная вена",
+    "ru": "Приток левой печёночной вены",
     "system": "venous"
   },
   "FMA15796": {
     "en": "posterior superior segmental tributary of right hepatic vein",
-    "ru": "Задняя верхняя сегментарный приток правый печёночная вена",
+    "ru": "Задняя верхняя сегментарный приток правой печёночной вены",
     "system": "venous"
   },
   "FMA15797": {
     "en": "posterior inferior segmental tributary of right hepatic vein",
-    "ru": "Задняя нижняя сегментарный приток правый печёночная вена",
+    "ru": "Задняя нижняя сегментарный приток правой печёночной вены",
     "system": "venous"
   },
   "FMA15798": {
@@ -3251,17 +3251,17 @@
   },
   "FMA15802": {
     "en": "medial superior segmental tributary of left hepatic vein",
-    "ru": "Медиальная верхняя сегментарный приток левый печёночная вена",
+    "ru": "Медиальная верхняя сегментарный приток левой печёночной вены",
     "system": "venous"
   },
   "FMA15803": {
     "en": "lateral superior segmental tributary of left hepatic vein",
-    "ru": "Латеральная верхняя сегментарный приток левый печёночная вена",
+    "ru": "Латеральная верхняя сегментарный приток левой печёночной вены",
     "system": "venous"
   },
   "FMA15804": {
     "en": "lateral inferior segmental tributary of left hepatic vein",
-    "ru": "Латеральная нижняя сегментарный приток левый печёночная вена",
+    "ru": "Латеральная нижняя сегментарный приток левой печёночной вены",
     "system": "venous"
   },
   "FMA15900": {
@@ -3314,12 +3314,12 @@
   },
   "FMA16586": {
     "en": "right hip bone",
-    "ru": "Правый тазобедренная область кость",
+    "ru": "Правая тазобедренная область кость",
     "system": "skeletal"
   },
   "FMA16587": {
     "en": "left hip bone",
-    "ru": "Левый тазобедренная область кость",
+    "ru": "Левая тазобедренная область кость",
     "system": "skeletal"
   },
   "FMA16980": {
@@ -3379,12 +3379,12 @@
   },
   "FMA18806": {
     "en": "right external iliac artery",
-    "ru": "Правый наружная подвздошная артерия",
+    "ru": "Правая наружная подвздошная артерия",
     "system": "arterial"
   },
   "FMA18807": {
     "en": "left external iliac artery",
-    "ru": "Левый наружная подвздошная артерия",
+    "ru": "Левая наружная подвздошная артерия",
     "system": "arterial"
   },
   "FMA18808": {
@@ -3414,12 +3414,12 @@
   },
   "FMA18885": {
     "en": "right external iliac vein",
-    "ru": "Правый наружная подвздошная вена",
+    "ru": "Правая наружная подвздошная вена",
     "system": "venous"
   },
   "FMA18886": {
     "en": "left external iliac vein",
-    "ru": "Левый наружная подвздошная вена",
+    "ru": "Левая наружная подвздошная вена",
     "system": "venous"
   },
   "FMA18887": {
@@ -3459,12 +3459,12 @@
   },
   "FMA18906": {
     "en": "right lateral sacral vein",
-    "ru": "Правый латеральная крестцовая вена",
+    "ru": "Правая латеральная крестцовая вена",
     "system": "venous"
   },
   "FMA18907": {
     "en": "left lateral sacral vein",
-    "ru": "Левый латеральная крестцовая вена",
+    "ru": "Левая латеральная крестцовая вена",
     "system": "venous"
   },
   "FMA18908": {
@@ -3710,12 +3710,12 @@
   },
   "FMA20735": {
     "en": "right superficial epigastric artery",
-    "ru": "Правый поверхностная надчревная артерия",
+    "ru": "Правая поверхностная надчревная артерия",
     "system": "arterial"
   },
   "FMA20736": {
     "en": "left superficial epigastric artery",
-    "ru": "Левый поверхностная надчревная артерия",
+    "ru": "Левая поверхностная надчревная артерия",
     "system": "arterial"
   },
   "FMA20798": {
@@ -3725,12 +3725,12 @@
   },
   "FMA20801": {
     "en": "right lateral circumflex femoral artery",
-    "ru": "Правый латеральная огибающая бедренная артерия",
+    "ru": "Правая латеральная огибающая бедренная артерия",
     "system": "arterial"
   },
   "FMA20802": {
     "en": "left lateral circumflex femoral artery",
-    "ru": "Левый латеральная огибающая бедренная артерия",
+    "ru": "Левая латеральная огибающая бедренная артерия",
     "system": "arterial"
   },
   "FMA20803": {
@@ -3745,12 +3745,12 @@
   },
   "FMA20818": {
     "en": "right dorsal artery of penis",
-    "ru": "Правый тыльная артерия половой член",
+    "ru": "Правая тыльная артерия половой член",
     "system": "arterial"
   },
   "FMA20819": {
     "en": "left dorsal artery of penis",
-    "ru": "Левый тыльная артерия половой член",
+    "ru": "Левая тыльная артерия половой член",
     "system": "arterial"
   },
   "FMA21162": {
@@ -3775,12 +3775,12 @@
   },
   "FMA21188": {
     "en": "right femoral vein",
-    "ru": "Правый бедренная вена",
+    "ru": "Правая бедренная вена",
     "system": "venous"
   },
   "FMA21189": {
     "en": "left femoral vein",
-    "ru": "Левый бедренная вена",
+    "ru": "Левая бедренная вена",
     "system": "venous"
   },
   "FMA21240": {
@@ -3805,12 +3805,12 @@
   },
   "FMA21379": {
     "en": "right great saphenous vein",
-    "ru": "Правый большая подкожная вена",
+    "ru": "Правая большая подкожная вена",
     "system": "venous"
   },
   "FMA21380": {
     "en": "left great saphenous vein",
-    "ru": "Левый большая подкожная вена",
+    "ru": "Левая большая подкожная вена",
     "system": "venous"
   },
   "FMA21383": {
@@ -3825,32 +3825,32 @@
   },
   "FMA21385": {
     "en": "right superficial dorsal vein of penis",
-    "ru": "Правый поверхностная тыльная вена половой член",
+    "ru": "Правая поверхностная тыльная вена половой член",
     "system": "venous"
   },
   "FMA21386": {
     "en": "left superficial dorsal vein of penis",
-    "ru": "Левый поверхностная тыльная вена половой член",
+    "ru": "Левая поверхностная тыльная вена половой член",
     "system": "venous"
   },
   "FMA21387": {
     "en": "right common iliac vein",
-    "ru": "Правый общая подвздошная вена",
+    "ru": "Правая общая подвздошная вена",
     "system": "venous"
   },
   "FMA21388": {
     "en": "left common iliac vein",
-    "ru": "Левый общая подвздошная вена",
+    "ru": "Левая общая подвздошная вена",
     "system": "venous"
   },
   "FMA21422": {
     "en": "descending branch of right lateral circumflex femoral artery",
-    "ru": "Нисходящая ветвь правый латеральная огибающая бедренная артерия",
+    "ru": "Нисходящая ветвь правой латеральной огибающой бедренной артерии",
     "system": "arterial"
   },
   "FMA21423": {
     "en": "descending branch of left lateral circumflex femoral artery",
-    "ru": "Нисходящая ветвь левый латеральная огибающая бедренная артерия",
+    "ru": "Нисходящая ветвь левой латеральной огибающой бедренной артерии",
     "system": "arterial"
   },
   "FMA21496": {
@@ -3865,7 +3865,7 @@
   },
   "FMA21521": {
     "en": "trunk of branch of left colic artery",
-    "ru": "Туловище ветвь левый ободочная артерия",
+    "ru": "Туловище ветвь левой ободочной артерии",
     "system": "arterial"
   },
   "FMA21930": {
@@ -3955,32 +3955,32 @@
   },
   "FMA22328": {
     "en": "right gluteus maximus",
-    "ru": "Правый ягодичная мышца максимус",
+    "ru": "Правая ягодичная мышца максимус",
     "system": "muscular"
   },
   "FMA22329": {
     "en": "left gluteus maximus",
-    "ru": "Левый ягодичная мышца максимус",
+    "ru": "Левая ягодичная мышца максимус",
     "system": "muscular"
   },
   "FMA22330": {
     "en": "right gluteus medius",
-    "ru": "Правый ягодичная мышца мэдиус",
+    "ru": "Правая ягодичная мышца мэдиус",
     "system": "muscular"
   },
   "FMA22331": {
     "en": "left gluteus medius",
-    "ru": "Левый ягодичная мышца мэдиус",
+    "ru": "Левая ягодичная мышца мэдиус",
     "system": "muscular"
   },
   "FMA22332": {
     "en": "right gluteus minimus",
-    "ru": "Правый ягодичная мышца минимус",
+    "ru": "Правая ягодичная мышца минимус",
     "system": "muscular"
   },
   "FMA22333": {
     "en": "left gluteus minimus",
-    "ru": "Левый ягодичная мышца минимус",
+    "ru": "Левая ягодичная мышца минимус",
     "system": "muscular"
   },
   "FMA22334": {
@@ -4040,12 +4040,12 @@
   },
   "FMA22354": {
     "en": "right sartorius",
-    "ru": "Правый портняжная мышца",
+    "ru": "Правая портняжная мышца",
     "system": "muscular"
   },
   "FMA22355": {
     "en": "left sartorius",
-    "ru": "Левый портняжная мышца",
+    "ru": "Левая портняжная мышца",
     "system": "muscular"
   },
   "FMA22357": {
@@ -4165,32 +4165,32 @@
   },
   "FMA22452": {
     "en": "right adductor brevis",
-    "ru": "Правый приводящая мышца короткая",
+    "ru": "Правая приводящая мышца короткая",
     "system": "muscular"
   },
   "FMA22454": {
     "en": "left adductor brevis",
-    "ru": "Левый приводящая мышца короткая",
+    "ru": "Левая приводящая мышца короткая",
     "system": "muscular"
   },
   "FMA22456": {
     "en": "right adductor longus",
-    "ru": "Правый приводящая мышца длинная",
+    "ru": "Правая приводящая мышца длинная",
     "system": "muscular"
   },
   "FMA22457": {
     "en": "left adductor longus",
-    "ru": "Левый приводящая мышца длинная",
+    "ru": "Левая приводящая мышца длинная",
     "system": "muscular"
   },
   "FMA22459": {
     "en": "right adductor magnus",
-    "ru": "Правый приводящая мышца магнус",
+    "ru": "Правая приводящая мышца магнус",
     "system": "muscular"
   },
   "FMA22460": {
     "en": "left adductor magnus",
-    "ru": "Левый приводящая мышца магнус",
+    "ru": "Левая приводящая мышца магнус",
     "system": "muscular"
   },
   "FMA22470": {
@@ -4225,12 +4225,12 @@
   },
   "FMA22507": {
     "en": "right descending genicular artery",
-    "ru": "Правый нисходящая коленная артерия",
+    "ru": "Правая нисходящая коленная артерия",
     "system": "arterial"
   },
   "FMA22508": {
     "en": "left descending genicular artery",
-    "ru": "Левый нисходящая коленная артерия",
+    "ru": "Левая нисходящая коленная артерия",
     "system": "arterial"
   },
   "FMA22532": {
@@ -4350,12 +4350,12 @@
   },
   "FMA22558": {
     "en": "right soleus",
-    "ru": "Правый камбаловидная мышца",
+    "ru": "Правая камбаловидная мышца",
     "system": "muscular"
   },
   "FMA22559": {
     "en": "left soleus",
-    "ru": "Левый камбаловидная мышца",
+    "ru": "Левая камбаловидная мышца",
     "system": "muscular"
   },
   "FMA22560": {
@@ -4390,22 +4390,22 @@
   },
   "FMA22586": {
     "en": "right medial superior genicular artery",
-    "ru": "Правый медиальная верхняя коленная артерия",
+    "ru": "Правая медиальная верхняя коленная артерия",
     "system": "arterial"
   },
   "FMA22587": {
     "en": "left medial superior genicular artery",
-    "ru": "Левый медиальная верхняя коленная артерия",
+    "ru": "Левая медиальная верхняя коленная артерия",
     "system": "arterial"
   },
   "FMA22588": {
     "en": "right lateral superior genicular artery",
-    "ru": "Правый латеральная верхняя коленная артерия",
+    "ru": "Правая латеральная верхняя коленная артерия",
     "system": "arterial"
   },
   "FMA22589": {
     "en": "left lateral superior genicular artery",
-    "ru": "Левый латеральная верхняя коленная артерия",
+    "ru": "Левая латеральная верхняя коленная артерия",
     "system": "arterial"
   },
   "FMA22590": {
@@ -4445,12 +4445,12 @@
   },
   "FMA22655": {
     "en": "right axillary artery",
-    "ru": "Правый подмышечная артерия",
+    "ru": "Правая подмышечная артерия",
     "system": "arterial"
   },
   "FMA22656": {
     "en": "left axillary artery",
-    "ru": "Левый подмышечная артерия",
+    "ru": "Левая подмышечная артерия",
     "system": "arterial"
   },
   "FMA22674": {
@@ -4460,12 +4460,12 @@
   },
   "FMA22675": {
     "en": "right lateral thoracic artery",
-    "ru": "Правый латеральная грудная артерия",
+    "ru": "Правая латеральная грудная артерия",
     "system": "arterial"
   },
   "FMA22676": {
     "en": "left lateral thoracic artery",
-    "ru": "Левый латеральная грудная артерия",
+    "ru": "Левая латеральная грудная артерия",
     "system": "arterial"
   },
   "FMA22677": {
@@ -4525,12 +4525,12 @@
   },
   "FMA22691": {
     "en": "right brachial artery",
-    "ru": "Правый плечевая артерия",
+    "ru": "Правая плечевая артерия",
     "system": "arterial"
   },
   "FMA22692": {
     "en": "left brachial artery",
-    "ru": "Левый плечевая артерия",
+    "ru": "Левая плечевая артерия",
     "system": "arterial"
   },
   "FMA22693": {
@@ -4545,12 +4545,12 @@
   },
   "FMA22696": {
     "en": "right deep brachial artery",
-    "ru": "Правый глубокая плечевая артерия",
+    "ru": "Правая глубокая плечевая артерия",
     "system": "arterial"
   },
   "FMA22697": {
     "en": "left deep brachial artery",
-    "ru": "Левый глубокая плечевая артерия",
+    "ru": "Левая глубокая плечевая артерия",
     "system": "arterial"
   },
   "FMA22702": {
@@ -4640,12 +4640,12 @@
   },
   "FMA22733": {
     "en": "right radial artery",
-    "ru": "Правый лучевая артерия",
+    "ru": "Правая лучевая артерия",
     "system": "arterial"
   },
   "FMA22734": {
     "en": "left radial artery",
-    "ru": "Левый лучевая артерия",
+    "ru": "Левая лучевая артерия",
     "system": "arterial"
   },
   "FMA22738": {
@@ -4741,7 +4741,7 @@
   },
   "FMA22764": {
     "en": "right radial recurrent artery",
-    "ru": "Правый лучевая возвратная артерия",
+    "ru": "Правая лучевая возвратная артерия",
     "system": "arterial"
   },
   "FMA22765": {
@@ -4751,17 +4751,17 @@
   },
   "FMA22766": {
     "en": "left radial recurrent artery",
-    "ru": "Левый лучевая возвратная артерия",
+    "ru": "Левая лучевая возвратная артерия",
     "system": "arterial"
   },
   "FMA22772": {
     "en": "dorsal carpal branch of right radial artery",
-    "ru": "Тыльная запястная кость ветвь правый лучевая артерия",
+    "ru": "Тыльная запястная кость ветвь правой лучевой артерии",
     "system": "arterial"
   },
   "FMA22773": {
     "en": "dorsal carpal branch of left radial artery",
-    "ru": "Тыльная запястная кость ветвь левый лучевая артерия",
+    "ru": "Тыльная запястная кость ветвь левой лучевой артерии",
     "system": "arterial"
   },
   "FMA22777": {
@@ -4791,12 +4791,12 @@
   },
   "FMA22797": {
     "en": "right ulnar artery",
-    "ru": "Правый локтевая артерия",
+    "ru": "Правая локтевая артерия",
     "system": "arterial"
   },
   "FMA22798": {
     "en": "left ulnar artery",
-    "ru": "Левый локтевая артерия",
+    "ru": "Левая локтевая артерия",
     "system": "arterial"
   },
   "FMA22799": {
@@ -4841,12 +4841,12 @@
   },
   "FMA22807": {
     "en": "right common interosseous artery",
-    "ru": "Правый общая межкостная артерия",
+    "ru": "Правая общая межкостная артерия",
     "system": "arterial"
   },
   "FMA22808": {
     "en": "left common interosseous artery",
-    "ru": "Левый общая межкостная артерия",
+    "ru": "Левая общая межкостная артерия",
     "system": "arterial"
   },
   "FMA22809": {
@@ -4876,12 +4876,12 @@
   },
   "FMA22821": {
     "en": "right dorsal carpal branch of ulnar artery",
-    "ru": "Правый тыльная запястная кость ветвь локтевая артерия",
+    "ru": "Правая тыльная запястная кость ветвь локтевая артерия",
     "system": "arterial"
   },
   "FMA22822": {
     "en": "left dorsal carpal branch of ulnar artery",
-    "ru": "Левый тыльная запястная кость ветвь локтевая артерия",
+    "ru": "Левая тыльная запястная кость ветвь локтевая артерия",
     "system": "arterial"
   },
   "FMA22823": {
@@ -5016,12 +5016,12 @@
   },
   "FMA22864": {
     "en": "right palmar metacarpal artery",
-    "ru": "Правый ладонная пястная кость артерия",
+    "ru": "Правая ладонная пястная кость артерия",
     "system": "arterial"
   },
   "FMA22865": {
     "en": "left palmar metacarpal artery",
-    "ru": "Левый ладонная пястная кость артерия",
+    "ru": "Левая ладонная пястная кость артерия",
     "system": "arterial"
   },
   "FMA22872": {
@@ -5084,12 +5084,12 @@
   },
   "FMA22909": {
     "en": "right basilic vein",
-    "ru": "Правый медиальная подкожная вена",
+    "ru": "Правая медиальная подкожная вена",
     "system": "venous"
   },
   "FMA22910": {
     "en": "left basilic vein",
-    "ru": "Левый медиальная подкожная вена",
+    "ru": "Левая медиальная подкожная вена",
     "system": "venous"
   },
   "FMA22911": {
@@ -5134,12 +5134,12 @@
   },
   "FMA22920": {
     "en": "right palmar metacarpal vein",
-    "ru": "Правый ладонная пястная кость вена",
+    "ru": "Правая ладонная пястная кость вена",
     "system": "venous"
   },
   "FMA22921": {
     "en": "left palmar metacarpal vein",
-    "ru": "Левый ладонная пястная кость вена",
+    "ru": "Левая ладонная пястная кость вена",
     "system": "venous"
   },
   "FMA22922": {
@@ -5184,12 +5184,12 @@
   },
   "FMA22935": {
     "en": "right medial brachial vein",
-    "ru": "Правый медиальная плечевая вена",
+    "ru": "Правая медиальная плечевая вена",
     "system": "venous"
   },
   "FMA22936": {
     "en": "left medial brachial vein",
-    "ru": "Левый медиальная плечевая вена",
+    "ru": "Левая медиальная плечевая вена",
     "system": "venous"
   },
   "FMA22937": {
@@ -5204,12 +5204,12 @@
   },
   "FMA22948": {
     "en": "right radial vein",
-    "ru": "Правый лучевая вена",
+    "ru": "Правая лучевая вена",
     "system": "venous"
   },
   "FMA22949": {
     "en": "left radial vein",
-    "ru": "Левый лучевая вена",
+    "ru": "Левая лучевая вена",
     "system": "venous"
   },
   "FMA22950": {
@@ -5219,12 +5219,12 @@
   },
   "FMA22951": {
     "en": "right ulnar vein",
-    "ru": "Правый локтевая вена",
+    "ru": "Правая локтевая вена",
     "system": "venous"
   },
   "FMA22952": {
     "en": "left ulnar vein",
-    "ru": "Левый локтевая вена",
+    "ru": "Левая локтевая вена",
     "system": "venous"
   },
   "FMA22953": {
@@ -5434,12 +5434,12 @@
   },
   "FMA23130": {
     "en": "right humerus",
-    "ru": "Правый плечевая кость",
+    "ru": "Правая плечевая кость",
     "system": "skeletal"
   },
   "FMA23131": {
     "en": "left humerus",
-    "ru": "Левый плечевая кость",
+    "ru": "Левая плечевая кость",
     "system": "skeletal"
   },
   "FMA23179": {
@@ -5449,12 +5449,12 @@
   },
   "FMA23180": {
     "en": "right circumflex scapular artery",
-    "ru": "Правый огибающая лопаточная артерия",
+    "ru": "Правая огибающая лопаточная артерия",
     "system": "arterial"
   },
   "FMA23181": {
     "en": "left circumflex scapular artery",
-    "ru": "Левый огибающая лопаточная артерия",
+    "ru": "Левая огибающая лопаточная артерия",
     "system": "arterial"
   },
   "FMA23463": {
@@ -5464,12 +5464,12 @@
   },
   "FMA23464": {
     "en": "right radius",
-    "ru": "Правый лучевая кость",
+    "ru": "Правая лучевая кость",
     "system": "skeletal"
   },
   "FMA23465": {
     "en": "left radius",
-    "ru": "Левый лучевая кость",
+    "ru": "Левая лучевая кость",
     "system": "skeletal"
   },
   "FMA23466": {
@@ -5479,12 +5479,12 @@
   },
   "FMA23467": {
     "en": "right ulna",
-    "ru": "Правый локтевая кость",
+    "ru": "Правая локтевая кость",
     "system": "skeletal"
   },
   "FMA23468": {
     "en": "left ulna",
-    "ru": "Левый локтевая кость",
+    "ru": "Левая локтевая кость",
     "system": "skeletal"
   },
   "FMA23706": {
@@ -5854,22 +5854,22 @@
   },
   "FMA24464": {
     "en": "right first metacarpal bone",
-    "ru": "Правый первая пястная кость кость",
+    "ru": "Правая первая пястная кость кость",
     "system": "skeletal"
   },
   "FMA24465": {
     "en": "left first metacarpal bone",
-    "ru": "Левый первая пястная кость кость",
+    "ru": "Левая первая пястная кость кость",
     "system": "skeletal"
   },
   "FMA24466": {
     "en": "right second metacarpal bone",
-    "ru": "Правый вторая пястная кость кость",
+    "ru": "Правая вторая пястная кость кость",
     "system": "skeletal"
   },
   "FMA24467": {
     "en": "left second metacarpal bone",
-    "ru": "Левый вторая пястная кость кость",
+    "ru": "Левая вторая пястная кость кость",
     "system": "skeletal"
   },
   "FMA24468": {
@@ -5884,32 +5884,32 @@
   },
   "FMA24470": {
     "en": "right fourth metacarpal bone",
-    "ru": "Правый четвёртая пястная кость кость",
+    "ru": "Правая четвёртая пястная кость кость",
     "system": "skeletal"
   },
   "FMA24471": {
     "en": "left fourth metacarpal bone",
-    "ru": "Левый четвёртая пястная кость кость",
+    "ru": "Левая четвёртая пястная кость кость",
     "system": "skeletal"
   },
   "FMA24472": {
     "en": "right fifth metacarpal bone",
-    "ru": "Правый пятая пястная кость кость",
+    "ru": "Правая пятая пястная кость кость",
     "system": "skeletal"
   },
   "FMA24473": {
     "en": "left fifth metacarpal bone",
-    "ru": "Левый пятая пястная кость кость",
+    "ru": "Левая пятая пястная кость кость",
     "system": "skeletal"
   },
   "FMA24474": {
     "en": "right femur",
-    "ru": "Правый бедренная кость",
+    "ru": "Правая бедренная кость",
     "system": "skeletal"
   },
   "FMA24475": {
     "en": "left femur",
-    "ru": "Левый бедренная кость",
+    "ru": "Левая бедренная кость",
     "system": "skeletal"
   },
   "FMA24476": {
@@ -5919,12 +5919,12 @@
   },
   "FMA24477": {
     "en": "right tibia",
-    "ru": "Правый большеберцовая кость",
+    "ru": "Правая большеберцовая кость",
     "system": "skeletal"
   },
   "FMA24478": {
     "en": "left tibia",
-    "ru": "Левый большеберцовая кость",
+    "ru": "Левая большеберцовая кость",
     "system": "skeletal"
   },
   "FMA24479": {
@@ -5934,22 +5934,22 @@
   },
   "FMA24480": {
     "en": "right fibula",
-    "ru": "Правый малоберцовая кость",
+    "ru": "Правая малоберцовая кость",
     "system": "skeletal"
   },
   "FMA24481": {
     "en": "left fibula",
-    "ru": "Левый малоберцовая кость",
+    "ru": "Левая малоберцовая кость",
     "system": "skeletal"
   },
   "FMA24482": {
     "en": "right talus",
-    "ru": "Правый таранная кость",
+    "ru": "Правая таранная кость",
     "system": "skeletal"
   },
   "FMA24483": {
     "en": "left talus",
-    "ru": "Левый таранная кость",
+    "ru": "Левая таранная кость",
     "system": "skeletal"
   },
   "FMA24485": {
@@ -5989,12 +5989,12 @@
   },
   "FMA24497": {
     "en": "right calcaneus",
-    "ru": "Правый пяточная кость",
+    "ru": "Правая пяточная кость",
     "system": "skeletal"
   },
   "FMA24498": {
     "en": "left calcaneus",
-    "ru": "Левый пяточная кость",
+    "ru": "Левая пяточная кость",
     "system": "skeletal"
   },
   "FMA24499": {
@@ -6039,22 +6039,22 @@
   },
   "FMA24507": {
     "en": "right first metatarsal bone",
-    "ru": "Правый первая плюсневая кость кость",
+    "ru": "Правая первая плюсневая кость кость",
     "system": "skeletal"
   },
   "FMA24508": {
     "en": "left first metatarsal bone",
-    "ru": "Левый первая плюсневая кость кость",
+    "ru": "Левая первая плюсневая кость кость",
     "system": "skeletal"
   },
   "FMA24509": {
     "en": "right second metatarsal bone",
-    "ru": "Правый вторая плюсневая кость кость",
+    "ru": "Правая вторая плюсневая кость кость",
     "system": "skeletal"
   },
   "FMA24510": {
     "en": "left second metatarsal bone",
-    "ru": "Левый вторая плюсневая кость кость",
+    "ru": "Левая вторая плюсневая кость кость",
     "system": "skeletal"
   },
   "FMA24511": {
@@ -6069,22 +6069,22 @@
   },
   "FMA24513": {
     "en": "right fourth metatarsal bone",
-    "ru": "Правый четвёртая плюсневая кость кость",
+    "ru": "Правая четвёртая плюсневая кость кость",
     "system": "skeletal"
   },
   "FMA24514": {
     "en": "left fourth metatarsal bone",
-    "ru": "Левый четвёртая плюсневая кость кость",
+    "ru": "Левая четвёртая плюсневая кость кость",
     "system": "skeletal"
   },
   "FMA24515": {
     "en": "right fifth metatarsal bone",
-    "ru": "Правый пятая плюсневая кость кость",
+    "ru": "Правая пятая плюсневая кость кость",
     "system": "skeletal"
   },
   "FMA24516": {
     "en": "left fifth metatarsal bone",
-    "ru": "Левый пятая плюсневая кость кость",
+    "ru": "Левая пятая плюсневая кость кость",
     "system": "skeletal"
   },
   "FMA24517": {
@@ -6249,22 +6249,22 @@
   },
   "FMA32530": {
     "en": "right rectus capitis posterior major",
-    "ru": "Правый прямая мышца головки задняя большая",
+    "ru": "Правая прямая мышца головки задняя большая",
     "system": "muscular"
   },
   "FMA32531": {
     "en": "left rectus capitis posterior major",
-    "ru": "Левый прямая мышца головки задняя большая",
+    "ru": "Левая прямая мышца головки задняя большая",
     "system": "muscular"
   },
   "FMA32532": {
     "en": "right rectus capitis posterior minor",
-    "ru": "Правый прямая мышца головки задняя малая",
+    "ru": "Правая прямая мышца головки задняя малая",
     "system": "muscular"
   },
   "FMA32533": {
     "en": "left rectus capitis posterior minor",
-    "ru": "Левый прямая мышца головки задняя малая",
+    "ru": "Левая прямая мышца головки задняя малая",
     "system": "muscular"
   },
   "FMA32534": {
@@ -6629,22 +6629,22 @@
   },
   "FMA33584": {
     "en": "transverse part of right trapezius",
-    "ru": "Поперечная часть правый трапециевидная мышца",
+    "ru": "Поперечная часть правой трапециевидной мышцы",
     "system": "muscular"
   },
   "FMA33585": {
     "en": "transverse part of left trapezius",
-    "ru": "Поперечная часть левый трапециевидная мышца",
+    "ru": "Поперечная часть левой трапециевидной мышцы",
     "system": "muscular"
   },
   "FMA33586": {
     "en": "descending part of right trapezius",
-    "ru": "Нисходящая часть правый трапециевидная мышца",
+    "ru": "Нисходящая часть правой трапециевидной мышцы",
     "system": "muscular"
   },
   "FMA33587": {
     "en": "descending part of left trapezius",
-    "ru": "Нисходящая часть левый трапециевидная мышца",
+    "ru": "Нисходящая часть левой трапециевидной мышцы",
     "system": "muscular"
   },
   "FMA34676": {
@@ -6669,12 +6669,12 @@
   },
   "FMA34680": {
     "en": "clavicular part of right deltoid",
-    "ru": "Клавикулар часть правый дельтовидная мышца",
+    "ru": "Клавикулар часть правой дельтовидной мышцы",
     "system": "muscular"
   },
   "FMA34681": {
     "en": "clavicular part of left deltoid",
-    "ru": "Клавикулар часть левый дельтовидная мышца",
+    "ru": "Клавикулар часть левой дельтовидной мышцы",
     "system": "muscular"
   },
   "FMA34682": {
@@ -6689,12 +6689,12 @@
   },
   "FMA34684": {
     "en": "spinal part of right deltoid",
-    "ru": "Спинномозговая часть правый дельтовидная мышца",
+    "ru": "Спинномозговая часть правой дельтовидной мышцы",
     "system": "muscular"
   },
   "FMA34685": {
     "en": "spinal part of left deltoid",
-    "ru": "Спинномозговая часть левый дельтовидная мышца",
+    "ru": "Спинномозговая часть левой дельтовидной мышцы",
     "system": "muscular"
   },
   "FMA34686": {
@@ -6709,12 +6709,12 @@
   },
   "FMA34690": {
     "en": "clavicular part of right pectoralis major",
-    "ru": "Клавикулар часть правый грудная мышца большая",
+    "ru": "Клавикулар часть правой грудной мышцы большая",
     "system": "muscular"
   },
   "FMA34691": {
     "en": "clavicular part of left pectoralis major",
-    "ru": "Клавикулар часть левый грудная мышца большая",
+    "ru": "Клавикулар часть левой грудной мышцы большая",
     "system": "muscular"
   },
   "FMA34696": {
@@ -6844,12 +6844,12 @@
   },
   "FMA37386": {
     "en": "right abductor pollicis brevis",
-    "ru": "Правый отводящая мышца большого пальца кисти короткая",
+    "ru": "Правая отводящая мышца большого пальца кисти короткая",
     "system": "muscular"
   },
   "FMA37387": {
     "en": "left abductor pollicis brevis",
-    "ru": "Левый отводящая мышца большого пальца кисти короткая",
+    "ru": "Левая отводящая мышца большого пальца кисти короткая",
     "system": "muscular"
   },
   "FMA37388": {
@@ -6944,12 +6944,12 @@
   },
   "FMA37459": {
     "en": "right abductor hallucis",
-    "ru": "Правый отводящая мышца большого пальца стопы",
+    "ru": "Правая отводящая мышца большого пальца стопы",
     "system": "muscular"
   },
   "FMA37460": {
     "en": "left abductor hallucis",
-    "ru": "Левый отводящая мышца большого пальца стопы",
+    "ru": "Левая отводящая мышца большого пальца стопы",
     "system": "muscular"
   },
   "FMA37461": {
@@ -7077,22 +7077,22 @@
   },
   "FMA37684": {
     "en": "short head of right biceps brachii",
-    "ru": "Короткая головка правый двуглавая мышца плеча",
+    "ru": "Короткая головка правой двуглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37685": {
     "en": "short head of left biceps brachii",
-    "ru": "Короткая головка левый двуглавая мышца плеча",
+    "ru": "Короткая головка левой двуглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37686": {
     "en": "long head of right biceps brachii",
-    "ru": "Длинная головка правый двуглавая мышца плеча",
+    "ru": "Длинная головка правой двуглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37687": {
     "en": "long head of left biceps brachii",
-    "ru": "Длинная головка левый двуглавая мышца плеча",
+    "ru": "Длинная головка левой двуглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37692": {
@@ -7112,32 +7112,32 @@
   },
   "FMA37695": {
     "en": "medial head of right triceps brachii",
-    "ru": "Медиальная головка правый трёхглавая мышца плеча",
+    "ru": "Медиальная головка правой трёхглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37696": {
     "en": "medial head of left triceps brachii",
-    "ru": "Медиальная головка левый трёхглавая мышца плеча",
+    "ru": "Медиальная головка левой трёхглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37697": {
     "en": "lateral head of right triceps brachii",
-    "ru": "Латеральная головка правый трёхглавая мышца плеча",
+    "ru": "Латеральная головка правой трёхглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37698": {
     "en": "lateral head of left triceps brachii",
-    "ru": "Латеральная головка левый трёхглавая мышца плеча",
+    "ru": "Латеральная головка левой трёхглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37699": {
     "en": "long head of right triceps brachii",
-    "ru": "Длинная головка правый трёхглавая мышца плеча",
+    "ru": "Длинная головка правой трёхглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37700": {
     "en": "long head of left triceps brachii",
-    "ru": "Длинная головка левый трёхглавая мышца плеча",
+    "ru": "Длинная головка левой трёхглавой мышцы плеча",
     "system": "muscular"
   },
   "FMA37704": {
@@ -7428,17 +7428,17 @@
   },
   "FMA38506": {
     "en": "extensor carpi ulnaris",
-    "ru": "Разгибатель кисти улнарис",
+    "ru": "локтевой разгибатель запястья",
     "system": "muscular"
   },
   "FMA38507": {
     "en": "right extensor carpi ulnaris",
-    "ru": "Правый разгибатель кисти улнарис",
+    "ru": "Правый локтевой разгибатель запястья",
     "system": "muscular"
   },
   "FMA38508": {
     "en": "left extensor carpi ulnaris",
-    "ru": "Левый разгибатель кисти улнарис",
+    "ru": "Левый локтевой разгибатель запястья",
     "system": "muscular"
   },
   "FMA38509": {
@@ -7468,12 +7468,12 @@
   },
   "FMA38516": {
     "en": "right abductor pollicis longus",
-    "ru": "Правый отводящая мышца большого пальца кисти длинная",
+    "ru": "Правая отводящая мышца большого пальца кисти длинная",
     "system": "muscular"
   },
   "FMA38517": {
     "en": "left abductor pollicis longus",
-    "ru": "Левый отводящая мышца большого пальца кисти длинная",
+    "ru": "Левая отводящая мышца большого пальца кисти длинная",
     "system": "muscular"
   },
   "FMA38518": {
@@ -7558,7 +7558,7 @@
   },
   "FMA38616": {
     "en": "ulnar head of flexor carpi ulnaris",
-    "ru": "Локтевая головка сгибатель кисти улнарис",
+    "ru": "Локтевая головка локтевой сгибатель запястья",
     "system": "muscular"
   },
   "FMA38617": {
@@ -7573,22 +7573,22 @@
   },
   "FMA38619": {
     "en": "ulnar head of right flexor carpi ulnaris",
-    "ru": "Локтевая головка правый сгибатель кисти улнарис",
+    "ru": "Локтевая головка правый локтевой сгибатель запястья",
     "system": "muscular"
   },
   "FMA38620": {
     "en": "ulnar head of left flexor carpi ulnaris",
-    "ru": "Локтевая головка левый сгибатель кисти улнарис",
+    "ru": "Локтевая головка левый локтевой сгибатель запястья",
     "system": "muscular"
   },
   "FMA38928": {
     "en": "right rectus femoris",
-    "ru": "Правый прямая мышца бедра",
+    "ru": "Правая прямая мышца бедра",
     "system": "muscular"
   },
   "FMA38929": {
     "en": "left rectus femoris",
-    "ru": "Левый прямая мышца бедра",
+    "ru": "Левая прямая мышца бедра",
     "system": "muscular"
   },
   "FMA38930": {
@@ -7698,12 +7698,12 @@
   },
   "FMA43883": {
     "en": "right gracilis",
-    "ru": "Правый тонкая мышца",
+    "ru": "Правая тонкая мышца",
     "system": "muscular"
   },
   "FMA43884": {
     "en": "left gracilis",
-    "ru": "Левый тонкая мышца",
+    "ru": "Левая тонкая мышца",
     "system": "muscular"
   },
   "FMA43885": {
@@ -7713,12 +7713,12 @@
   },
   "FMA43886": {
     "en": "right adductor minimus",
-    "ru": "Правый приводящая мышца минимус",
+    "ru": "Правая приводящая мышца минимус",
     "system": "muscular"
   },
   "FMA43887": {
     "en": "left adductor minimus",
-    "ru": "Левый приводящая мышца минимус",
+    "ru": "Левая приводящая мышца минимус",
     "system": "muscular"
   },
   "FMA43888": {
@@ -7828,22 +7828,22 @@
   },
   "FMA43929": {
     "en": "right medial plantar artery",
-    "ru": "Правый медиальная подошвенная артерия",
+    "ru": "Правая медиальная подошвенная артерия",
     "system": "arterial"
   },
   "FMA43930": {
     "en": "left medial plantar artery",
-    "ru": "Левый медиальная подошвенная артерия",
+    "ru": "Левая медиальная подошвенная артерия",
     "system": "arterial"
   },
   "FMA43931": {
     "en": "right lateral plantar artery",
-    "ru": "Правый латеральная подошвенная артерия",
+    "ru": "Правая латеральная подошвенная артерия",
     "system": "arterial"
   },
   "FMA43932": {
     "en": "left lateral plantar artery",
-    "ru": "Левый латеральная подошвенная артерия",
+    "ru": "Левая латеральная подошвенная артерия",
     "system": "arterial"
   },
   "FMA43933": {
@@ -7853,12 +7853,12 @@
   },
   "FMA43937": {
     "en": "right superficial medial plantar artery",
-    "ru": "Правый поверхностная медиальная подошвенная артерия",
+    "ru": "Правая поверхностная медиальная подошвенная артерия",
     "system": "arterial"
   },
   "FMA43938": {
     "en": "left superficial medial plantar artery",
-    "ru": "Левый поверхностная медиальная подошвенная артерия",
+    "ru": "Левая поверхностная медиальная подошвенная артерия",
     "system": "arterial"
   },
   "FMA43940": {
@@ -7908,12 +7908,12 @@
   },
   "FMA44249": {
     "en": "right long plantar ligament",
-    "ru": "Правый длинная подошвенная связка",
+    "ru": "Правая длинная подошвенная связка",
     "system": "connective"
   },
   "FMA44250": {
     "en": "left long plantar ligament",
-    "ru": "Левый длинная подошвенная связка",
+    "ru": "Левая длинная подошвенная связка",
     "system": "connective"
   },
   "FMA44318": {
@@ -7948,12 +7948,12 @@
   },
   "FMA44328": {
     "en": "right popliteal vein",
-    "ru": "Правый подколенная вена",
+    "ru": "Правая подколенная вена",
     "system": "venous"
   },
   "FMA44329": {
     "en": "left popliteal vein",
-    "ru": "Левый подколенная вена",
+    "ru": "Левая подколенная вена",
     "system": "venous"
   },
   "FMA44330": {
@@ -7978,12 +7978,12 @@
   },
   "FMA44334": {
     "en": "right small saphenous vein",
-    "ru": "Правый малая подкожная вена",
+    "ru": "Правая малая подкожная вена",
     "system": "venous"
   },
   "FMA44335": {
     "en": "left small saphenous vein",
-    "ru": "Левый малая подкожная вена",
+    "ru": "Левая малая подкожная вена",
     "system": "venous"
   },
   "FMA44336": {
@@ -8008,12 +8008,12 @@
   },
   "FMA44340": {
     "en": "right superficial epigastric vein",
-    "ru": "Правый поверхностная надчревная вена",
+    "ru": "Правая поверхностная надчревная вена",
     "system": "venous"
   },
   "FMA44341": {
     "en": "left superficial epigastric vein",
-    "ru": "Левый поверхностная надчревная вена",
+    "ru": "Левая поверхностная надчревная вена",
     "system": "venous"
   },
   "FMA44356": {
@@ -8083,42 +8083,42 @@
   },
   "FMA44885": {
     "en": "right fibular vein",
-    "ru": "Правый малоберцовая вена",
+    "ru": "Правая малоберцовая вена",
     "system": "venous"
   },
   "FMA44886": {
     "en": "left fibular vein",
-    "ru": "Левый малоберцовая вена",
+    "ru": "Левая малоберцовая вена",
     "system": "venous"
   },
   "FMA44887": {
     "en": "right genicular vein",
-    "ru": "Правый коленная вена",
+    "ru": "Правая коленная вена",
     "system": "venous"
   },
   "FMA44888": {
     "en": "left genicular vein",
-    "ru": "Левый коленная вена",
+    "ru": "Левая коленная вена",
     "system": "venous"
   },
   "FMA44918": {
     "en": "right medial circumflex femoral vein",
-    "ru": "Правый медиальная огибающая бедренная вена",
+    "ru": "Правая медиальная огибающая бедренная вена",
     "system": "venous"
   },
   "FMA44919": {
     "en": "left medial circumflex femoral vein",
-    "ru": "Левый медиальная огибающая бедренная вена",
+    "ru": "Левая медиальная огибающая бедренная вена",
     "system": "venous"
   },
   "FMA44920": {
     "en": "right lateral circumflex femoral vein",
-    "ru": "Правый латеральная огибающая бедренная вена",
+    "ru": "Правая латеральная огибающая бедренная вена",
     "system": "venous"
   },
   "FMA44922": {
     "en": "left lateral circumflex femoral vein",
-    "ru": "Левый латеральная огибающая бедренная вена",
+    "ru": "Левая латеральная огибающая бедренная вена",
     "system": "venous"
   },
   "FMA45096": {
@@ -8238,12 +8238,12 @@
   },
   "FMA45888": {
     "en": "long head of right biceps femoris",
-    "ru": "Длинная головка правый двуглавая мышца бедра",
+    "ru": "Длинная головка правой двуглавой мышцы бедра",
     "system": "muscular"
   },
   "FMA45889": {
     "en": "long head of left biceps femoris",
-    "ru": "Длинная головка левый двуглавая мышца бедра",
+    "ru": "Длинная головка левой двуглавой мышцы бедра",
     "system": "muscular"
   },
   "FMA45890": {
@@ -8253,12 +8253,12 @@
   },
   "FMA45891": {
     "en": "short head of right biceps femoris",
-    "ru": "Короткая головка правый двуглавая мышца бедра",
+    "ru": "Короткая головка правой двуглавой мышцы бедра",
     "system": "muscular"
   },
   "FMA45892": {
     "en": "short head of left biceps femoris",
-    "ru": "Короткая головка левый двуглавая мышца бедра",
+    "ru": "Короткая головка левой двуглавой мышцы бедра",
     "system": "muscular"
   },
   "FMA45950": {
@@ -8273,12 +8273,12 @@
   },
   "FMA45957": {
     "en": "medial head of right gastrocnemius",
-    "ru": "Медиальная головка правый икроножная мышца",
+    "ru": "Медиальная головка правой икроножной мышцы",
     "system": "muscular"
   },
   "FMA45958": {
     "en": "medial head of left gastrocnemius",
-    "ru": "Медиальная головка левый икроножная мышца",
+    "ru": "Медиальная головка левой икроножной мышцы",
     "system": "muscular"
   },
   "FMA45959": {
@@ -8288,12 +8288,12 @@
   },
   "FMA45960": {
     "en": "lateral head of right gastrocnemius",
-    "ru": "Латеральная головка правый икроножная мышца",
+    "ru": "Латеральная головка правой икроножной мышцы",
     "system": "muscular"
   },
   "FMA45961": {
     "en": "lateral head of left gastrocnemius",
-    "ru": "Латеральная головка левый икроножная мышца",
+    "ru": "Латеральная головка левой икроножной мышцы",
     "system": "muscular"
   },
   "FMA45963": {
@@ -8348,22 +8348,22 @@
   },
   "FMA46018": {
     "en": "oblique head of right adductor hallucis",
-    "ru": "Косая мышца головка правый приводящая мышца большого пальца стопы",
+    "ru": "Косая мышца головка правой приводящой мышцы большого пальца стопы",
     "system": "muscular"
   },
   "FMA46019": {
     "en": "oblique head of left adductor hallucis",
-    "ru": "Косая мышца головка левый приводящая мышца большого пальца стопы",
+    "ru": "Косая мышца головка левой приводящой мышцы большого пальца стопы",
     "system": "muscular"
   },
   "FMA46020": {
     "en": "transverse head of right adductor hallucis",
-    "ru": "Поперечная головка правый приводящая мышца большого пальца стопы",
+    "ru": "Поперечная головка правой приводящой мышцы большого пальца стопы",
     "system": "muscular"
   },
   "FMA46021": {
     "en": "transverse head of left adductor hallucis",
-    "ru": "Поперечная головка левый приводящая мышца большого пальца стопы",
+    "ru": "Поперечная головка левой приводящой мышцы большого пальца стопы",
     "system": "muscular"
   },
   "FMA46104": {
@@ -8383,22 +8383,22 @@
   },
   "FMA46121": {
     "en": "oblique head of right adductor pollicis",
-    "ru": "Косая мышца головка правый приводящая мышца большого пальца кисти",
+    "ru": "Косая мышца головка правой приводящой мышцы большого пальца кисти",
     "system": "muscular"
   },
   "FMA46122": {
     "en": "oblique head of left adductor pollicis",
-    "ru": "Косая мышца головка левый приводящая мышца большого пальца кисти",
+    "ru": "Косая мышца головка левой приводящой мышцы большого пальца кисти",
     "system": "muscular"
   },
   "FMA46123": {
     "en": "transverse head of right adductor pollicis",
-    "ru": "Поперечная головка правый приводящая мышца большого пальца кисти",
+    "ru": "Поперечная головка правой приводящой мышцы большого пальца кисти",
     "system": "muscular"
   },
   "FMA46124": {
     "en": "transverse head of left adductor pollicis",
-    "ru": "Поперечная головка левый приводящая мышца большого пальца кисти",
+    "ru": "Поперечная головка левой приводящой мышцы большого пальца кисти",
     "system": "muscular"
   },
   "FMA46279": {
@@ -8478,12 +8478,12 @@
   },
   "FMA46313": {
     "en": "right rectus capitis anterior",
-    "ru": "Правый прямая мышца головки передняя",
+    "ru": "Правая прямая мышца головки передняя",
     "system": "muscular"
   },
   "FMA46314": {
     "en": "left rectus capitis anterior",
-    "ru": "Левый прямая мышца головки передняя",
+    "ru": "Левая прямая мышца головки передняя",
     "system": "muscular"
   },
   "FMA46316": {
@@ -8493,12 +8493,12 @@
   },
   "FMA46317": {
     "en": "right rectus capitis lateralis",
-    "ru": "Правый прямая мышца головки латеральная",
+    "ru": "Правая прямая мышца головки латеральная",
     "system": "muscular"
   },
   "FMA46318": {
     "en": "left rectus capitis lateralis",
-    "ru": "Левый прямая мышца головки латеральная",
+    "ru": "Левая прямая мышца головки латеральная",
     "system": "muscular"
   },
   "FMA46320": {
@@ -8971,22 +8971,22 @@
   },
   "FMA49054": {
     "en": "right lateral rectus",
-    "ru": "Правый латеральная прямая мышца",
+    "ru": "Правая латеральная прямая мышца",
     "system": "muscular"
   },
   "FMA49055": {
     "en": "left lateral rectus",
-    "ru": "Левый латеральная прямая мышца",
+    "ru": "Левая латеральная прямая мышца",
     "system": "muscular"
   },
   "FMA49056": {
     "en": "right medial rectus",
-    "ru": "Правый медиальная прямая мышца",
+    "ru": "Правая медиальная прямая мышца",
     "system": "muscular"
   },
   "FMA49057": {
     "en": "left medial rectus",
-    "ru": "Левый медиальная прямая мышца",
+    "ru": "Левая медиальная прямая мышца",
     "system": "muscular"
   },
   "FMA49065": {
@@ -9026,12 +9026,12 @@
   },
   "FMA49144": {
     "en": "check ligament of right lateral rectus",
-    "ru": "Чэкк связка правый латеральная прямая мышца",
+    "ru": "Чэкк связка правой латеральной прямой мышцы",
     "system": "connective"
   },
   "FMA49145": {
     "en": "check ligament of left lateral rectus",
-    "ru": "Чэкк связка левый латеральная прямая мышца",
+    "ru": "Чэкк связка левой латеральной прямой мышцы",
     "system": "connective"
   },
   "FMA49146": {
@@ -9041,12 +9041,12 @@
   },
   "FMA49147": {
     "en": "check ligament of right medial rectus",
-    "ru": "Чэкк связка правый медиальная прямая мышца",
+    "ru": "Чэкк связка правой медиальной прямой мышцы",
     "system": "connective"
   },
   "FMA49148": {
     "en": "check ligament of left medial rectus",
-    "ru": "Чэкк связка левый медиальная прямая мышца",
+    "ru": "Чэкк связка левой медиальной прямой мышцы",
     "system": "connective"
   },
   "FMA49443": {
@@ -9270,12 +9270,12 @@
   },
   "FMA50343": {
     "en": "right medial frontobasal artery",
-    "ru": "Правый медиальная фронтобасал артерия",
+    "ru": "Правая медиальная фронтобасал артерия",
     "system": "arterial"
   },
   "FMA50344": {
     "en": "left medial frontobasal artery",
-    "ru": "Левый медиальная фронтобасал артерия",
+    "ru": "Левая медиальная фронтобасал артерия",
     "system": "arterial"
   },
   "FMA50347": {
@@ -9390,12 +9390,12 @@
   },
   "FMA50380": {
     "en": "right polar temporal artery",
-    "ru": "Правый полярная височная артерия",
+    "ru": "Правая полярная височная артерия",
     "system": "arterial"
   },
   "FMA50381": {
     "en": "left polar temporal artery",
-    "ru": "Левый полярная височная артерия",
+    "ru": "Левая полярная височная артерия",
     "system": "arterial"
   },
   "FMA50382": {
@@ -9460,17 +9460,17 @@
   },
   "FMA50443": {
     "en": "right lateral frontobasal artery",
-    "ru": "Правый латеральная фронтобасал артерия",
+    "ru": "Правая латеральная фронтобасал артерия",
     "system": "arterial"
   },
   "FMA50444": {
     "en": "left lateral frontobasal artery",
-    "ru": "Левый латеральная фронтобасал артерия",
+    "ru": "Левая латеральная фронтобасал артерия",
     "system": "arterial"
   },
   "FMA50445": {
     "en": "right prefrontal artery",
-    "ru": "Правый префронтальная артерия",
+    "ru": "Правая префронтальная артерия",
     "system": "arterial"
   },
   "FMA50466": {
@@ -9535,7 +9535,7 @@
   },
   "FMA50478": {
     "en": "left prefrontal artery",
-    "ru": "Левый префронтальная артерия",
+    "ru": "Левая префронтальная артерия",
     "system": "arterial"
   },
   "FMA50479": {
@@ -9661,22 +9661,22 @@
   },
   "FMA50566": {
     "en": "medial branch of right pontine artery",
-    "ru": "Медиальная ветвь правый мостовая артерия",
+    "ru": "Медиальная ветвь правой мостовой артерии",
     "system": "arterial"
   },
   "FMA50567": {
     "en": "medial branch of left pontine artery",
-    "ru": "Медиальная ветвь левый мостовая артерия",
+    "ru": "Медиальная ветвь левой мостовой артерии",
     "system": "arterial"
   },
   "FMA50568": {
     "en": "lateral branch of right pontine artery",
-    "ru": "Латеральная ветвь правый мостовая артерия",
+    "ru": "Латеральная ветвь правой мостовой артерии",
     "system": "arterial"
   },
   "FMA50569": {
     "en": "lateral branch of left pontine artery",
-    "ru": "Латеральная ветвь левый мостовая артерия",
+    "ru": "Латеральная ветвь левой мостовой артерии",
     "system": "arterial"
   },
   "FMA50573": {
@@ -9746,7 +9746,7 @@
   },
   "FMA50590": {
     "en": "precommunicating part of posterior cerebral artery",
-    "ru": "Прэкоммуникатинг часть задняя мозговая артерия",
+    "ru": "предсоединительная часть задней мозговой артерии",
     "system": "arterial"
   },
   "FMA50591": {
@@ -9781,12 +9781,12 @@
   },
   "FMA50639": {
     "en": "precommunicating part of right posterior cerebral artery",
-    "ru": "Прэкоммуникатинг часть правый задняя мозговая артерия",
+    "ru": "предсоединительная часть правый задней мозговой артерии",
     "system": "arterial"
   },
   "FMA50640": {
     "en": "precommunicating part of left posterior cerebral artery",
-    "ru": "Прэкоммуникатинг часть левый задняя мозговая артерия",
+    "ru": "предсоединительная часть левый задней мозговой артерии",
     "system": "arterial"
   },
   "FMA50641": {
@@ -9801,22 +9801,22 @@
   },
   "FMA50643": {
     "en": "right lateral occipital artery",
-    "ru": "Правый латеральная затылочная артерия",
+    "ru": "Правая латеральная затылочная артерия",
     "system": "arterial"
   },
   "FMA50644": {
     "en": "left lateral occipital artery",
-    "ru": "Левый латеральная затылочная артерия",
+    "ru": "Левая латеральная затылочная артерия",
     "system": "arterial"
   },
   "FMA50645": {
     "en": "right medial occipital artery",
-    "ru": "Правый медиальная затылочная артерия",
+    "ru": "Правая медиальная затылочная артерия",
     "system": "arterial"
   },
   "FMA50646": {
     "en": "left medial occipital artery",
-    "ru": "Левый медиальная затылочная артерия",
+    "ru": "Левая медиальная затылочная артерия",
     "system": "arterial"
   },
   "FMA50647": {
@@ -9896,12 +9896,12 @@
   },
   "FMA50680": {
     "en": "middle temporal branch of right lateral occipital artery",
-    "ru": "Средняя височная ветвь правый латеральная затылочная артерия",
+    "ru": "Средняя височная ветвь правой латеральной затылочной артерии",
     "system": "arterial"
   },
   "FMA50681": {
     "en": "middle temporal branch of left lateral occipital artery",
-    "ru": "Средняя височная ветвь левый латеральная затылочная артерия",
+    "ru": "Средняя височная ветвь левой латеральной затылочной артерии",
     "system": "arterial"
   },
   "FMA50684": {
@@ -10026,12 +10026,12 @@
   },
   "FMA51042": {
     "en": "right deep femoral vein",
-    "ru": "Правый глубокая бедренная вена",
+    "ru": "Правая глубокая бедренная вена",
     "system": "venous"
   },
   "FMA51043": {
     "en": "left deep femoral vein",
-    "ru": "Левый глубокая бедренная вена",
+    "ru": "Левая глубокая бедренная вена",
     "system": "venous"
   },
   "FMA51048": {
@@ -10317,12 +10317,12 @@
   },
   "FMA52738": {
     "en": "right temporal bone",
-    "ru": "Правый височная кость",
+    "ru": "Правая височная кость",
     "system": "skeletal"
   },
   "FMA52739": {
     "en": "left temporal bone",
-    "ru": "Левый височная кость",
+    "ru": "Левая височная кость",
     "system": "skeletal"
   },
   "FMA52740": {
@@ -10367,12 +10367,12 @@
   },
   "FMA52788": {
     "en": "right parietal bone",
-    "ru": "Правый теменная кость",
+    "ru": "Правая теменная кость",
     "system": "skeletal"
   },
   "FMA52789": {
     "en": "left parietal bone",
-    "ru": "Левый теменная кость",
+    "ru": "Левая теменная кость",
     "system": "skeletal"
   },
   "FMA52892": {
@@ -10397,22 +10397,22 @@
   },
   "FMA53645": {
     "en": "right lacrimal bone",
-    "ru": "Правый слёзная кость",
+    "ru": "Правая слёзная кость",
     "system": "sensory"
   },
   "FMA53646": {
     "en": "left lacrimal bone",
-    "ru": "Левый слёзная кость",
+    "ru": "Левая слёзная кость",
     "system": "sensory"
   },
   "FMA53647": {
     "en": "right nasal bone",
-    "ru": "Правый носовая кость",
+    "ru": "Правая носовая кость",
     "system": "skeletal"
   },
   "FMA53648": {
     "en": "left nasal bone",
-    "ru": "Левый носовая кость",
+    "ru": "Левая носовая кость",
     "system": "skeletal"
   },
   "FMA53649": {
@@ -10627,12 +10627,12 @@
   },
   "FMA55140": {
     "en": "right lateral thyrohyoid ligament",
-    "ru": "Правый латеральная щито-подъязычная мышца связка",
+    "ru": "Правая латеральная щито-подъязычная мышца связка",
     "system": "connective"
   },
   "FMA55141": {
     "en": "left lateral thyrohyoid ligament",
-    "ru": "Левый латеральная щито-подъязычная мышца связка",
+    "ru": "Левая латеральная щито-подъязычная мышца связка",
     "system": "connective"
   },
   "FMA55226": {
@@ -11916,12 +11916,12 @@
   },
   "FMA66242": {
     "en": "right first posterior intercostal artery",
-    "ru": "Правый первая задняя межрёберная артерия",
+    "ru": "Правая первая задняя межрёберная артерия",
     "system": "arterial"
   },
   "FMA66243": {
     "en": "left first posterior intercostal artery",
-    "ru": "Левый первая задняя межрёберная артерия",
+    "ru": "Левая первая задняя межрёберная артерия",
     "system": "arterial"
   },
   "FMA66267": {
@@ -11976,12 +11976,12 @@
   },
   "FMA66363": {
     "en": "trunk of right renal artery",
-    "ru": "Туловище правый почечная артерия",
+    "ru": "Туловище правой почечной артерии",
     "system": "arterial"
   },
   "FMA66364": {
     "en": "trunk of left renal artery",
-    "ru": "Туловище левый почечная артерия",
+    "ru": "Туловище левой почечной артерии",
     "system": "arterial"
   },
   "FMA66403": {
@@ -12496,7 +12496,7 @@
   },
   "FMA68728": {
     "en": "lateral branch of right lateral basal segmental artery",
-    "ru": "Латеральная ветвь правый латеральная базальная сегментарный артерия",
+    "ru": "Латеральная ветвь правой латеральной базальной сегментарной артерии",
     "system": "arterial"
   },
   "FMA68733": {
@@ -12546,7 +12546,7 @@
   },
   "FMA68880": {
     "en": "trunk of right apical segmental vein",
-    "ru": "Туловище правый верхушечная сегментарный вена",
+    "ru": "Туловище правой верхушечной сегментарной вены",
     "system": "venous"
   },
   "FMA68919": {
@@ -12631,12 +12631,12 @@
   },
   "FMA69490": {
     "en": "right lateral tarsal artery",
-    "ru": "Правый латеральная предплюсневая кость артерия",
+    "ru": "Правая латеральная предплюсневая кость артерия",
     "system": "arterial"
   },
   "FMA69491": {
     "en": "left lateral tarsal artery",
-    "ru": "Левый латеральная предплюсневая кость артерия",
+    "ru": "Левая латеральная предплюсневая кость артерия",
     "system": "arterial"
   },
   "FMA69494": {
@@ -12656,12 +12656,12 @@
   },
   "FMA69514": {
     "en": "right deep plantar artery",
-    "ru": "Правый глубокая подошвенная артерия",
+    "ru": "Правая глубокая подошвенная артерия",
     "system": "arterial"
   },
   "FMA69515": {
     "en": "left deep plantar artery",
-    "ru": "Левый глубокая подошвенная артерия",
+    "ru": "Левая глубокая подошвенная артерия",
     "system": "arterial"
   },
   "FMA69517": {
@@ -12711,12 +12711,12 @@
   },
   "FMA70249": {
     "en": "right femoral artery",
-    "ru": "Правый бедренная артерия",
+    "ru": "Правая бедренная артерия",
     "system": "arterial"
   },
   "FMA70250": {
     "en": "left femoral artery",
-    "ru": "Левый бедренная артерия",
+    "ru": "Левая бедренная артерия",
     "system": "arterial"
   },
   "FMA70251": {
@@ -12776,12 +12776,12 @@
   },
   "FMA70439": {
     "en": "subdivision of right hepatic artery",
-    "ru": "Подразделение правый печёночная артерия",
+    "ru": "Подразделение правой печёночной артерии",
     "system": "arterial"
   },
   "FMA70440": {
     "en": "subdivision of left hepatic artery",
-    "ru": "Подразделение левый печёночная артерия",
+    "ru": "Подразделение левой печёночной артерии",
     "system": "arterial"
   },
   "FMA70442": {
@@ -12806,7 +12806,7 @@
   },
   "FMA70447": {
     "en": "caudate lobe branch of right hepatic artery",
-    "ru": "Хвостатая доля ветвь правый печёночная артерия",
+    "ru": "Хвостатая доля ветвь правой печёночной артерии",
     "system": "arterial"
   },
   "FMA70449": {
@@ -12831,17 +12831,17 @@
   },
   "FMA70455": {
     "en": "caudate lobe branch of left hepatic artery",
-    "ru": "Хвостатая доля ветвь левый печёночная артерия",
+    "ru": "Хвостатая доля ветвь левой печёночной артерии",
     "system": "arterial"
   },
   "FMA70456": {
     "en": "trunk of right hepatic artery",
-    "ru": "Туловище правый печёночная артерия",
+    "ru": "Туловище правой печёночной артерии",
     "system": "arterial"
   },
   "FMA70457": {
     "en": "trunk of left hepatic artery",
-    "ru": "Туловище левый печёночная артерия",
+    "ru": "Туловище левой печёночной артерии",
     "system": "arterial"
   },
   "FMA70470": {
@@ -12901,7 +12901,7 @@
   },
   "FMA70488": {
     "en": "posterior division of renal artery",
-    "ru": "Задняя дивисион почечная артерия",
+    "ru": "Задняя отдел почечной артерии",
     "system": "arterial"
   },
   "FMA70489": {
@@ -12921,12 +12921,12 @@
   },
   "FMA70492": {
     "en": "ureteric segment of right renal artery",
-    "ru": "Урэтэрик сегмент правый почечная артерия",
+    "ru": "Урэтэрик сегмент правой почечной артерии",
     "system": "arterial"
   },
   "FMA70493": {
     "en": "ureteric segment of left renal artery",
-    "ru": "Урэтэрик сегмент левый почечная артерия",
+    "ru": "Урэтэрик сегмент левой почечной артерии",
     "system": "arterial"
   },
   "FMA70494": {
@@ -13076,12 +13076,12 @@
   },
   "FMA71211": {
     "en": "right lateral thoracic vein",
-    "ru": "Правый латеральная грудная вена",
+    "ru": "Правая латеральная грудная вена",
     "system": "venous"
   },
   "FMA71212": {
     "en": "left lateral thoracic vein",
-    "ru": "Левый латеральная грудная вена",
+    "ru": "Левая латеральная грудная вена",
     "system": "venous"
   },
   "FMA71213": {
@@ -13171,7 +13171,7 @@
   },
   "FMA71708": {
     "en": "right lobe branch of right hepatic artery",
-    "ru": "Правый доля ветвь правый печёночная артерия",
+    "ru": "Правый доля ветвь правой печёночной артерии",
     "system": "arterial"
   },
   "FMA71709": {
@@ -13181,7 +13181,7 @@
   },
   "FMA71710": {
     "en": "left lobe branch of left hepatic artery",
-    "ru": "Левый доля ветвь левый печёночная артерия",
+    "ru": "Левый доля ветвь левой печёночной артерии",
     "system": "arterial"
   },
   "FMA71736": {
@@ -13271,12 +13271,12 @@
   },
   "FMA71905": {
     "en": "subdivision of right hepatic portal vein",
-    "ru": "Подразделение правый печёночная воротная вена",
+    "ru": "Подразделение правой печёночной воротной вены",
     "system": "venous"
   },
   "FMA71906": {
     "en": "subdivision of left hepatic portal vein",
-    "ru": "Подразделение левый печёночная воротная вена",
+    "ru": "Подразделение левой печёночной воротной вены",
     "system": "venous"
   },
   "FMA71907": {
@@ -13311,12 +13311,12 @@
   },
   "FMA72309": {
     "en": "right stylohyoid ligament",
-    "ru": "Правый шилоподъязычная связка",
+    "ru": "Правая шилоподъязычная связка",
     "system": "connective"
   },
   "FMA72311": {
     "en": "left stylohyoid ligament",
-    "ru": "Левый шилоподъязычная связка",
+    "ru": "Левая шилоподъязычная связка",
     "system": "connective"
   },
   "FMA72417": {
@@ -13386,12 +13386,12 @@
   },
   "FMA72669": {
     "en": "right angular gyrus",
-    "ru": "Правый ангулар извилина",
+    "ru": "Правая угловая извилина",
     "system": "nervous"
   },
   "FMA72670": {
     "en": "left angular gyrus",
-    "ru": "Левый ангулар извилина",
+    "ru": "Левая угловая извилина",
     "system": "nervous"
   },
   "FMA72671": {
@@ -13551,12 +13551,12 @@
   },
   "FMA72975": {
     "en": "right occipital lobe",
-    "ru": "Правый затылочная доля",
+    "ru": "Правая затылочная доля",
     "system": "nervous"
   },
   "FMA72976": {
     "en": "left occipital lobe",
-    "ru": "Левый затылочная доля",
+    "ru": "Левая затылочная доля",
     "system": "nervous"
   },
   "FMA72977": {
@@ -13686,7 +13686,7 @@
   },
   "FMA74912": {
     "en": "trunk of anterior interventricular branch of left coronary artery",
-    "ru": "Туловище передняя межжелудочковая ветвь левый коронарная артерия",
+    "ru": "Туловище передняя межжелудочковая ветвь левой коронарной артерии",
     "system": "arterial"
   },
   "FMA75351": {
@@ -13816,12 +13816,12 @@
   },
   "FMA77380": {
     "en": "right popliteal artery",
-    "ru": "Правый подколенная артерия",
+    "ru": "Правая подколенная артерия",
     "system": "arterial"
   },
   "FMA77381": {
     "en": "left popliteal artery",
-    "ru": "Левый подколенная артерия",
+    "ru": "Левая подколенная артерия",
     "system": "arterial"
   },
   "FMA77439": {
@@ -13851,12 +13851,12 @@
   },
   "FMA77949": {
     "en": "right circumflex scapular vein",
-    "ru": "Правый огибающая лопаточная вена",
+    "ru": "Правая огибающая лопаточная вена",
     "system": "venous"
   },
   "FMA77950": {
     "en": "left circumflex scapular vein",
-    "ru": "Левый огибающая лопаточная вена",
+    "ru": "Левая огибающая лопаточная вена",
     "system": "venous"
   },
   "FMA77954": {
@@ -13966,12 +13966,12 @@
   },
   "FMA79979": {
     "en": "sternocostal part of right pectoralis major",
-    "ru": "Стэрнокостал часть правый грудная мышца большая",
+    "ru": "Стэрнокостал часть правой грудной мышцы большая",
     "system": "muscular"
   },
   "FMA79980": {
     "en": "sternocostal part of left pectoralis major",
-    "ru": "Стэрнокостал часть левый грудная мышца большая",
+    "ru": "Стэрнокостал часть левой грудной мышцы большая",
     "system": "muscular"
   },
   "FMA81150": {
@@ -14026,17 +14026,17 @@
   },
   "FMA82695": {
     "en": "trunk of right portal vein",
-    "ru": "Туловище правый воротная вена",
+    "ru": "Туловище правой воротной вены",
     "system": "venous"
   },
   "FMA82697": {
     "en": "trunk of left portal vein",
-    "ru": "Туловище левый воротная вена",
+    "ru": "Туловище левой воротной вены",
     "system": "venous"
   },
   "FMA82706": {
     "en": "caudate lobe branch of right portal vein",
-    "ru": "Хвостатая доля ветвь правый воротная вена",
+    "ru": "Хвостатая доля ветвь правой воротной вены",
     "system": "venous"
   },
   "FMA82734": {
@@ -14409,32 +14409,32 @@
   },
   "FMA86340": {
     "en": "superior segmental branch of right renal artery",
-    "ru": "Верхняя сегментарный ветвь правый почечная артерия",
+    "ru": "Верхняя сегментарный ветвь правой почечной артерии",
     "system": "arterial"
   },
   "FMA86341": {
     "en": "superior segmental branch of left renal artery",
-    "ru": "Верхняя сегментарный ветвь левый почечная артерия",
+    "ru": "Верхняя сегментарный ветвь левой почечной артерии",
     "system": "arterial"
   },
   "FMA86346": {
     "en": "inferior segmental branch of right renal artery",
-    "ru": "Нижняя сегментарный ветвь правый почечная артерия",
+    "ru": "Нижняя сегментарный ветвь правой почечной артерии",
     "system": "arterial"
   },
   "FMA86347": {
     "en": "inferior segmental branch of left renal artery",
-    "ru": "Нижняя сегментарный ветвь левый почечная артерия",
+    "ru": "Нижняя сегментарный ветвь левой почечной артерии",
     "system": "arterial"
   },
   "FMA86348": {
     "en": "posterior segmental branch of right renal artery",
-    "ru": "Задняя сегментарный ветвь правый почечная артерия",
+    "ru": "Задняя сегментарный ветвь правой почечной артерии",
     "system": "arterial"
   },
   "FMA86349": {
     "en": "posterior segmental branch of left renal artery",
-    "ru": "Задняя сегментарный ветвь левый почечная артерия",
+    "ru": "Задняя сегментарный ветвь левой почечной артерии",
     "system": "arterial"
   },
   "FMA86375": {
@@ -14599,12 +14599,12 @@
   },
   "FMA268667": {
     "en": "right recurrent interosseous artery",
-    "ru": "Правый возвратная межкостная артерия",
+    "ru": "Правая возвратная межкостная артерия",
     "system": "arterial"
   },
   "FMA268669": {
     "en": "left recurrent interosseous artery",
-    "ru": "Левый возвратная межкостная артерия",
+    "ru": "Левая возвратная межкостная артерия",
     "system": "arterial"
   },
   "FMA268712": {
@@ -14992,7 +14992,7 @@
   },
   "FMA8617": {
     "en": "right apical segmental artery",
-    "ru": "Правый верхушечная сегментарный артерия",
+    "ru": "Правая верхушечная сегментарный артерия",
     "system": "arterial"
   },
   "FMA8619": {
@@ -15012,7 +15012,7 @@
   },
   "FMA8631": {
     "en": "right lateral basal segmental artery",
-    "ru": "Правый латеральная базальная сегментарный артерия",
+    "ru": "Правая латеральная базальная сегментарный артерия",
     "system": "arterial"
   },
   "FMA8632": {
@@ -15042,7 +15042,7 @@
   },
   "FMA8661": {
     "en": "right apical segmental vein",
-    "ru": "Правый верхушечная сегментарный вена",
+    "ru": "Правая верхушечная сегментарный вена",
     "system": "venous"
   },
   "FMA8664": {
@@ -15062,7 +15062,7 @@
   },
   "FMA8671": {
     "en": "right common basal vein",
-    "ru": "Правый общая базальная вена",
+    "ru": "Правая общая базальная вена",
     "system": "venous"
   },
   "FMA8672": {
@@ -15077,7 +15077,7 @@
   },
   "FMA8676": {
     "en": "left common basal vein",
-    "ru": "Левый общая базальная вена",
+    "ru": "Левая общая базальная вена",
     "system": "venous"
   },
   "FMA8677": {
@@ -15333,12 +15333,12 @@
   },
   "FMA13373": {
     "en": "right pectoralis major",
-    "ru": "Правый грудная мышца большая",
+    "ru": "Правая грудная мышца большая",
     "system": "muscular"
   },
   "FMA13374": {
     "en": "left pectoralis major",
-    "ru": "Левый грудная мышца большая",
+    "ru": "Левая грудная мышца большая",
     "system": "muscular"
   },
   "FMA13478": {
@@ -15421,17 +15421,17 @@
   },
   "FMA15422": {
     "en": "posterior branch of right portal vein",
-    "ru": "Задняя ветвь правый воротная вена",
+    "ru": "Задняя ветвь правой воротной вены",
     "system": "venous"
   },
   "FMA15427": {
     "en": "medial branch of left portal vein",
-    "ru": "Медиальная ветвь левый воротная вена",
+    "ru": "Медиальная ветвь левой воротной вены",
     "system": "venous"
   },
   "FMA15430": {
     "en": "lateral branch of left portal vein",
-    "ru": "Латеральная ветвь левый воротная вена",
+    "ru": "Латеральная ветвь левой воротной вены",
     "system": "venous"
   },
   "FMA15748": {
@@ -15531,12 +15531,12 @@
   },
   "FMA20796": {
     "en": "right deep femoral artery",
-    "ru": "Правый глубокая бедренная артерия",
+    "ru": "Правая глубокая бедренная артерия",
     "system": "arterial"
   },
   "FMA20797": {
     "en": "left deep femoral artery",
-    "ru": "Левый глубокая бедренная артерия",
+    "ru": "Левая глубокая бедренная артерия",
     "system": "arterial"
   },
   "FMA22672": {
@@ -15656,12 +15656,12 @@
   },
   "FMA24965": {
     "en": "right hip",
-    "ru": "Правый тазобедренная область",
+    "ru": "Правая тазобедренная область",
     "system": "skeletal"
   },
   "FMA24966": {
     "en": "left hip",
-    "ru": "Левый тазобедренная область",
+    "ru": "Левая тазобедренная область",
     "system": "skeletal"
   },
   "FMA24968": {
@@ -15701,12 +15701,12 @@
   },
   "FMA25558": {
     "en": "right lateral chest wall",
-    "ru": "Правый латеральная грудь стенка",
+    "ru": "Правая латеральная грудь стенка",
     "system": "muscular"
   },
   "FMA25559": {
     "en": "left lateral chest wall",
-    "ru": "Левый латеральная грудь стенка",
+    "ru": "Левая латеральная грудь стенка",
     "system": "muscular"
   },
   "FMA25571": {
@@ -16011,12 +16011,12 @@
   },
   "FMA50071": {
     "en": "right lateral superficial chest wall",
-    "ru": "Правый латеральная поверхностная грудь стенка",
+    "ru": "Правая латеральная поверхностная грудь стенка",
     "system": "muscular"
   },
   "FMA50072": {
     "en": "left lateral superficial chest wall",
-    "ru": "Левый латеральная поверхностная грудь стенка",
+    "ru": "Левая латеральная поверхностная грудь стенка",
     "system": "muscular"
   },
   "FMA50082": {
@@ -16036,12 +16036,12 @@
   },
   "FMA50561": {
     "en": "right pontine artery",
-    "ru": "Правый мостовая артерия",
+    "ru": "Правая мостовая артерия",
     "system": "arterial"
   },
   "FMA50562": {
     "en": "left pontine artery",
-    "ru": "Левый мостовая артерия",
+    "ru": "Левая мостовая артерия",
     "system": "arterial"
   },
   "FMA50584": {
@@ -16359,12 +16359,12 @@
   },
   "FMA59671": {
     "en": "right lateral wall of internal nose",
-    "ru": "Правый латеральная стенка внутренняя нос",
+    "ru": "Правая латеральная стенка внутренняя нос",
     "system": "respiratory"
   },
   "FMA59672": {
     "en": "left lateral wall of internal nose",
-    "ru": "Левый латеральная стенка внутренняя нос",
+    "ru": "Левая латеральная стенка внутренняя нос",
     "system": "respiratory"
   },
   "FMA59748": {
@@ -16564,12 +16564,12 @@
   },
   "FMA61732": {
     "en": "right parietal part of head",
-    "ru": "Правый теменная часть головка",
+    "ru": "Правая теменная часть головка",
     "system": "nervous"
   },
   "FMA61733": {
     "en": "left parietal part of head",
-    "ru": "Левый теменная часть головка",
+    "ru": "Левая теменная часть головка",
     "system": "nervous"
   },
   "FMA61819": {
@@ -16722,22 +16722,22 @@
   },
   "FMA68845": {
     "en": "right basal segmental artery",
-    "ru": "Правый базальная сегментарный артерия",
+    "ru": "Правая базальная сегментарный артерия",
     "system": "arterial"
   },
   "FMA68846": {
     "en": "left basal segmental artery",
-    "ru": "Левый базальная сегментарный артерия",
+    "ru": "Левая базальная сегментарный артерия",
     "system": "arterial"
   },
   "FMA69566": {
     "en": "trunk of right lateral plantar artery",
-    "ru": "Туловище правый латеральная подошвенная артерия",
+    "ru": "Туловище правой латеральной подошвенной артерии",
     "system": "arterial"
   },
   "FMA69567": {
     "en": "trunk of left lateral plantar artery",
-    "ru": "Туловище левый латеральная подошвенная артерия",
+    "ru": "Туловище левой латеральной подошвенной артерии",
     "system": "arterial"
   },
   "FMA70347": {
@@ -16870,32 +16870,32 @@
   },
   "FMA72969": {
     "en": "right frontal lobe",
-    "ru": "Правый лобная доля",
+    "ru": "Правая лобная доля",
     "system": "nervous"
   },
   "FMA72970": {
     "en": "left frontal lobe",
-    "ru": "Левый лобная доля",
+    "ru": "Левая лобная доля",
     "system": "nervous"
   },
   "FMA72971": {
     "en": "right temporal lobe",
-    "ru": "Правый височная доля",
+    "ru": "Правая височная доля",
     "system": "nervous"
   },
   "FMA72972": {
     "en": "left temporal lobe",
-    "ru": "Левый височная доля",
+    "ru": "Левая височная доля",
     "system": "nervous"
   },
   "FMA72973": {
     "en": "right parietal lobe",
-    "ru": "Правый теменная доля",
+    "ru": "Правая теменная доля",
     "system": "nervous"
   },
   "FMA72974": {
     "en": "left parietal lobe",
-    "ru": "Левый теменная доля",
+    "ru": "Левая теменная доля",
     "system": "nervous"
   },
   "FMA72979": {
@@ -17188,12 +17188,12 @@
   },
   "FMA242207": {
     "en": "cortex of right frontal lobe",
-    "ru": "Кора правый лобная доля",
+    "ru": "Кора правой лобной доли",
     "system": "nervous"
   },
   "FMA242209": {
     "en": "cortex of left frontal lobe",
-    "ru": "Кора левый лобная доля",
+    "ru": "Кора левой лобной доли",
     "system": "nervous"
   },
   "FMA242609": {
