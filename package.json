@@ -1,6 +1,7 @@
 {
   "name": "anatomy-atlas-ru",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "description": "Открытый русскоязычный 3D-анатомический атлас человека на базе BodyParts3D/FMA.",
   "private": true,
   "engines": {
     "node": ">=22.13.0"
@@ -9,6 +10,8 @@
     "dev": "vite --host 0.0.0.0 --port 3016",
     "build": "vite build",
     "build:vercel": "vite build",
+    "tauri": "tauri",
+    "tauri:build": "tauri build",
     "check": "tsc --noEmit",
     "test:smoke": "node --experimental-strip-types scripts/validate-interactions.mjs && node scripts/validate-atlas.mjs",
     "test:e2e": "playwright test"
@@ -16,6 +19,7 @@
   "dependencies": {
     "@base-ui/react": "1.7.0",
     "@shadcn/react": "0.3.0",
+    "@tauri-apps/api": "^2.11.1",
     "@types/three": "^0.159.0",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
@@ -42,6 +46,7 @@
     "@openai/sites-vite-plugin": "0.2.0",
     "@playwright/test": "^1.63.0",
     "@tailwindcss/postcss": "4.2.1",
+    "@tauri-apps/cli": "^2.11.4",
     "@types/node": "22.19.19",
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",

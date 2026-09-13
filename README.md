@@ -28,6 +28,21 @@ The application is based on [Human Atlas by ashemag](https://github.com/ashemag/
 
 ![Mobile interface](docs/screenshots/mobile.png)
 
+## Try it online
+
+Откройте web-версию в браузере: [Anatomy Atlas RU на GitHub Pages](https://zigmyndovi4-ship-it.github.io/anatomy-atlas-ru/).
+Она собирается из того же исходного дерева, что и desktop-приложения.
+
+## Desktop downloads
+
+| Platform | Format | Architecture |
+| --- | --- | --- |
+| Web | Browser | любой современный браузер |
+| macOS | DMG | Apple Silicon (`aarch64`) |
+| Windows | EXE | `x86_64` |
+
+Установщики v0.1.1 будут доступны в [GitHub Releases](https://github.com/zigmyndovi4-ship-it/anatomy-atlas-ru/releases).
+
 ## Запуск
 
 Требования: Node.js 22.13+ и npm.
@@ -44,6 +59,17 @@ Production-сборка:
 ```sh
 npm run build
 ```
+
+Начиная с v0.1.1, GitHub Actions собирает desktop-пакеты из этого же
+Vite/React-приложения.
+
+Первые сборки не подписаны коммерческими сертификатами: macOS может показать
+предупреждение разработчика, а Windows — предупреждение SmartScreen. Не
+отключайте системные средства защиты целиком; проверяйте источник и checksum
+релиза.
+
+GitHub Release assets имеют собственный `download_count`, который можно
+проверять через GitHub API. Это число не равно web-трафику GitHub Pages.
 
 ## Проверки
 
@@ -79,16 +105,16 @@ responsive layout и отсутствие console/network errors на desktop, t
 
 ## Статус
 
-**v0.1.0 — первый публичный release.**
+**v0.1.1 — первый desktop release.**
 
 Локализация завершена: 3 432 из 3 432 concepts заполнены. Smoke, typecheck,
 build и Chromium/WebGL e2e QA проходят. Известные ограничения перечислены в
-[release notes](docs/RELEASE_NOTES_v0.1.0.md).
+[release notes](docs/RELEASE_NOTES_v0.1.1.md).
 
 ## Roadmap
 
 - дальнейшее улучшение визуального UX и поиска;
-- desktop app;
+- улучшение desktop app;
 - избранное и связанные структуры;
 - учебный режим и дополнительные тесты;
 - optional AI explanations без изменения базовых анатомических данных.
