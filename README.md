@@ -1,49 +1,107 @@
 # Anatomy Atlas RU
 
-An interactive 3D anatomy explorer for an adult male reference model. The working product name is **Anatomy Atlas RU**; the project is based on [Human Atlas by ashemag](https://github.com/ashemag/human-atlas), with Russian localization and additional product changes maintained here.
+An open-source Russian-language 3D human anatomy atlas based on BodyParts3D/FMA.
+The application is based on [Human Atlas by ashemag](https://github.com/ashemag/human-atlas), with Russian localization and additional product changes maintained in this repository.
+
+Открытый русскоязычный 3D-анатомический атлас человека для образовательного и справочного использования.
 
 ## Возможности
 
-- интерактивная 3D-модель анатомических структур BodyParts3D;
-- интерфейс на русском и английском языках;
-- поиск по английским и русским названиям, aliases и идентификаторам FMA/концептов;
-- выбор структуры, просмотр связанных частей, изоляция и режим разборки;
-- переключение анатомических систем и управление сценой на мобильных экранах;
-- 3 432 именованных concepts, переведённых на русский язык.
+- интерактивная WebGL-модель взрослой мужской референсной анатомии;
+- 3 432 анатомические структуры и русская локализация 3 432/3 432 concepts;
+- интерфейс и карточки структур на русском и английском языках;
+- поиск по русским и английским названиям, aliases и FMA ID;
+- выбор структуры, detail card, связанные части, изоляция и режим разборки;
+- responsive UI для desktop, tablet и mobile;
+- базовая keyboard/accessibility поддержка;
+- локальная работа без API-ключей, аналитики и телеметрии.
 
-## Локальный запуск
+## Скриншоты
 
-Требуется Node.js 22.13 или новее. API-ключи и аккаунты не нужны.
+![Главный экран](docs/screenshots/desktop-home.png)
+
+![Поиск](docs/screenshots/desktop-search.png)
+
+![Выбранная структура](docs/screenshots/desktop-structure.png)
+
+![English interface](docs/screenshots/desktop-en.png)
+
+![Mobile interface](docs/screenshots/mobile.png)
+
+## Запуск
+
+Требования: Node.js 22.13+ и npm.
 
 ```sh
 npm install
 npm run dev
 ```
 
-Откройте http://localhost:3016. Production-сборка выполняется командой `npm run build` и создаёт каталог `dist/`.
+Откройте <http://localhost:3016>.
+
+Production-сборка:
+
+```sh
+npm run build
+```
 
 ## Проверки
 
 ```sh
+npm run test:smoke
+npm run test:e2e
 npm run check
-node scripts/translation/status.mjs
-node scripts/validate-atlas.mjs
-node scripts/validate-interactions.mjs
 npm run build
 ```
 
-## Происхождение и лицензии
+Playwright suite проверяет Chromium/WebGL, поиск, selection flow, RU/EN toggle,
+responsive layout и отсутствие console/network errors на desktop, tablet и mobile.
 
-Исходный код приложения основан на [Human Atlas](https://github.com/ashemag/human-atlas) авторства ashemag и распространяется по [MIT License](LICENSE). Русская локализация, aliases, документация и дополнительные изменения выполнены в этом репозитории.
+## Источники данных
 
-Анатомические данные происходят из BodyParts3D 4.0, © The Database Center for Life Science, и распространяются по [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Полная обязательная атрибуция и сведения об адаптации находятся в [public/ATTRIBUTION.md](public/ATTRIBUTION.md); сводка credits находится в [public/CREDITS.md](public/CREDITS.md).
+Анатомическая модель и исходные метаданные происходят из BodyParts3D 4.0,
+© The Database Center for Life Science. Concept IDs и английские названия
+связаны с FMA. Terminologia Anatomica 2 / FIPAT использовалась как один из
+источников терминологической сверки в QA-проходах.
 
-Модель представляет взрослую мужскую референсную анатомию, не охватывает все возможные структуры и варианты и предназначена для обучения, а не для диагностики или хирургической навигации.
+Русский словарь этого проекта не является официальным изданием TA2 и не
+утверждает воспроизведение полного русского TA2.
+
+## Лицензии и attribution
+
+- код приложения — [MIT License](LICENSE);
+- исходный проект — [Human Atlas by ashemag](https://github.com/ashemag/human-atlas), авторство и лицензия сохранены;
+- анатомические данные BodyParts3D — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/);
+- полная attribution, ссылки на источники и сведения об адаптации — [public/ATTRIBUTION.md](public/ATTRIBUTION.md);
+- сводка credits — [public/CREDITS.md](public/CREDITS.md).
+
+Не заявляются права на исходную геометрию и данные сверх условий соответствующих лицензий.
 
 ## Статус
 
-Русская локализация завершена: 3 432 из 3 432 concepts переведены, пропуски отсутствуют. Проект собирается локально и сохраняет исходные модельные данные, геометрию, идентификаторы и attribution.
+**v0.1.0 — первый публичный release.**
+
+Локализация завершена: 3 432 из 3 432 concepts заполнены. Smoke, typecheck,
+build и Chromium/WebGL e2e QA проходят. Известные ограничения перечислены в
+[release notes](docs/RELEASE_NOTES_v0.1.0.md).
 
 ## Roadmap
 
-Приоритеты развития зафиксированы в [docs/ROADMAP.md](docs/ROADMAP.md). Ближайшая задача — поддерживать стабильность, локализацию, документацию, credits/licenses и QA. Desktop-упаковка, избранное и расширенный поиск остаются следующими этапами и не входят в текущий ночной проход.
+- дальнейшее улучшение визуального UX и поиска;
+- desktop app;
+- избранное и связанные структуры;
+- учебный режим и дополнительные тесты;
+- optional AI explanations без изменения базовых анатомических данных.
+
+Сроки не обещаются; roadmap не является обязательством по релизам.
+
+## Contributing
+
+См. [CONTRIBUTING.md](CONTRIBUTING.md). Приветствуются issues, bug reports,
+предложения исправлений терминологии и pull requests с понятным описанием.
+
+## Disclaimer
+
+Проект предназначен только для образовательных и справочных целей. Он не
+является заменой профессиональной медицинской консультации, диагностики,
+лечения или хирургической навигации.
