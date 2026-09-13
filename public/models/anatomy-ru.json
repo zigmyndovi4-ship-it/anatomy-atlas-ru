@@ -10785,112 +10785,112 @@
   },
   "FMA55680": {
     "en": "right upper lateral secondary incisor tooth",
-    "ru": "Правый верхняя латеральная вторичная резец зуб",
+    "ru": "Правый верхний латеральный постоянный резец",
     "system": "skeletal"
   },
   "FMA55681": {
     "en": "right upper central secondary incisor tooth",
-    "ru": "Правый верхняя центральная вторичная резец зуб",
+    "ru": "Правый верхний центральный постоянный резец",
     "system": "skeletal"
   },
   "FMA55682": {
     "en": "left upper central secondary incisor tooth",
-    "ru": "Левый верхняя центральная вторичная резец зуб",
+    "ru": "Левый верхний центральный постоянный резец",
     "system": "skeletal"
   },
   "FMA55683": {
     "en": "left upper lateral secondary incisor tooth",
-    "ru": "Левый верхняя латеральная вторичная резец зуб",
+    "ru": "Левый верхний латеральный постоянный резец",
     "system": "skeletal"
   },
   "FMA55686": {
     "en": "right lower secondary canine tooth",
-    "ru": "Правый нижняя вторичная клык зуб",
+    "ru": "Правый нижний постоянный клык",
     "system": "skeletal"
   },
   "FMA55687": {
     "en": "left lower secondary canine tooth",
-    "ru": "Левый нижняя вторичная клык зуб",
+    "ru": "Левый нижний постоянный клык",
     "system": "skeletal"
   },
   "FMA55688": {
     "en": "right upper second secondary premolar tooth",
-    "ru": "Правый верхняя вторая вторичная премоляр зуб",
+    "ru": "Правый верхний второй постоянный премоляр",
     "system": "skeletal"
   },
   "FMA55689": {
     "en": "right upper first secondary premolar tooth",
-    "ru": "Правый верхняя первая вторичная премоляр зуб",
+    "ru": "Правый верхний первый постоянный премоляр",
     "system": "skeletal"
   },
   "FMA55690": {
     "en": "left upper first secondary premolar tooth",
-    "ru": "Левый верхняя первая вторичная премоляр зуб",
+    "ru": "Левый верхний первый постоянный премоляр",
     "system": "skeletal"
   },
   "FMA55691": {
     "en": "left upper second secondary premolar tooth",
-    "ru": "Левый верхняя вторая вторичная премоляр зуб",
+    "ru": "Левый верхний второй постоянный премоляр",
     "system": "skeletal"
   },
   "FMA55692": {
     "en": "left lower second secondary premolar tooth",
-    "ru": "Левый нижняя вторая вторичная премоляр зуб",
+    "ru": "Левый нижний второй постоянный премоляр",
     "system": "skeletal"
   },
   "FMA55693": {
     "en": "left lower first secondary premolar tooth",
-    "ru": "Левый нижняя первая вторичная премоляр зуб",
+    "ru": "Левый нижний первый постоянный премоляр",
     "system": "skeletal"
   },
   "FMA55694": {
     "en": "right lower first secondary premolar tooth",
-    "ru": "Правый нижняя первая вторичная премоляр зуб",
+    "ru": "Правый нижний первый постоянный премоляр",
     "system": "skeletal"
   },
   "FMA55695": {
     "en": "right lower second secondary premolar tooth",
-    "ru": "Правый нижняя вторая вторичная премоляр зуб",
+    "ru": "Правый нижний второй постоянный премоляр",
     "system": "skeletal"
   },
   "FMA55697": {
     "en": "right upper second secondary molar tooth",
-    "ru": "Правый верхняя вторая вторичная моляр зуб",
+    "ru": "Правый верхний второй постоянный моляр",
     "system": "skeletal"
   },
   "FMA55698": {
     "en": "right upper first secondary molar tooth",
-    "ru": "Правый верхняя первая вторичная моляр зуб",
+    "ru": "Правый верхний первый постоянный моляр",
     "system": "skeletal"
   },
   "FMA55699": {
     "en": "left upper first secondary molar tooth",
-    "ru": "Левый верхняя первая вторичная моляр зуб",
+    "ru": "Левый верхний первый постоянный моляр",
     "system": "skeletal"
   },
   "FMA55700": {
     "en": "left upper second secondary molar tooth",
-    "ru": "Левый верхняя вторая вторичная моляр зуб",
+    "ru": "Левый верхний второй постоянный моляр",
     "system": "skeletal"
   },
   "FMA55703": {
     "en": "left lower second secondary molar tooth",
-    "ru": "Левый нижняя вторая вторичная моляр зуб",
+    "ru": "Левый нижний второй постоянный моляр",
     "system": "skeletal"
   },
   "FMA55704": {
     "en": "left lower first secondary molar tooth",
-    "ru": "Левый нижняя первая вторичная моляр зуб",
+    "ru": "Левый нижний первый постоянный моляр",
     "system": "skeletal"
   },
   "FMA55705": {
     "en": "right lower first secondary molar tooth",
-    "ru": "Правый нижняя первая вторичная моляр зуб",
+    "ru": "Правый нижний первый постоянный моляр",
     "system": "skeletal"
   },
   "FMA55706": {
     "en": "right lower second secondary molar tooth",
-    "ru": "Правый нижняя вторая вторичная моляр зуб",
+    "ru": "Правый нижний второй постоянный моляр",
     "system": "skeletal"
   },
   "FMA55712": {
@@ -10955,12 +10955,12 @@
   },
   "FMA55798": {
     "en": "right upper secondary canine tooth",
-    "ru": "Правый верхняя вторичная клык зуб",
+    "ru": "Правый верхний постоянный клык",
     "system": "skeletal"
   },
   "FMA55799": {
     "en": "left upper secondary canine tooth",
-    "ru": "Левый верхняя вторичная клык зуб",
+    "ru": "Левый верхний постоянный клык",
     "system": "skeletal"
   },
   "FMA55801": {
@@ -11005,22 +11005,22 @@
   },
   "FMA57140": {
     "en": "right lower lateral secondary incisor tooth",
-    "ru": "Правый нижняя латеральная вторичная резец зуб",
+    "ru": "Правый нижний латеральный постоянный резец",
     "system": "skeletal"
   },
   "FMA57141": {
     "en": "left lower lateral secondary incisor tooth",
-    "ru": "Левый нижняя латеральная вторичная резец зуб",
+    "ru": "Левый нижний латеральный постоянный резец",
     "system": "skeletal"
   },
   "FMA57142": {
     "en": "right lower central secondary incisor tooth",
-    "ru": "Правый нижняя центральная вторичная резец зуб",
+    "ru": "Правый нижний центральный постоянный резец",
     "system": "skeletal"
   },
   "FMA57143": {
     "en": "left lower central secondary incisor tooth",
-    "ru": "Левый нижняя центральная вторичная резец зуб",
+    "ru": "Левый нижний центральный постоянный резец",
     "system": "skeletal"
   },
   "FMA57965": {

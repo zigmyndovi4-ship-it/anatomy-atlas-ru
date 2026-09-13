@@ -265,3 +265,25 @@ validator-подозрения закрыты, включая left/right-сог�
 Validator после прохода сообщает 43 detector findings: 28 embedded
 laterality/agreement, 14 transliteration и 1 morphology/agreement. Detector
 остаётся диагностическим и не является медицинским источником истины.
+
+## Final manual review of remaining 39 terms
+
+Из 39 строк финального review-файла:
+
+- `APPLY/HIGH`: 28 — зубные структуры с однозначной русской стоматологической формой;
+- `APPLY/MEDIUM`: 0;
+- `KEEP`: 0;
+- `DEFER`: 11.
+
+Применены формы для постоянных резцов, клыков, премоляров и моляров с
+сохранением стороны, верхней/нижней челюсти и номера зуба. В `DEFER` оставлены
+межпозвоночный диск осевого позвонка без TA mapping, FMA aggregate/cluster и
+«side» структур костного таза и внутреннего носа. Эти строки требуют внешней
+медицинской редакторской проверки.
+
+Артефакт прохода: `scripts/translation/final-review-39.tsv`.
+
+После этого прохода validator сообщает 15 detector findings: 14 оставшихся
+транслитерационных/служебных форм и 1 morphology/agreement для deferred
+межпозвоночного диска. Эти findings не являются основанием для догадочного
+изменения словаря.
