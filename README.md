@@ -45,6 +45,29 @@ The application is based on [Human Atlas by ashemag](https://github.com/ashemag/
 
 Установщики v0.1.1 будут доступны в [GitHub Releases](https://github.com/zigmyndovi4-ship-it/anatomy-atlas-ru/releases).
 
+## macOS: если система пишет, что приложение повреждено
+
+В v0.1.1 приложение не подписано Apple Developer ID и не прошло notarization.
+Поэтому macOS иногда показывает сообщение «Приложение повреждено, и его не
+удается открыть». Обычно это означает, что Gatekeeper заблокировал unsigned
+приложение, а не что DMG действительно повреждён.
+
+Перед запуском скачайте DMG только со [страницы релиза](https://github.com/zigmyndovi4-ship-it/anatomy-atlas-ru/releases)
+и убедитесь, что это официальный файл проекта.
+
+1. Скопируйте `Anatomy Atlas RU.app` из DMG в `/Applications`.
+2. Откройте Terminal.
+3. Выполните команду только для приложения, скачанного из официального релиза:
+
+```bash
+xattr -dr com.apple.quarantine "/Applications/Anatomy Atlas RU.app"
+```
+
+После этого запустите приложение обычным способом. Команда снимает quarantine
+только с указанного bundle и не отключает Gatekeeper для всей системы. Это
+временное ограничение unsigned-сборки v0.1.1; в будущей версии планируется
+подписанный и notarized macOS installer.
+
 ## Запуск
 
 Требования: Node.js 22.13+ и npm.

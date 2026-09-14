@@ -17,6 +17,30 @@ its password, an Apple team identifier, and notarization API-key material. The
 exact secret names should be selected when signing is implemented. Until then,
 the DMG is unsigned/ad-hoc and macOS may display an identity warning.
 
+### Если macOS пишет, что приложение повреждено
+
+Для v0.1.1 это может быть результатом Gatekeeper: приложение не имеет
+подписи Apple Developer ID и notarization, поэтому macOS может считать его
+недоверенным и показать сообщение «Приложение повреждено, и его не удается
+открыть». Это не доказывает, что файл действительно повреждён.
+
+Пользователь должен сначала скачать DMG с официальной [страницы релиза](https://github.com/zigmyndovi4-ship-it/anatomy-atlas-ru/releases),
+скопировать `Anatomy Atlas RU.app` в `/Applications`, открыть Terminal и
+выполнить:
+
+```bash
+xattr -dr com.apple.quarantine "/Applications/Anatomy Atlas RU.app"
+```
+
+После этого приложение можно открыть обычным способом. Команда действует
+только на явно указанный application bundle; она не отключает Gatekeeper
+глобально. Не следует применять её к приложениям из неизвестных источников и
+не следует отключать системную защиту целиком.
+
+Это временное ограничение unsigned-сборки v0.1.1. После появления Apple
+Developer ID signing и notarization эта инструкция для подписанных релизов не
+понадобится.
+
 ## Windows
 
 Signed Windows installers require a code-signing certificate and its protected

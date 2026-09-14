@@ -15,6 +15,25 @@
 
 DMG для Apple Silicon (`aarch64`).
 
+### macOS: если система пишет, что приложение повреждено
+
+Сборка v0.1.1 не подписана Apple Developer ID и не прошла notarization.
+Из-за этого Gatekeeper может показать сообщение «Приложение повреждено, и его
+не удается открыть». Это предупреждение о доверии к unsigned-приложению, а не
+обязательный признак повреждения файла.
+
+Скачайте DMG только со [страницы релиза](https://github.com/zigmyndovi4-ship-it/anatomy-atlas-ru/releases),
+скопируйте `Anatomy Atlas RU.app` в `/Applications`, откройте Terminal и
+выполните:
+
+```bash
+xattr -dr com.apple.quarantine "/Applications/Anatomy Atlas RU.app"
+```
+
+Затем запустите приложение обычным способом. Не выполняйте эту команду для
+файлов из неизвестных источников. Это временное ограничение v0.1.1; текущий
+релиз не является подписанным Apple Developer ID продуктом.
+
 ## Windows
 
 NSIS EXE installer для Windows x64.
