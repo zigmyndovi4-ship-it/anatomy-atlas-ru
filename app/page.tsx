@@ -51,7 +51,7 @@ export default function Home(){
  onClick={toggleLanguage}
  aria-label={language==='ru'?'Switch to English':'Переключить на русский'}
  title={language==='ru'?'English':'Русский'}
->{t.language}</Button><Button variant="ghost" className={panel==='search'?'active':''} onClick={()=>openPanel('search')} aria-label={t.searchAnatomy}><Search size={18}/><span>{t.findStructure}</span><kbd>/</kbd></Button><Button variant="ghost" className="icon-button" aria-label={t.aboutAtlas} onClick={openAbout}><Info size={18}/></Button></nav>
+>{t.language}</Button><Button variant="ghost" className={panel==='search'?'active':''} onClick={()=>openPanel('search')} aria-label={t.searchAnatomy}><Search size={18}/><span>{t.findStructure}</span><kbd>/</kbd></Button>{!isTauriApp()&&<DesktopDownloadMenu t={t}/>}<Button variant="ghost" className="icon-button" aria-label={t.aboutAtlas} onClick={openAbout}><Info size={18}/></Button></nav>
   <section className={`layers-panel glass ${panel==='layers'?'mobile-open':''}`} aria-label={t.anatomicalLayers}>
    <div className="panel-heading"><span>{t.systems}</span><Button variant="ghost" className="mobile-only icon-button" onClick={()=>setPanel(null)} aria-label={t.closeSystems}><X size={18}/></Button><Badge variant="secondary" className="desktop-only small-number">{activeSystems.length}</Badge></div>
    <div className="layer-presets"><Button variant="ghost" aria-pressed={activeSystems.every(x=>state.visible.includes(x.id))} onClick={()=>setState(s=>({...s,selected:[],isolate:false,visible:activeSystems.map(x=>x.id)}))}>{t.all}</Button><Button variant="ghost" aria-pressed={state.visible.length===1&&state.visible[0]==='skeletal'} onClick={()=>setState(s=>({...s,selected:[],isolate:false,visible:['skeletal']}))}>{t.skeleton}</Button><Button variant="ghost" aria-pressed={state.visible.length===6&&['cardiac','respiratory','digestive','urinary','endocrine','reproductive'].every(id=>state.visible.includes(id as SystemId))} onClick={()=>setState(s=>({...s,selected:[],isolate:false,visible:['cardiac','respiratory','digestive','urinary','endocrine','reproductive']}))}>{t.organs}</Button></div>
@@ -81,4 +81,20 @@ function DesktopDownloads({t}:{t:typeof UI.en|typeof UI.ru}){
  useEffect(()=>{const agent=navigator.userAgent.toLowerCase();setPlatform(agent.includes('mac')?'mac':agent.includes('win')?'windows':null);},[]);
  const download=(key:'mac'|'windows')=>{const item=DOWNLOADS[key];trackEvent(item.event,{version:'0.1.1',architecture:item.architecture,format:item.format});};
  return <section className="download-section" aria-labelledby="desktop-download-title"><h3 id="desktop-download-title">{t.desktopDownloads}</h3><div className="download-options"><a className={`download-option ${platform==='mac'?'recommended':''}`} href={DOWNLOADS.mac.href} target="_blank" rel="noreferrer" onClick={()=>download('mac')}><span className="download-option-main"><Download size={16}/><span>{t.downloadMac}</span><ExternalLink size={13}/></span><small>{t.macDownloadMeta}</small></a><a className={`download-option ${platform==='windows'?'recommended':''}`} href={DOWNLOADS.windows.href} target="_blank" rel="noreferrer" onClick={()=>download('windows')}><span className="download-option-main"><Download size={16}/><span>{t.downloadWindows}</span><ExternalLink size={13}/></span><small>{t.windowsDownloadMeta}</small></a></div><p className="download-warning">{t.unsignedBuilds} <a href={RELEASE_URL} target="_blank" rel="noreferrer">{t.releaseDetails}</a></p></section>;
+}
+
+function DesktopDownloadMenu({t}:{t:typeof UI.en|typeof UI.ru}){
+ const [open,setOpen]=useState(false);
+ const wrapper=useRef<HTMLDivElement>(null);
+ const firstLink=useRef<HTMLAnchorElement>(null);
+ useEffect(()=>{
+  if(!open)return;
+  const close=(event:MouseEvent)=>{if(!wrapper.current?.contains(event.target as Node))setOpen(false);};
+  const escape=(event:KeyboardEvent)=>{if(event.key==='Escape'){setOpen(false);wrapper.current?.querySelector('button')?.focus();}};
+  document.addEventListener('mousedown',close);document.addEventListener('keydown',escape);
+  firstLink.current?.focus();
+  return()=>{document.removeEventListener('mousedown',close);document.removeEventListener('keydown',escape);};
+ },[open]);
+ const download=(key:'mac'|'windows')=>{const item=DOWNLOADS[key];trackEvent(item.event,{version:'0.1.1',architecture:item.architecture,format:item.format});};
+ return <div className="download-menu-wrap" ref={wrapper}><Button variant="ghost" className="download-menu-button" aria-label={t.downloadShort} title={t.downloadShort} aria-expanded={open} aria-controls="desktop-download-menu" onClick={()=>setOpen(value=>!value)}><Download size={17}/><span className="download-menu-label">{t.downloadShort}</span></Button>{open&&<div id="desktop-download-menu" className="download-menu-popover glass" role="menu" aria-label={t.downloadHeading}><strong>{t.downloadHeading}</strong><a ref={firstLink} role="menuitem" href={DOWNLOADS.mac.href} target="_blank" rel="noreferrer" onClick={()=>download('mac')}><span>{t.downloadMac}</span><small>{t.macDownloadMeta}</small></a><a role="menuitem" href={DOWNLOADS.windows.href} target="_blank" rel="noreferrer" onClick={()=>download('windows')}><span>{t.downloadWindows}</span><small>{t.windowsDownloadMeta}</small></a></div>}</div>;
 }

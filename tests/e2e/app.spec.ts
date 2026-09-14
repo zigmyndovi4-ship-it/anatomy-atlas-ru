@@ -180,6 +180,18 @@ test('analytics stays disabled in local Playwright web runs', async ({page}) => 
 
 test('desktop download links are web-only, accessible, and emit safe events', async ({page}) => {
   await page.goto('/');
+  const headerDownload=page.getByRole('button', {name: 'Скачать'});
+  await expect(headerDownload).toBeVisible();
+  await headerDownload.click();
+  await expect(page.getByRole('menu', {name: 'Скачать приложение'})).toBeVisible();
+  await expect(page.getByRole('menuitem', {name: /Скачать для macOS/})).toBeVisible();
+  await expect(page.getByRole('menuitem', {name: /Скачать для Windows/})).toBeVisible();
+  await page.keyboard.press('Escape');
+  await expect(page.getByRole('menu', {name: 'Скачать приложение'})).toBeHidden();
+  await expect(headerDownload).toBeFocused();
+  await headerDownload.click();
+  await expect(page.getByRole('menuitem', {name: /Скачать для macOS/})).toBeFocused();
+  await page.keyboard.press('Escape');
   await page.getByRole('button', {name: 'Об атласе'}).click();
   const mac=page.getByRole('link', {name: /Скачать для macOS/});
   const windows=page.getByRole('link', {name: /Скачать для Windows/});

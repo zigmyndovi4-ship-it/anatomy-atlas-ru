@@ -84,6 +84,8 @@ export const UI = {
     windowsDownloadMeta: 'x64 · EXE',
     unsignedBuilds: 'Current desktop builds are unsigned and may show a system warning during installation.',
     releaseDetails: 'Release details',
+    downloadShort: 'Download',
+    downloadHeading: 'Download the desktop app',
   },
   ru: {
     interactiveAnatomy: 'ИНТЕРАКТИВНАЯ АНАТОМИЯ',
@@ -166,6 +168,8 @@ export const UI = {
     windowsDownloadMeta: 'x64 · EXE',
     unsignedBuilds: 'Текущие desktop-сборки не подписаны и могут показывать системное предупреждение при установке.',
     releaseDetails: 'Подробнее о релизе',
+    downloadShort: 'Скачать',
+    downloadHeading: 'Скачать приложение',
   },
 } as const;
 
