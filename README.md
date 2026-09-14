@@ -4,6 +4,8 @@ An interactive 3D anatomy explorer built with React, Three.js, and shadcn/ui. Ta
 
 **[Explore the live demo](https://human-atlas-seven.vercel.app)**
 
+The public GitHub Pages deployment uses privacy-friendly, production-only Umami web analytics. See [docs/ANALYTICS.md](docs/ANALYTICS.md) for the tracked events and data policy.
+
 ## Explore
 
 - Orbit, zoom, and select structures directly on the body.
