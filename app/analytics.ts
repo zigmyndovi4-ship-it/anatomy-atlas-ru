@@ -26,7 +26,7 @@ function isTauri(runtime:AnalyticsRuntime) {
 }
 
 export function createAnalytics(runtime:AnalyticsRuntime) {
-  const enabled=runtime.production&&runtime.deploymentTarget==='github-pages'&&!isTauri(runtime);
+  const enabled=runtime.production&&runtime.deploymentTarget==='pages'&&!isTauri(runtime);
 
   function initialize() {
     if(!enabled||!runtime.document)return false;

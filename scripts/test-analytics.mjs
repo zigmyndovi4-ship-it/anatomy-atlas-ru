@@ -15,19 +15,19 @@ function fakeWindow(umami) {
   return {navigator:{userAgent:'Mozilla/5.0'},umami};
 }
 
-const local=createAnalytics({production:false,deploymentTarget:'github-pages',window:fakeWindow(),document:fakeDocument()});
+const local=createAnalytics({production:false,deploymentTarget:'pages',window:fakeWindow(),document:fakeDocument()});
 assert.equal(local.enabled,false);
 assert.equal(local.initialize(),false);
 assert.doesNotThrow(()=>local.trackEvent('about_opened',{language:'ru'}));
 
-const missingClient=createAnalytics({production:true,deploymentTarget:'github-pages',window:fakeWindow(),document:fakeDocument()});
+const missingClient=createAnalytics({production:true,deploymentTarget:'pages',window:fakeWindow(),document:fakeDocument()});
 assert.equal(missingClient.enabled,true);
 assert.equal(missingClient.initialize(),true);
 assert.doesNotThrow(()=>missingClient.trackEvent('search',{language:'ru',result_count:2,query_length:4}));
 
 const calls=[];
 const document=fakeDocument();
-const production=createAnalytics({production:true,deploymentTarget:'github-pages',window:fakeWindow({track:(name,data)=>calls.push({name,data})}),document});
+const production=createAnalytics({production:true,deploymentTarget:'pages',window:fakeWindow({track:(name,data)=>calls.push({name,data})}),document});
 assert.equal(production.initialize(),true);
 assert.equal(document.scripts.length,1);
 assert.equal(document.scripts[0].src,UMAMI_SCRIPT);
@@ -36,7 +36,7 @@ assert.equal(document.scripts[0].dataset.websiteId,UMAMI_WEBSITE_ID);
 production.trackEvent('structure_opened',{conceptId:'FMA1',language:'ru',source:'3d'});
 assert.deepEqual(calls,[{name:'structure_opened',data:{conceptId:'FMA1',language:'ru',source:'3d'}}]);
 
-const tauri=createAnalytics({production:true,deploymentTarget:'github-pages',window:{...fakeWindow(),__TAURI_INTERNALS__:{}},document:fakeDocument()});
+const tauri=createAnalytics({production:true,deploymentTarget:'pages',window:{...fakeWindow(),__TAURI_INTERNALS__:{}},document:fakeDocument()});
 assert.equal(tauri.enabled,false);
 assert.equal(tauri.initialize(),false);
 assert.doesNotThrow(()=>tauri.trackEvent('about_opened',{language:'en'}));
