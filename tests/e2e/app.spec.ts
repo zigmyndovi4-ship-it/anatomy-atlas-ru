@@ -177,3 +177,26 @@ test('analytics stays disabled in local Playwright web runs', async ({page}) => 
   await expect(page.locator(`script[data-website-id="4e14b236-ced8-49c3-84ab-d3183031b210"]`)).toHaveCount(0);
   expect(umamiRequests).toEqual([]);
 });
+
+test('desktop download links are web-only, accessible, and emit safe events', async ({page}) => {
+  await page.goto('/');
+  await page.getByRole('button', {name: 'Об атласе'}).click();
+  const mac=page.getByRole('link', {name: /Скачать для macOS/});
+  const windows=page.getByRole('link', {name: /Скачать для Windows/});
+  await expect(mac).toHaveAttribute('href', 'https://github.com/zigmyndovi4-ship-it/anatomy-atlas-ru/releases/download/v0.1.1/Anatomy.Atlas.RU_0.1.1_aarch64.dmg');
+  await expect(windows).toHaveAttribute('href', 'https://github.com/zigmyndovi4-ship-it/anatomy-atlas-ru/releases/download/v0.1.1/Anatomy.Atlas.RU_0.1.1_x64-setup.exe');
+  await expect(mac).toHaveAttribute('target', '_blank');
+  await expect(windows).toHaveAttribute('target', '_blank');
+  await expect(page.getByText(/Текущие desktop-сборки/)).toBeVisible();
+  await mac.focus();
+  await expect(mac).toBeFocused();
+});
+
+test('desktop download block is hidden in Tauri runtime', async ({page}) => {
+  await page.addInitScript(() => {
+    (window as Window & {__TAURI_INTERNALS__?: unknown}).__TAURI_INTERNALS__ = {};
+  });
+  await page.goto('/');
+  await page.getByRole('button', {name: 'Об атласе'}).click();
+  await expect(page.locator('.download-section')).toHaveCount(0);
+});

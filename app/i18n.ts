@@ -77,6 +77,13 @@ export const UI = {
     originalGeometry: 'Original geometry & metadata',
     sourceProject: 'Human Atlas source project',
     publication: 'Read the BodyParts3D publication',
+    desktopDownloads: 'Desktop app',
+    downloadMac: 'Download for macOS',
+    downloadWindows: 'Download for Windows',
+    macDownloadMeta: 'Apple Silicon · DMG',
+    windowsDownloadMeta: 'x64 · EXE',
+    unsignedBuilds: 'Current desktop builds are unsigned and may show a system warning during installation.',
+    releaseDetails: 'Release details',
   },
   ru: {
     interactiveAnatomy: 'ИНТЕРАКТИВНАЯ АНАТОМИЯ',
@@ -152,6 +159,13 @@ export const UI = {
     originalGeometry: 'Исходная геометрия и метаданные',
     sourceProject: 'Исходный проект Human Atlas',
     publication: 'Публикация о BodyParts3D',
+    desktopDownloads: 'Приложение для компьютера',
+    downloadMac: 'Скачать для macOS',
+    downloadWindows: 'Скачать для Windows',
+    macDownloadMeta: 'Apple Silicon · DMG',
+    windowsDownloadMeta: 'x64 · EXE',
+    unsignedBuilds: 'Текущие desktop-сборки не подписаны и могут показывать системное предупреждение при установке.',
+    releaseDetails: 'Подробнее о релизе',
   },
 } as const;
 

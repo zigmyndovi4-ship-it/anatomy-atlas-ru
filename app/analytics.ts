@@ -25,6 +25,10 @@ function isTauri(runtime:AnalyticsRuntime) {
   return !!win && (!!win.__TAURI__||!!win.__TAURI_INTERNALS__||win.navigator.userAgent.toLowerCase().includes('tauri'));
 }
 
+export function isTauriApp(win:AnalyticsWindow|undefined=typeof window==='undefined'?undefined:window as AnalyticsWindow) {
+  return isTauri({window:win,production:false});
+}
+
 export function createAnalytics(runtime:AnalyticsRuntime) {
   const enabled=runtime.production&&runtime.deploymentTarget==='pages'&&!isTauri(runtime);
 

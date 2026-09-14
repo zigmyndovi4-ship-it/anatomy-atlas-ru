@@ -35,6 +35,8 @@ assert.equal(document.scripts[0].defer,true);
 assert.equal(document.scripts[0].dataset.websiteId,UMAMI_WEBSITE_ID);
 production.trackEvent('structure_opened',{conceptId:'FMA1',language:'ru',source:'3d'});
 assert.deepEqual(calls,[{name:'structure_opened',data:{conceptId:'FMA1',language:'ru',source:'3d'}}]);
+production.trackEvent('download_mac',{version:'0.1.1',architecture:'arm64',format:'dmg'});
+assert.deepEqual(calls[1],{name:'download_mac',data:{version:'0.1.1',architecture:'arm64',format:'dmg'}});
 
 const tauri=createAnalytics({production:true,deploymentTarget:'pages',window:{...fakeWindow(),__TAURI_INTERNALS__:{}},document:fakeDocument()});
 assert.equal(tauri.enabled,false);
